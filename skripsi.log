@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.7.16)  17 JUL 2025 11:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.7.16)  18 JUL 2025 13:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/avan/Latex/tugas-akhir/skripsi/skripsi.tex
-(/home/avan/Latex/tugas-akhir/skripsi/skripsi.tex
+**/home/avan/Latex/skripsi/skripsi.tex
+(/home/avan/Latex/skripsi/skripsi.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -162,31 +162,35 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \float@box=\box54
 \@float@everytoks=\toks22
 \@floatcapt=\box55
+) (/usr/share/texlive/texmf-dist/tex/latex/changepage/changepage.sty
+Package: changepage 2009/10/20 v1.0c check page and change page layout
+\c@cp@cntr=\count274
+\cp@tempcnt=\count275
 )
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 22.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 23.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 ) (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count274
+\l__color_backend_stack_int=\count276
 \l__pdf_internal_box=\box56
 ) (./skripsi.aux)
 \openout1 = `skripsi.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -224,16 +228,16 @@ LaTeX Font Info:    ... okay on input line 22.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count275
+\scratchcounter=\count277
 \scratchdimen=\dimen176
 \scratchbox=\box57
-\nofMPsegments=\count276
-\nofMParguments=\count277
+\nofMPsegments=\count278
+\nofMParguments=\count279
 \everyMPshowfont=\toks23
-\MPscratchCnt=\count278
+\MPscratchCnt=\count280
 \MPscratchDim=\dimen177
-\MPnumerator=\count279
-\makeMPintoPDFobject=\count280
+\MPnumerator=\count281
+\makeMPintoPDFobject=\count282
 \everyMPtoPDFconversion=\toks24
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -243,94 +247,97 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 \big@size=\dimen178
 Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: changepage package is loaded.
+\caption@adjustwidth@hsize=\dimen179
+\caption@adjustwidth@linewidth=\dimen180
 Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 46.
+LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line 47.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line 46.
+LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line 47.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line 46.
+LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line 47.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
-LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line 46.
+LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line 47.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 46.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 47.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 46.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 47.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 46.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 47.
 
-Overfull \hbox (5.61551pt too wide) in paragraph at lines 65--66
+Overfull \hbox (5.61551pt too wide) in paragraph at lines 66--67
 \OT1/ptm/m/n/12 Hasil wawan-cara me-nun-jukkan bahwa pe-serta didik men-galami ke-suli-tan dalam
  []
 
 [5
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}]
-Overfull \hbox (21.15446pt too wide) in paragraph at lines 83--84
+Overfull \hbox (21.15446pt too wide) in paragraph at lines 84--85
 \OT1/ptm/m/n/12 dalam me-dia pem-be-la-jaran. Pemil-i-han ma-teri di-lakukan sete-lah peneliti mewawan-
  []
 
 [6]
-Underfull \hbox (badness 1394) in paragraph at lines 97--98
+Underfull \hbox (badness 1394) in paragraph at lines 98--99
 []|\OT1/ptm/b/n/12 Kompetensi Inti 4 (Keter-ampi-
  []
 
 
-Underfull \hbox (badness 2073) in paragraph at lines 99--99
+Underfull \hbox (badness 2073) in paragraph at lines 100--100
 \OT1/ptm/m/n/12 tahuan (fak-tual, kon-sep-tual, dan
  []
 
 
-Underfull \hbox (badness 2818) in paragraph at lines 99--99
+Underfull \hbox (badness 2818) in paragraph at lines 100--100
 \OT1/ptm/m/n/12 prose-du-ral) berdasarkan rasa in-
  []
 
 
-Underfull \hbox (badness 1009) in paragraph at lines 99--99
+Underfull \hbox (badness 1009) in paragraph at lines 100--100
 \OT1/ptm/m/n/12 gin tahunya ten-tang ilmu penge-
  []
 
 
-Underfull \hbox (badness 3291) in paragraph at lines 99--99
+Underfull \hbox (badness 3291) in paragraph at lines 100--100
 \OT1/ptm/m/n/12 tahuan, teknologi, seni, bu-daya
  []
 
 
-Underfull \hbox (badness 1888) in paragraph at lines 99--100
+Underfull \hbox (badness 1888) in paragraph at lines 100--101
 []|\OT1/ptm/m/n/12 Mengolah, menyaji dan menalar
  []
 
 
-Underfull \hbox (badness 7256) in paragraph at lines 99--100
+Underfull \hbox (badness 7256) in paragraph at lines 100--101
 \OT1/ptm/m/n/12 dalam ranah konkret (meng-gu-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 99--100
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
 \OT1/ptm/m/n/12 nakan, men-gu-rai, merangkai,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 99--100
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
 \OT1/ptm/m/n/12 menghi-tung, menggam-bar, dan
  []
 
 
-Underfull \hbox (badness 3229) in paragraph at lines 99--100
+Underfull \hbox (badness 3229) in paragraph at lines 100--101
 \OT1/ptm/m/n/12 men-garang) sesuai den-gan yang
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 103--104
+Underfull \hbox (badness 10000) in paragraph at lines 104--105
 []|\OT1/ptm/m/n/12 Menyelesaikan masalah yang
  []
 
@@ -338,53 +345,94 @@ Underfull \hbox (badness 10000) in paragraph at lines 103--104
 <images/bangun-dan-jaring.png, id=18, 410.53375pt x 338.26375pt>
 File: images/bangun-dan-jaring.png Graphic file (type png)
 <use images/bangun-dan-jaring.png>
-Package pdftex.def Info: images/bangun-dan-jaring.png  used on input line 151.
+Package pdftex.def Info: images/bangun-dan-jaring.png  used on input line 152.
 (pdftex.def)             Requested size: 170.71393pt x 140.6607pt.
 <images/hasil-geogebra.png, id=19, 857.2025pt x 678.535pt>
 File: images/hasil-geogebra.png Graphic file (type png)
 <use images/hasil-geogebra.png>
-Package pdftex.def Info: images/hasil-geogebra.png  used on input line 159.
+Package pdftex.def Info: images/hasil-geogebra.png  used on input line 160.
 (pdftex.def)             Requested size: 170.71393pt x 135.12479pt.
  [9 <./images/bangun-dan-jaring.png>]
 <images/ui-1.jpg, id=24, 722.7pt x 1606.0pt>
 File: images/ui-1.jpg Graphic file (type jpg)
 <use images/ui-1.jpg>
-Package pdftex.def Info: images/ui-1.jpg  used on input line 168.
+Package pdftex.def Info: images/ui-1.jpg  used on input line 169.
 (pdftex.def)             Requested size: 128.0387pt x 284.534pt.
 <images/ui-2.jpg, id=25, 722.7pt x 1606.0pt>
 File: images/ui-2.jpg Graphic file (type jpg)
 <use images/ui-2.jpg>
-Package pdftex.def Info: images/ui-2.jpg  used on input line 169.
+Package pdftex.def Info: images/ui-2.jpg  used on input line 170.
 (pdftex.def)             Requested size: 128.0387pt x 284.534pt.
 <images/ui-3.jpg, id=26, 722.7pt x 1606.0pt>
 File: images/ui-3.jpg Graphic file (type jpg)
 <use images/ui-3.jpg>
-Package pdftex.def Info: images/ui-3.jpg  used on input line 170.
+Package pdftex.def Info: images/ui-3.jpg  used on input line 171.
 (pdftex.def)             Requested size: 128.0387pt x 284.534pt.
- [10 <./images/hasil-geogebra.png>] [11 <./images/ui-1.jpg> <./images/ui-2.jpg> <./images/ui-3.jpg>] [12] [13]
-Overfull \hbox (2.07205pt too wide) in paragraph at lines 221--224
+ [10 <./images/hasil-geogebra.png>] [11 <./images/ui-1.jpg> <./images/ui-2.jpg> <./images/ui-3.jpg>] [12] [13] [14]
+Overfull \hbox (2.07205pt too wide) in paragraph at lines 298--317
 | \OT1/ptm/m/n/12 Kual-i-tas me-dia pem-be-la-jaran se-cara ke-selu-ruhan dini-lai berdasarkan skor rata-
  []
 
-[14] [15] (./skripsi.aux)
+
+Underfull \hbox (badness 10000) in paragraph at lines 298--317
+
+ []
+
+[15] [16]
+File: images/ui-1.jpg Graphic file (type jpg)
+<use images/ui-1.jpg>
+Package pdftex.def Info: images/ui-1.jpg  used on input line 348.
+(pdftex.def)             Requested size: 128.0387pt x 284.534pt.
+<images/petunjuk.jpg, id=53, 722.7pt x 1606.0pt>
+File: images/petunjuk.jpg Graphic file (type jpg)
+<use images/petunjuk.jpg>
+Package pdftex.def Info: images/petunjuk.jpg  used on input line 356.
+(pdftex.def)             Requested size: 106.69783pt x 237.09125pt.
+ [17]
+<images/menu.jpg, id=58, 722.7pt x 1606.0pt>
+File: images/menu.jpg Graphic file (type jpg)
+<use images/menu.jpg>
+Package pdftex.def Info: images/menu.jpg  used on input line 364.
+(pdftex.def)             Requested size: 85.35696pt x 189.67299pt.
+<images/materi1.jpg, id=59, 722.7pt x 1606.0pt>
+File: images/materi1.jpg Graphic file (type jpg)
+<use images/materi1.jpg>
+Package pdftex.def Info: images/materi1.jpg  used on input line 373.
+(pdftex.def)             Requested size: 85.35696pt x 189.67299pt.
+<images/materi2.jpg, id=60, 722.7pt x 1606.0pt>
+File: images/materi2.jpg Graphic file (type jpg)
+<use images/materi2.jpg>
+Package pdftex.def Info: images/materi2.jpg  used on input line 374.
+(pdftex.def)             Requested size: 85.35696pt x 189.67299pt.
+<images/materi3.jpg, id=61, 722.7pt x 1606.0pt>
+File: images/materi3.jpg Graphic file (type jpg)
+<use images/materi3.jpg>
+Package pdftex.def Info: images/materi3.jpg  used on input line 375.
+(pdftex.def)             Requested size: 85.35696pt x 189.67299pt.
+<images/materi4.jpg, id=62, 722.7pt x 1606.0pt>
+File: images/materi4.jpg Graphic file (type jpg)
+<use images/materi4.jpg>
+Package pdftex.def Info: images/materi4.jpg  used on input line 376.
+(pdftex.def)             Requested size: 85.35696pt x 189.67299pt.
+ [18 <./images/petunjuk.jpg> <./images/menu.jpg>] [19 <./images/materi1.jpg> <./images/materi2.jpg> <./images/materi3.jpg> <./images/materi4.jpg>] (./skripsi.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 4035 strings out of 474222
- 70234 string characters out of 5748733
- 1933975 words of memory out of 5000000
- 26265 multiletter control sequences out of 15000+600000
- 570325 words of font info for 59 fonts, out of 8000000 for 9000
+ 4151 strings out of 474222
+ 72561 string characters out of 5748733
+ 1937975 words of memory out of 5000000
+ 26371 multiletter control sequences out of 15000+600000
+ 572105 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,11n,65p,803b,678s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on skripsi.pdf (11 pages, 921687 bytes).
+ 57i,11n,65p,791b,678s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on skripsi.pdf (15 pages, 2818003 bytes).
 PDF statistics:
- 63 PDF objects out of 1000 (max. 8388607)
- 37 compressed objects within 1 object stream
+ 97 PDF objects out of 1000 (max. 8388607)
+ 55 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
 

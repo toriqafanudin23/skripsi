@@ -10,6 +10,7 @@
 \usepackage{booktabs}
 \usepackage{caption}
 \usepackage{float}
+\usepackage{changepage}
 \renewcommand{\figurename}{Gambar}
 \captionsetup[table]{labelsep=period}
 \captionsetup[figure]{labelsep=period}
@@ -195,13 +196,135 @@
     \hspace{1cm}Berdasarkan hasil validasi dari ahli materi dan ahli media, terdapat beberapa masukan terhadap media pembelajaran yang dikembangkan sebelum dilakukan uji coba kepada peserta didik. Selanjutnya, dilakukan revisi berdasarkan masukan tersebut hingga media pembelajaran masuk dalam kategori baik atau dinyatakan layak. Evaluasi yang dilakukan mencakup hasil validasi dari ahli materi dan ahli media, serta angket hasil uji coba media oleh peserta didik. Penilaian tersebut dijadikan acuan dalam menentukan kelayakan media pembelajaran yang dikembangkan.
 
 \end{enumerate}
-
+% ANALISIS DATA
 \textbf{B. Analisis Data}
 
 \hspace{1cm}Analisis data merupakan tahap lanjutan dari tahap evaluasi dalam model pengembangan ADDIE. Data yang diperoleh dalam penelitian ini berupa data kualitatif yang kemudian dikonversi menjadi data kuantitatif. Analisis data dilakukan berdasarkan lembar penilaian dari ahli materi, ahli media, dan respons peserta didik. Media pembelajaran yang dikembangkan dinyatakan layak apabila memperoleh skor rata-rata penilaian dari ahli materi, ahli media, dan respons peserta didik minimal pada kategori “baik”. Berikut ini adalah hasil analisis data tersebut:
 \begin{enumerate}
     \item Analisis Penilaian Angket Ahli Materi\\
-    \hspace*{1cm}Berdasarkan masukan dari ahli materi, perbaikan yang dilakukan telah sesuai dengan saran dan rekomendasi yang diberikan. Hasil dari perbaikan tersebut disajikan sebagai berikut.
+    \hspace*{1cm}Validasi oleh ahli materi dilakukan untuk memperoleh penilaian berupa skor, komentar, dan masukan terhadap materi yang telah dikembangkan dalam media pembelajaran berbasis augmented reality. Komentar dan saran dari validator digunakan untuk menyempurnakan media pembelajaran agar menghasilkan produk akhir yang layak digunakan. Kelayakan materi dalam media pembelajaran ini dinilai oleh dua orang ahli, yaitu Bapak Aan Hendroanto, M.Sc., dosen Pendidikan Matematika UAD, dan Ibu Wiwik Indarwati, S.Pd., pendidik Matematika di SMP Negeri 3 Kalikajar. Hasil penilaian kelayakan media pembelajaran disajikan pada Tabel \ref{penilaianmateri}.
+    \begin{table}[H]
+        \begin{adjustwidth}{-2cm}{-2cm}
+            \centering
+            \caption{Hasil Penilaian Media Pembelajaran Menurut Ahli Media}
+            \label{penilaianmateri}
+            \begin{tabular}{|c|c|c|c|c|c|}
+                \hline
+                \textbf{No} & \textbf{Validator} & \textbf{Skor} & \textbf{Rata-rata Skor} & \textbf{Kriteria Data Kuantitatif}\\
+                \hline
+                1 & Aan Hendroanto, M.Sc. & 0 & 0 & Sangat Baik\\
+                2 & Wiwik Indarwati, S.Pd. & 0 & 0 & Sangat Baik\\
+                \hline
+                \multicolumn{2}{|c|}{Jumlah Skor} & 0 & & \\
+                \hline
+                \multicolumn{2}{|c|}{Rata-rata Keseluruhan} & 0 & 0 & Sangat Baik\\
+                \hline
+            \end{tabular}
+        \end{adjustwidth}
+    \end{table}
+
+    \begin{table}[H]
+        \centering
+        \caption{Kriteria Penilaian Ahli Materi}
+        \begin{tabular}{|c|c|c|}
+            \hline
+            \textbf{No} & \textbf{Rentang Skor \( (i) \) Kuantitatif} & \textbf{Kategori Kualitatif}\\
+            \hline
+            1 & \( \bar{x} > 4{,}21 \) & Sangat Baik\\
+            2 & \( 3{,}41 < \bar{x} \leq 4{,}2 \) & Baik\\
+            3 & \( 2{,}60 < \bar{x} \leq 3{,}41 \) & Cukup Baik\\
+            4 & \( 1{,}80 < \bar{x} \leq 2{,}60 \) & Kurang\\
+            5 & \( \bar{x} \leq 1{,80} \) & Sangat Kurang\\
+            \hline 
+        \end{tabular}
+    \end{table}
+
+    \item Analisis Penilaian Angket Ahli Media\\
+    \hspace*{1cm}Validasi oleh ahli media dilakukan untuk memperoleh penilaian berupa skor, komentar, dan masukan terhadap media pembelajaran yang dikembangkan. Komentar dan saran dari validator media digunakan untuk menyempurnakan media pembelajaran agar menghasilkan produk akhir yang layak digunakan. Kelayakan media pembelajaran ini dinilai oleh dua orang ahli media, yaitu Bapak Anggit Prabowo, M.Pd., dosen Pendidikan Matematika UAD, dan Ibu Wiwik Indarwati, S.Pd., pendidik Matematika di SMP Negeri 3 Kalikajar. Hasil penilaian kelayakan oleh ahli media disajikan pada Tabel~\ref{penilaianmedia}.
+    \begin{table}[H]
+        \begin{adjustwidth}{-2cm}{-2cm}
+            \centering
+            \caption{Hasil Penilaian Media Pembelajaran Menurut Ahli Media}
+            \label{penilaianmedia}
+            \begin{tabular}{|c|c|c|c|c|c|}
+                \hline
+                \textbf{No} & \textbf{Validator} & \textbf{Skor} & \textbf{Rata-rata Skor} & \textbf{Kriteria Data Kuantitatif}\\
+                \hline
+                1 & Anggit Prabowo, M.Pd. & 0 & 0 & Sangat Baik\\
+                2 & Wiwik Indarwati, S.Pd. & 0 & 0 & Sangat Baik\\
+                \hline
+                \multicolumn{2}{|c|}{Jumlah Skor} & 0 & & \\
+                \hline
+                \multicolumn{2}{|c|}{Rata-rata Keseluruhan} & 0 & 0 & Sangat Baik\\
+                \hline
+            \end{tabular}
+        \end{adjustwidth}
+    \end{table}
+
+    \begin{table}[H]
+        \centering
+        \caption{Kriteria Penilaian Ahli Media}
+        \begin{tabular}{|c|c|c|}
+            \hline
+            \textbf{No} & \textbf{Rentang Skor \( (i) \) Kuantitatif} & \textbf{Kategori Kualitatif}\\
+            \hline
+            1 & \( \bar{x} > 4{,}21 \) & Sangat Baik\\
+            2 & \( 3{,}41 < \bar{x} \leq 4{,}2 \) & Baik\\
+            3 & \( 2{,}60 < \bar{x} \leq 3{,}41 \) & Cukup Baik\\
+            4 & \( 1{,}80 < \bar{x} \leq 2{,}60 \) & Kurang\\
+            5 & \( \bar{x} \leq 1{,80} \) & Sangat Kurang\\
+            \hline 
+        \end{tabular}
+    \end{table}
+
+    \item Analisis Penilaian Angket Respons Peserta Didik\\
+    \hspace*{1cm}Respons peserta didik diperoleh melalui uji coba kelas kecil dan uji coba kelas besar yang bertujuan untuk mendapatkan penilaian berupa skor, komentar, dan masukan terhadap media pembelajaran yang telah dikembangkan. Respons tersebut dianalisis berdasarkan hasil angket yang disebarkan kepada peserta didik kelas VIII-D SMP Negeri 3 Kalikajar. Kriteria penilaian angket respons peserta didik disajikan pada Tabel \ref{kriteriaresponsiswa}.
+    \begin{table}[H]
+        \centering
+        \caption{Kriteria Penilaian Respon Peserta Didik}
+        \label{kriteriaresponsiswa}
+        \begin{tabular}{|c|c|c|}
+            \hline
+            \textbf{No} & \textbf{Rentang Skor \( (i) \) Kuantitatif} & \textbf{Kategori Kualitatif}\\
+            \hline
+            1 & \( \bar{x} > 4{,}21 \) & Sangat Baik\\
+            2 & \( 3{,}41 < \bar{x} \leq 4{,}2 \) & Baik\\
+            3 & \( 2{,}60 < \bar{x} \leq 3{,}41 \) & Cukup Baik\\
+            4 & \( 1{,}80 < \bar{x} \leq 2{,}60 \) & Kurang\\
+            5 & \( \bar{x} \leq 1{,80} \) & Sangat Kurang\\
+            \hline 
+        \end{tabular}
+    \end{table}
+    \item Kualitas Produk Secara Keseluruhan\\
+    \hspace*{1cm}Kualitas media pembelajaran secara keseluruhan dinilai berdasarkan skor rata-rata dari ahli materi, ahli media, uji coba kelas kecil, dan uji coba kelas besar. Hasil perhitungan rata-rata keseluruhan dari keempat penilaian tersebut disajikan pada Tabel~\ref{ratakeseluruhan}.\\
+    \begin{table}[H]
+        \centering
+        \caption{Hasil Rata-rata Keseluruhan}
+        \label{ratakeseluruhan}
+        \begin{tabular}{|c|c|c|c|}
+            \hline
+            \textbf{No} & \textbf{Sampel Uji Coba} & \textbf{Rata-rata} & \textbf{Kriteria}\\
+            \hline
+            1 & Ahli Materi & 0 & Sangat Baik\\
+            2 & Ahli Media & 0 & Sangat Baik\\
+            3 & Uji Coba Kelas Kecil & 0 & Sangat Baik\\
+            4 & Uji Coba Kelas Besar & 0 & Sangat Baik\\
+            \hline
+            \multicolumn{2}{|c|}{Rata-rata Keseluruhan} & 0 & Sangat Baik\\
+            \hline
+            
+        \end{tabular}
+    \end{table}
+    \hspace*{1cm}Berdasarkan Tabel~\ref{ratakeseluruhan}, terlihat bahwa hasil perhitungan rata-rata secara keseluruhan dari ahli materi, ahli media, uji coba kelas kecil, dan uji coba kelas besar memperoleh skor rata-rata sebesar XXX dan termasuk dalam kategori sangat baik. Dengan demikian, media pembelajaran berbasis augmented reality yang dikembangkan dinyatakan layak untuk digunakan.
+
+\end{enumerate}
+% REVISI PRODUK
+\textbf{C. Revisi Produk}
+
+\hspace*{1cm}Revisi produk merupakan langkah penting dalam pengembangan media pembelajaran. Revisi dilakukan apabila masih terdapat kesalahan atau kekurangan pada produk yang dikembangkan. Pada tahap ini, peneliti melakukan revisi terhadap media pembelajaran berdasarkan saran dan masukan dari ahli materi dan ahli media. Adapun proses revisi dalam pengembangan media pembelajaran ini adalah sebagai berikut:
+\begin{enumerate}
+    \item Revisi Produk Hasil Validasi Ahli Materi\\
+    \hspace*{1cm}Berdasarkan masukan dari ahli materi, perbaikan yang dilakukan telah sesuai dengan saran dan rekomendasi yang diberikan. Hasil perbaikan tersebut disajikan sebagai berikut.
     \begin{enumerate}
         \item Menambahkan kelas dan logo UAD pada halaman sampul.
         \item Menambahkan ilustrasi kubus satuan yang tidak dapat dihitung menggunakan tombol.
@@ -209,32 +332,56 @@
         \item Menambahkan materi mengenai unsur-unsur bangun ruang.
         \item Memperbaiki penggunaan tanda baca pada kalimat-kalimat dalam media.
     \end{enumerate}
-    \item Analisis Penilaian Angket Ahli Media\\
-    \hspace*{1cm}Berdasarkan masukan dari ahli media, baik dari universitas maupun dari sekolah, perbaikan yang dilakukan telah sesuai dengan saran dan rekomendasi yang diberikan. Hasil dari perbaikan tersebut disajikan sebagai berikut.
-    \begin{enumerate}
-        \item Memperbaiki kunci jawaban pada soal yang disediakan.
-        \item Menyesuaikan media agar lebih mudah diakses oleh peserta didik.
-        \item Menambahkan fitur navigasi untuk mempermudah penggunaan.
-    \end{enumerate}
-    \item Analisis Penilaian Angket Respons Peserta Didik\\
-    \hspace*{1cm}Respons peserta didik diperoleh melalui uji coba kelas kecil dan uji coba kelas besar yang bertujuan untuk mendapatkan penilaian berupa skor, komentar, dan masukan terhadap media pembelajaran yang telah dikembangkan. Respons tersebut dianalisis berdasarkan hasil angket yang disebarkan kepada peserta didik kelas VIII-D SMP Negeri 3 Kalikajar. Kriteria penilaian angket respons peserta didik disajikan pada Tabel 3.
-    \item Kualitas Produk Secara Keseluruhan\\
-    \hspace*{1cm}Kualitas media pembelajaran secara keseluruhan dinilai berdasarkan skor rata-rata dari ahli materi, ahli media, uji coba kelas kecil, dan uji coba kelas besar. Hasil perhitungan rata-rata keseluruhan dari keempat penilaian tersebut disajikan pada Tabel 4.\\
-    \hspace*{1cm}Berdasarkan Tabel 4, terlihat bahwa hasil perhitungan rata-rata secara keseluruhan dari ahli materi, ahli media, uji coba kelas kecil, dan uji coba kelas besar memperoleh skor rata-rata sebesar XXX dan termasuk dalam kategori sangat baik. Dengan demikian, media pembelajaran berbasis augmented reality yang dikembangkan dinyatakan layak untuk digunakan.
-
-\end{enumerate}
-
-\textbf{C. Revisi Produk}
-
-\hspace*{1cm}Revisi produk merupakan langkah penting dalam pengembangan media pembelajaran. Revisi dilakukan apabila masih terdapat kesalahan atau kekurangan pada produk yang dikembangkan. Pada tahap ini, peneliti melakukan revisi terhadap media pembelajaran berdasarkan saran dan masukan dari ahli materi dan ahli media. Adapun proses revisi dalam pengembangan media pembelajaran ini adalah sebagai berikut:
-\begin{enumerate}
-    \item Revisi Produk Hasil Validasi Ahli Materi\\
-    \hspace*{1cm}Berdasarkan masukan dari ahli materi, perbaikan yang dilakukan telah sesuai dengan saran dan rekomendasi yang diberikan. Hasil perbaikan tersebut disajikan sebagai berikut.
     \item Revisi Produk Hasil Validasi Ahli Media
     \item Revisi Produk Hasil Uji Coba Kelas Kecil
     \item Revisi Produk Hasil Uji Coba Kelas Besar
 \end{enumerate}
 
 \textbf{D. Kajian Produk Akhir}
+
+\hspace*{1cm}Media pembelajaran yang dikembangkan oleh peneliti disusun dengan isi sebagai berikut:
+\begin{enumerate}
+    \item Halaman Sampul\\
+    \hspace*{1cm}Halaman ini menampilkan judul, judul materi, sasaran, serta nama pengembang.
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width=0.3\textwidth]{images/ui-1.jpg}
+        \caption{Halaman Sampul}
+        \label{fig:sampul}
+    \end{figure}
+    \item Halaman Petunjuk\\
+    \hspace*{1cm}Pada halaman ini, peserta didik dapat mengunduh barcode yang dibutuhkan untuk menampilkan augmented reality (AR) serta berlatih menggunakan AR sebelum memulai pembelajaran.
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width=0.25\textwidth]{images/petunjuk.jpg}
+        \caption{Halaman Petunjuk}
+        \label{fig:petunjuk}
+    \end{figure}
+    \item Halaman Menu\\
+    \hspace*{1cm}Pada halaman ini, peserta didik dapat memilih materi yang ingin dipelajari atau langsung mengerjakan kuis.
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width=0.2\textwidth]{images/menu.jpg}
+        \caption{Halaman Menu}
+        \label{fig:menu}
+    \end{figure}
+
+    \item Halaman Materi\\
+    \hspace*{1cm}Pada halaman materi, peserta didik akan mempelajari dua topik utama, yaitu volume dan luas permukaan bangun ruang. Peserta didik akan melihat bangun ruang yang disajikan dalam bentuk 3D dan augmented reality. Bangun ruang tersebut juga dapat dianimasikan untuk mempermudah pemahaman. Untuk mengevaluasi pemahaman peserta didik, tersedia latihan soal di akhir setiap bab.
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width=0.2\textwidth]{images/materi1.jpg}
+        \includegraphics[width=0.2\textwidth]{images/materi2.jpg}
+        \includegraphics[width=0.2\textwidth]{images/materi3.jpg}
+        \includegraphics[width=0.2\textwidth]{images/materi4.jpg}
+        \caption{Halaman Materi}
+        \label{fig:materi}
+    \end{figure}
+
+    \item Halaman Kuis\\
+    \hspace*{1cm}Pada halaman kuis, disajikan lima soal yang sesuai dengan latihan soal di akhir setiap bab. Terdapat juga penghitung waktu (timer) dengan batas waktu pengerjaan selama 30 menit. Untuk mulai mengerjakan kuis, peserta didik perlu memasukkan kode ujian. Peserta didik dapat menjawab soal dengan mengisi kolom jawaban yang disediakan, serta dapat menyisipkan foto untuk memperkuat jawabannya.
+
+\end{enumerate}
+
 
 \end{document}
