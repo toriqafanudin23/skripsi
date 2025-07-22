@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.7.16)  21 JUL 2025 13:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.7.16)  22 JUL 2025 07:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -507,6 +507,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 148--154
 
  []
 
+<images/jenislimas.png, id=42, 968.61874pt x 297.11pt>
+File: images/jenislimas.png Graphic file (type png)
+<use images/jenislimas.png>
+Package pdftex.def Info: images/jenislimas.png  used on input line 170.
+(pdftex.def)             Requested size: 256.07741pt x 78.5479pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -515,6 +520,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [13 <./images/prismasegitigasiku.png>]
+<images/limasdanjaringnya.png, id=48, 727.71875pt x 459.7175pt>
+File: images/limasdanjaringnya.png Graphic file (type png)
+<use images/limasdanjaringnya.png>
+Package pdftex.def Info: images/limasdanjaringnya.png  used on input line 177.
+(pdftex.def)             Requested size: 256.07741pt x 161.77335pt.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -522,21 +533,21 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[14]
-Overfull \hbox (6.89685pt too wide) in paragraph at lines 184--185
-\T1/ptm/m/n/12 barkan langkah-langkah dasar dalam sis-tem pem-be-la-jaran yang mu-dah dit-er-ap-kan (Cahyadi
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 184--185
+[14 <./images/jenislimas.png> <./images/limasdanjaringnya.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 189--195
 
  []
 
-<images/materi1.jpg, id=50, 722.7pt x 1606.0pt>
-File: images/materi1.jpg Graphic file (type jpg)
-<use images/materi1.jpg>
-Package pdftex.def Info: images/materi1.jpg  used on input line 192.
-(pdftex.def)             Requested size: 85.35696pt x 189.67299pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--202
+
+ []
+
+
+Overfull \hbox (1.183pt too wide) in paragraph at lines 211--213
+\T1/ptm/m/it/12 re-al-ity \T1/ptm/m/n/12 pada perangkat \T1/ptm/m/it/12 An-droid \T1/ptm/m/n/12 ter-hadap pen-ingkatan mo-ti-vasi be-la-jar siswa. Peneli-
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -552,8 +563,54 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[16 <./images/materi1.jpg>]
-Overfull \hbox (3.99377pt too wide) in paragraph at lines 216--218
+[16]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[17]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[18]
+Overfull \hbox (6.89685pt too wide) in paragraph at lines 233--234
+\T1/ptm/m/n/12 barkan langkah-langkah dasar dalam sis-tem pem-be-la-jaran yang mu-dah dit-er-ap-kan (Cahyadi
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 233--234
+
+ []
+
+<images/materi1.jpg, id=67, 722.7pt x 1606.0pt>
+File: images/materi1.jpg Graphic file (type jpg)
+<use images/materi1.jpg>
+Package pdftex.def Info: images/materi1.jpg  used on input line 241.
+(pdftex.def)             Requested size: 85.35696pt x 189.67299pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[19]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[20 <./images/materi1.jpg>]
+Overfull \hbox (3.99377pt too wide) in paragraph at lines 265--267
 \T1/ptm/m/n/12 dahulu melakukan kon-sul-tasi den-gan dosen pem-bimb-ing. Apa-bila me-dia masih
  []
 
@@ -564,93 +621,19 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[17]
-Overfull \hbox (4.2199pt too wide) in paragraph at lines 221--223
+[21]
+Overfull \hbox (4.2199pt too wide) in paragraph at lines 270--272
 \T1/ptm/m/n/12 un-tuk menge-tahui re-spons mereka ter-hadap me-dia pem-be-la-jaran yang sedang dikem-
  []
 
 
-Overfull \hbox (3.76447pt too wide) in paragraph at lines 224--226
+Overfull \hbox (3.76447pt too wide) in paragraph at lines 273--275
 | \T1/ptm/m/n/12 Tahap ter-akhir adalah eval-u-asi ter-hadap me-dia pem-be-la-jaran yang telah dikem-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 224--226
+Underfull \hbox (badness 10000) in paragraph at lines 273--275
 
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[18]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[19]
-Overfull \hbox (15.08095pt too wide) in paragraph at lines 253--255
-\T1/ptm/m/n/12 Ahli me-dia meru-pakan dosen Pen-didikan Matem-atika UAD dan pen-didik Matem-
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[20]
-Overfull \hbox (0.43117pt too wide) in paragraph at lines 271--273
-| \T1/ptm/m/n/12 Wawan-cara meru-pakan salah satu metode pengumpu-lan data yang bertu-
- []
-
-
-Underfull \hbox (badness 2269) in paragraph at lines 292--292
-[]|\T1/ptm/m/n/12 Kemampuan men-dorong rasa keing-in-
- []
-
-
-Underfull \hbox (badness 2221) in paragraph at lines 293--293
-[]|\T1/ptm/m/n/12 Kesesuaian den-gan kaidah ba-hasa in-
- []
-
-
-Overfull \hbox (1.64174pt too wide) in paragraph at lines 297--298
-[]|\T1/ptm/m/n/12 23,24,25,26,27,28| 
- []
-
-
-Overfull \hbox (7.75839pt too wide) in paragraph at lines 282--306
- [][] 
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[21]
-Underfull \hbox (badness 2334) in paragraph at lines 321--321
-[]|\T1/ptm/m/n/12 Kesesuaian den-gan perkem-ban-gan pe-
- []
-
-
-Overfull \hbox (1.64174pt too wide) in paragraph at lines 325--326
-[]|\T1/ptm/m/n/12 20,21,22,23,24,25| 
- []
-
-
-Overfull \hbox (36.21115pt too wide) in paragraph at lines 313--329
- [][] 
  []
 
 
@@ -661,8 +644,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [22]
-Underfull \hbox (badness 10000) in paragraph at lines 340--341
-[]|\T1/ptm/m/n/12 1,2,3,4,5,6,7,8,9,10,11,
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[23]
+Overfull \hbox (15.08095pt too wide) in paragraph at lines 302--304
+\T1/ptm/m/n/12 Ahli me-dia meru-pakan dosen Pen-didikan Matem-atika UAD dan pen-didik Matem-
  []
 
 
@@ -672,15 +663,31 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[23]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
 [24]
+Overfull \hbox (0.43117pt too wide) in paragraph at lines 320--322
+| \T1/ptm/m/n/12 Wawan-cara meru-pakan salah satu metode pengumpu-lan data yang bertu-
+ []
+
+
+Underfull \hbox (badness 2269) in paragraph at lines 341--341
+[]|\T1/ptm/m/n/12 Kemampuan men-dorong rasa keing-in-
+ []
+
+
+Underfull \hbox (badness 2221) in paragraph at lines 342--342
+[]|\T1/ptm/m/n/12 Kesesuaian den-gan kaidah ba-hasa in-
+ []
+
+
+Overfull \hbox (1.64174pt too wide) in paragraph at lines 346--347
+[]|\T1/ptm/m/n/12 23,24,25,26,27,28| 
+ []
+
+
+Overfull \hbox (7.75839pt too wide) in paragraph at lines 331--355
+ [][] 
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -689,12 +696,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [25]
+Underfull \hbox (badness 2334) in paragraph at lines 370--370
+[]|\T1/ptm/m/n/12 Kesesuaian den-gan perkem-ban-gan pe-
+ []
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+
+Overfull \hbox (1.64174pt too wide) in paragraph at lines 374--375
+[]|\T1/ptm/m/n/12 20,21,22,23,24,25| 
+ []
 
 
-Overfull \hbox (5.61551pt too wide) in paragraph at lines 464--465
-\T1/ptm/m/n/12 Hasil wawan-cara me-nun-jukkan bahwa pe-serta didik men-galami ke-suli-tan dalam
+Overfull \hbox (36.21115pt too wide) in paragraph at lines 362--378
+ [][] 
  []
 
 
@@ -705,8 +718,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [26]
-Overfull \hbox (21.15446pt too wide) in paragraph at lines 482--483
-\T1/ptm/m/n/12 dalam me-dia pem-be-la-jaran. Pemil-i-han ma-teri di-lakukan sete-lah peneliti mewawan-
+Underfull \hbox (badness 10000) in paragraph at lines 389--390
+[]|\T1/ptm/m/n/12 1,2,3,4,5,6,7,8,9,10,11,
  []
 
 
@@ -717,63 +730,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [27]
-Underfull \hbox (badness 1394) in paragraph at lines 496--497
-[]|\T1/ptm/b/n/12 Kompetensi Inti 4 (Keter-ampi-
- []
-
-
-Underfull \hbox (badness 2073) in paragraph at lines 498--498
-\T1/ptm/m/n/12 tahuan (fak-tual, kon-sep-tual, dan
- []
-
-
-Underfull \hbox (badness 2818) in paragraph at lines 498--498
-\T1/ptm/m/n/12 prose-du-ral) berdasarkan rasa in-
- []
-
-
-Underfull \hbox (badness 1009) in paragraph at lines 498--498
-\T1/ptm/m/n/12 gin tahunya ten-tang ilmu penge-
- []
-
-
-Underfull \hbox (badness 3291) in paragraph at lines 498--498
-\T1/ptm/m/n/12 tahuan, teknologi, seni, bu-daya
- []
-
-
-Underfull \hbox (badness 1888) in paragraph at lines 498--499
-[]|\T1/ptm/m/n/12 Mengolah, menyaji dan menalar
- []
-
-
-Underfull \hbox (badness 7256) in paragraph at lines 498--499
-\T1/ptm/m/n/12 dalam ranah konkret (meng-gu-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 498--499
-\T1/ptm/m/n/12 nakan, men-gu-rai, merangkai,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 498--499
-\T1/ptm/m/n/12 menghi-tung, menggam-bar, dan
- []
-
-
-Underfull \hbox (badness 3229) in paragraph at lines 498--499
-\T1/ptm/m/n/12 men-garang) sesuai den-gan yang
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 502--503
-[]|\T1/ptm/m/n/12 Menyelesaikan masalah yang
- []
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -790,11 +746,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [29]
-<images/bangun-dan-jaring.png, id=100, 410.53375pt x 338.26375pt>
-File: images/bangun-dan-jaring.png Graphic file (type png)
-<use images/bangun-dan-jaring.png>
-Package pdftex.def Info: images/bangun-dan-jaring.png  used on input line 550.
-(pdftex.def)             Requested size: 170.71393pt x 140.6607pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (5.61551pt too wide) in paragraph at lines 513--514
+\T1/ptm/m/n/12 Hasil wawan-cara me-nun-jukkan bahwa pe-serta didik men-galami ke-suli-tan dalam
+ []
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -804,26 +762,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [30]
-<images/hasil-geogebra.png, id=104, 857.2025pt x 678.535pt>
-File: images/hasil-geogebra.png Graphic file (type png)
-<use images/hasil-geogebra.png>
-Package pdftex.def Info: images/hasil-geogebra.png  used on input line 558.
-(pdftex.def)             Requested size: 170.71393pt x 135.12479pt.
-<images/ui-1.jpg, id=105, 722.7pt x 1606.0pt>
-File: images/ui-1.jpg Graphic file (type jpg)
-<use images/ui-1.jpg>
-Package pdftex.def Info: images/ui-1.jpg  used on input line 567.
-(pdftex.def)             Requested size: 128.0387pt x 284.534pt.
-<images/ui-2.jpg, id=106, 722.7pt x 1606.0pt>
-File: images/ui-2.jpg Graphic file (type jpg)
-<use images/ui-2.jpg>
-Package pdftex.def Info: images/ui-2.jpg  used on input line 568.
-(pdftex.def)             Requested size: 128.0387pt x 284.534pt.
-<images/ui-3.jpg, id=107, 722.7pt x 1606.0pt>
-File: images/ui-3.jpg Graphic file (type jpg)
-<use images/ui-3.jpg>
-Package pdftex.def Info: images/ui-3.jpg  used on input line 569.
-(pdftex.def)             Requested size: 128.0387pt x 284.534pt.
+Overfull \hbox (21.15446pt too wide) in paragraph at lines 531--532
+\T1/ptm/m/n/12 dalam me-dia pem-be-la-jaran. Pemil-i-han ma-teri di-lakukan sete-lah peneliti mewawan-
+ []
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -832,7 +773,64 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[31 <./images/bangun-dan-jaring.png> <./images/hasil-geogebra.png>]
+[31]
+Underfull \hbox (badness 1394) in paragraph at lines 545--546
+[]|\T1/ptm/b/n/12 Kompetensi Inti 4 (Keter-ampi-
+ []
+
+
+Underfull \hbox (badness 2073) in paragraph at lines 547--547
+\T1/ptm/m/n/12 tahuan (fak-tual, kon-sep-tual, dan
+ []
+
+
+Underfull \hbox (badness 2818) in paragraph at lines 547--547
+\T1/ptm/m/n/12 prose-du-ral) berdasarkan rasa in-
+ []
+
+
+Underfull \hbox (badness 1009) in paragraph at lines 547--547
+\T1/ptm/m/n/12 gin tahunya ten-tang ilmu penge-
+ []
+
+
+Underfull \hbox (badness 3291) in paragraph at lines 547--547
+\T1/ptm/m/n/12 tahuan, teknologi, seni, bu-daya
+ []
+
+
+Underfull \hbox (badness 1888) in paragraph at lines 547--548
+[]|\T1/ptm/m/n/12 Mengolah, menyaji dan menalar
+ []
+
+
+Underfull \hbox (badness 7256) in paragraph at lines 547--548
+\T1/ptm/m/n/12 dalam ranah konkret (meng-gu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 547--548
+\T1/ptm/m/n/12 nakan, men-gu-rai, merangkai,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 547--548
+\T1/ptm/m/n/12 menghi-tung, menggam-bar, dan
+ []
+
+
+Underfull \hbox (badness 3229) in paragraph at lines 547--548
+\T1/ptm/m/n/12 men-garang) sesuai den-gan yang
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 551--552
+[]|\T1/ptm/m/n/12 Menyelesaikan masalah yang
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -840,7 +838,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[32 <./images/ui-1.jpg> <./images/ui-2.jpg> <./images/ui-3.jpg>]
+[32]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -849,6 +847,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [33]
+<images/bangun-dan-jaring.png, id=116, 410.53375pt x 338.26375pt>
+File: images/bangun-dan-jaring.png Graphic file (type png)
+<use images/bangun-dan-jaring.png>
+Package pdftex.def Info: images/bangun-dan-jaring.png  used on input line 599.
+(pdftex.def)             Requested size: 170.71393pt x 140.6607pt.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -857,42 +861,25 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [34]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[35]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[36]
-Overfull \hbox (2.07205pt too wide) in paragraph at lines 696--715
-| \T1/ptm/m/n/12 Kual-i-tas me-dia pem-be-la-jaran se-cara ke-selu-ruhan dini-lai berdasarkan skor rata-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 696--715
-
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[37]
+<images/hasil-geogebra.png, id=120, 857.2025pt x 678.535pt>
+File: images/hasil-geogebra.png Graphic file (type png)
+<use images/hasil-geogebra.png>
+Package pdftex.def Info: images/hasil-geogebra.png  used on input line 607.
+(pdftex.def)             Requested size: 170.71393pt x 135.12479pt.
+<images/ui-1.jpg, id=121, 722.7pt x 1606.0pt>
 File: images/ui-1.jpg Graphic file (type jpg)
 <use images/ui-1.jpg>
-Package pdftex.def Info: images/ui-1.jpg  used on input line 746.
+Package pdftex.def Info: images/ui-1.jpg  used on input line 616.
+(pdftex.def)             Requested size: 128.0387pt x 284.534pt.
+<images/ui-2.jpg, id=122, 722.7pt x 1606.0pt>
+File: images/ui-2.jpg Graphic file (type jpg)
+<use images/ui-2.jpg>
+Package pdftex.def Info: images/ui-2.jpg  used on input line 617.
+(pdftex.def)             Requested size: 128.0387pt x 284.534pt.
+<images/ui-3.jpg, id=123, 722.7pt x 1606.0pt>
+File: images/ui-3.jpg Graphic file (type jpg)
+<use images/ui-3.jpg>
+Package pdftex.def Info: images/ui-3.jpg  used on input line 618.
 (pdftex.def)             Requested size: 128.0387pt x 284.534pt.
 
 
@@ -902,13 +889,31 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[38]
-<images/petunjuk.jpg, id=134, 722.7pt x 1606.0pt>
-File: images/petunjuk.jpg Graphic file (type jpg)
-<use images/petunjuk.jpg>
-Package pdftex.def Info: images/petunjuk.jpg  used on input line 754.
-(pdftex.def)             Requested size: 106.69783pt x 237.09125pt.
+[35 <./images/bangun-dan-jaring.png> <./images/hasil-geogebra.png>]
 
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[36 <./images/ui-1.jpg> <./images/ui-2.jpg> <./images/ui-3.jpg>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[37]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[38]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -917,30 +922,22 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [39]
-<images/menu.jpg, id=138, 722.7pt x 1606.0pt>
-File: images/menu.jpg Graphic file (type jpg)
-<use images/menu.jpg>
-Package pdftex.def Info: images/menu.jpg  used on input line 762.
-(pdftex.def)             Requested size: 85.35696pt x 189.67299pt.
-File: images/materi1.jpg Graphic file (type jpg)
-<use images/materi1.jpg>
-Package pdftex.def Info: images/materi1.jpg  used on input line 771.
-(pdftex.def)             Requested size: 85.35696pt x 189.67299pt.
-<images/materi2.jpg, id=139, 722.7pt x 1606.0pt>
-File: images/materi2.jpg Graphic file (type jpg)
-<use images/materi2.jpg>
-Package pdftex.def Info: images/materi2.jpg  used on input line 772.
-(pdftex.def)             Requested size: 85.35696pt x 189.67299pt.
-<images/materi3.jpg, id=140, 722.7pt x 1606.0pt>
-File: images/materi3.jpg Graphic file (type jpg)
-<use images/materi3.jpg>
-Package pdftex.def Info: images/materi3.jpg  used on input line 773.
-(pdftex.def)             Requested size: 85.35696pt x 189.67299pt.
-<images/materi4.jpg, id=141, 722.7pt x 1606.0pt>
-File: images/materi4.jpg Graphic file (type jpg)
-<use images/materi4.jpg>
-Package pdftex.def Info: images/materi4.jpg  used on input line 774.
-(pdftex.def)             Requested size: 85.35696pt x 189.67299pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[40]
+Overfull \hbox (2.07205pt too wide) in paragraph at lines 745--764
+| \T1/ptm/m/n/12 Kual-i-tas me-dia pem-be-la-jaran se-cara ke-selu-ruhan dini-lai berdasarkan skor rata-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 745--764
+
+ []
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -949,22 +946,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[40 <./images/petunjuk.jpg> <./images/menu.jpg>]
-<images/kuis1.jpg, id=145, 722.7pt x 1606.0pt>
-File: images/kuis1.jpg Graphic file (type jpg)
-<use images/kuis1.jpg>
-Package pdftex.def Info: images/kuis1.jpg  used on input line 783.
-(pdftex.def)             Requested size: 106.69783pt x 237.09125pt.
-<images/kuis2.jpg, id=146, 722.7pt x 1606.0pt>
-File: images/kuis2.jpg Graphic file (type jpg)
-<use images/kuis2.jpg>
-Package pdftex.def Info: images/kuis2.jpg  used on input line 784.
-(pdftex.def)             Requested size: 106.69783pt x 237.09125pt.
-<images/kuis3.jpg, id=147, 722.7pt x 1606.0pt>
-File: images/kuis3.jpg Graphic file (type jpg)
-<use images/kuis3.jpg>
-Package pdftex.def Info: images/kuis3.jpg  used on input line 785.
-(pdftex.def)             Requested size: 106.69783pt x 237.09125pt.
+[41]
+File: images/ui-1.jpg Graphic file (type jpg)
+<use images/ui-1.jpg>
+Package pdftex.def Info: images/ui-1.jpg  used on input line 795.
+(pdftex.def)             Requested size: 128.0387pt x 284.534pt.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -973,15 +959,13 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[41 <./images/materi2.jpg> <./images/materi3.jpg> <./images/materi4.jpg>]
+[42]
+<images/petunjuk.jpg, id=151, 722.7pt x 1606.0pt>
+File: images/petunjuk.jpg Graphic file (type jpg)
+<use images/petunjuk.jpg>
+Package pdftex.def Info: images/petunjuk.jpg  used on input line 803.
+(pdftex.def)             Requested size: 106.69783pt x 237.09125pt.
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[42 <./images/kuis1.jpg> <./images/kuis2.jpg> <./images/kuis3.jpg>] (./skripsi.bbl
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -990,6 +974,31 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [43]
+<images/menu.jpg, id=155, 722.7pt x 1606.0pt>
+File: images/menu.jpg Graphic file (type jpg)
+<use images/menu.jpg>
+Package pdftex.def Info: images/menu.jpg  used on input line 811.
+(pdftex.def)             Requested size: 85.35696pt x 189.67299pt.
+File: images/materi1.jpg Graphic file (type jpg)
+<use images/materi1.jpg>
+Package pdftex.def Info: images/materi1.jpg  used on input line 820.
+(pdftex.def)             Requested size: 85.35696pt x 189.67299pt.
+<images/materi2.jpg, id=156, 722.7pt x 1606.0pt>
+File: images/materi2.jpg Graphic file (type jpg)
+<use images/materi2.jpg>
+Package pdftex.def Info: images/materi2.jpg  used on input line 821.
+(pdftex.def)             Requested size: 85.35696pt x 189.67299pt.
+<images/materi3.jpg, id=157, 722.7pt x 1606.0pt>
+File: images/materi3.jpg Graphic file (type jpg)
+<use images/materi3.jpg>
+Package pdftex.def Info: images/materi3.jpg  used on input line 822.
+(pdftex.def)             Requested size: 85.35696pt x 189.67299pt.
+<images/materi4.jpg, id=158, 722.7pt x 1606.0pt>
+File: images/materi4.jpg Graphic file (type jpg)
+<use images/materi4.jpg>
+Package pdftex.def Info: images/materi4.jpg  used on input line 823.
+(pdftex.def)             Requested size: 85.35696pt x 189.67299pt.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -997,7 +1006,23 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[44])
+[44 <./images/petunjuk.jpg> <./images/menu.jpg>]
+<images/kuis1.jpg, id=162, 722.7pt x 1606.0pt>
+File: images/kuis1.jpg Graphic file (type jpg)
+<use images/kuis1.jpg>
+Package pdftex.def Info: images/kuis1.jpg  used on input line 832.
+(pdftex.def)             Requested size: 106.69783pt x 237.09125pt.
+<images/kuis2.jpg, id=163, 722.7pt x 1606.0pt>
+File: images/kuis2.jpg Graphic file (type jpg)
+<use images/kuis2.jpg>
+Package pdftex.def Info: images/kuis2.jpg  used on input line 833.
+(pdftex.def)             Requested size: 106.69783pt x 237.09125pt.
+<images/kuis3.jpg, id=164, 722.7pt x 1606.0pt>
+File: images/kuis3.jpg Graphic file (type jpg)
+<use images/kuis3.jpg>
+Package pdftex.def Info: images/kuis3.jpg  used on input line 834.
+(pdftex.def)             Requested size: 106.69783pt x 237.09125pt.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1005,25 +1030,57 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[45] (./skripsi.aux)
+[45 <./images/materi2.jpg> <./images/materi3.jpg> <./images/materi4.jpg>]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[46 <./images/kuis1.jpg> <./images/kuis2.jpg> <./images/kuis3.jpg>] (./skripsi.bbl
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[47]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[48])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[49] (./skripsi.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 6305 strings out of 474222
- 99893 string characters out of 5748733
+ 6330 strings out of 474222
+ 100555 string characters out of 5748733
  1940975 words of memory out of 5000000
- 28468 multiletter control sequences out of 15000+600000
+ 28493 multiletter control sequences out of 15000+600000
  589959 words of font info for 87 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,12n,65p,1294b,725s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,12n,65p,1916b,725s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on skripsi.pdf (41 pages, 3782024 bytes).
+Output written on skripsi.pdf (45 pages, 3891420 bytes).
 PDF statistics:
- 203 PDF objects out of 1000 (max. 8388607)
- 119 compressed objects within 2 object streams
+ 220 PDF objects out of 1000 (max. 8388607)
+ 128 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 91 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 101 words of extra memory for PDF output out of 10000 (max. 10000000)
 

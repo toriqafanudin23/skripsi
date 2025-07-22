@@ -1,15 +1,15 @@
 # Fdb version 4
-["bibtex skripsi"] 1753078799.36381 "skripsi.aux" "skripsi.bbl" "skripsi" 1753078803.6009 0
-  "./daftar-pustaka.bib" 1753059409.05291 6475 4db2b265d4d28888d8fb614ebe61ecd7 ""
+["bibtex skripsi"] 1753144647.23266 "skripsi.aux" "skripsi.bbl" "skripsi" 1753144899.69906 0
+  "./daftar-pustaka.bib" 1753090015.62744 8140 9122398b099b84a074d5e3a9522e4774 ""
   "/usr/share/texlive/texmf-dist/bibtex/bst/harvard/agsm.bst" 1136766823 25549 e3d0f1ab4ae55e777f7352db30e2c6f7 ""
-  "skripsi.aux" 1753078802.70351 6799 01c661ccf05535cffa35423e15974e09 "pdflatex"
+  "skripsi.aux" 1753144898.74662 7483 cac2e624ae204c5983883a84c89140cb "pdflatex"
   (generated)
   "skripsi.bbl"
   "skripsi.blg"
   (rewritten before read)
-["pdflatex"] 1753078799.73274 "/home/avan/Latex/skripsi/skripsi.tex" "skripsi.pdf" "skripsi" 1753078803.60149 0
+["pdflatex"] 1753144896.19276 "/home/avan/Latex/skripsi/skripsi.tex" "skripsi.pdf" "skripsi" 1753144899.69963 0
   "/etc/texmf/web2c/texmf.cnf" 1752630071.57632 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/avan/Latex/skripsi/skripsi.tex" 1753078794.09443 66219 a295df289af745bafb8074c0e3b851b5 ""
+  "/home/avan/Latex/skripsi/skripsi.tex" 1753144895.68068 76072 887d4348347a1550b3299ae0a4612edd ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/adobe/symbol/psyr.tfm" 1136768653 1408 5937f58aa508ea2cea4901c07d10f5fe ""
@@ -98,11 +98,13 @@
   "images/balokdanjaring.png" 1753070031.54693 37120 3df0b86c24fefe91bd16df8139e557d2 ""
   "images/bangun-dan-jaring.png" 1752655529.53911 130535 8900936a59d3b384b1de9e1552f7efcd ""
   "images/hasil-geogebra.png" 1752712537.60106 77950 20eb90c1462f84172c2630dae8957055 ""
+  "images/jenislimas.png" 1753087428.02197 67797 85857794cd1e2899b5f9c591196c8ebe ""
   "images/jenisprisma.png" 1753076975.1815 51762 86aaf4475d2aaf348086d1fc1d5a39f0 ""
   "images/kubusdanjaring.png" 1753068204.70455 27178 4a850a1f83292270a7472da3bcb5d6ad ""
   "images/kuis1.jpg" 1752884480 286178 65223ccb7ab627b5bd2fba28847eea0f ""
   "images/kuis2.jpg" 1752884494 282800 6323dadc673044222a0625ddcf5cb393 ""
   "images/kuis3.jpg" 1752884506 223181 66ef0846b2684803b9675248b6fd9961 ""
+  "images/limasdanjaringnya.png" 1753087621.11246 42080 d55b209747cabf3a8a7f60015420690f ""
   "images/materi1.jpg" 1752818555 341346 7a18008a90676b31c5d52a9cca0c91a7 ""
   "images/materi2.jpg" 1752818563 253211 4c60ad6c27d4ebb26a8ef9086166e7b3 ""
   "images/materi3.jpg" 1752818749 266525 9d08203535d8164950485ff2c5dd8735 ""
@@ -113,9 +115,9 @@
   "images/ui-1.jpg" 1752713221 264703 1cdfc58ad253b817a799a8a0b872f758 ""
   "images/ui-2.jpg" 1752713244 231018 a266282de3b90287e4c4153dd3486f3d ""
   "images/ui-3.jpg" 1752713306 185192 85d4339371966b6f478f6ff9ed2367d8 ""
-  "skripsi.aux" 1753078802.70351 6799 01c661ccf05535cffa35423e15974e09 "pdflatex"
-  "skripsi.bbl" 1753078799.71748 6653 9c6df4420d8a48703c54e3eb687a8564 "bibtex skripsi"
-  "skripsi.tex" 1753078794.09443 66219 a295df289af745bafb8074c0e3b851b5 ""
+  "skripsi.aux" 1753144898.74662 7483 cac2e624ae204c5983883a84c89140cb "pdflatex"
+  "skripsi.bbl" 1753144647.64128 8109 fb40a01bc0d5d7f45fa06e8d2fd3c170 "bibtex skripsi"
+  "skripsi.tex" 1753144895.68068 76072 887d4348347a1550b3299ae0a4612edd ""
   (generated)
   "skripsi.aux"
   "skripsi.log"

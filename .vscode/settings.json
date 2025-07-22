@@ -4,7 +4,7 @@
     "editor.defaultFormatter": "James-Yu.latex-workshop"
   },
   "window.zoomLevel": 0.5,
-  "workbench.colorTheme": "Noctis Minimus",
+  "workbench.colorTheme": "Jupyter Theme",
   "workbench.iconTheme": "vscode-icons",
   "terminal.integrated.fontSize": 17,
   "editor.fontSize": 17,
