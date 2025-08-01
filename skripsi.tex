@@ -1,4 +1,4 @@
-\documentclass[12pt]{article}
+\documentclass[12pt]{report}
 
 \usepackage[a4paper, left=3cm, right=3cm, top=4cm, bottom=3cm]{geometry}
 \usepackage{graphicx}
@@ -18,12 +18,16 @@
 \usepackage[utf8]{inputenc}   % wajib untuk UTF-8
 \usepackage[T1]{fontenc}
 \bibliographystyle{agsm}
+\renewcommand{\bibname}{Daftar Pustaka}
 
 \usepackage{fancyhdr}
 \pagestyle{fancy}
 \fancyhf{}
 \fancyhead[R]{\thepage}
 \renewcommand{\headrulewidth}{0pt}
+\renewcommand{\contentsname}{Daftar Isi}
+\renewcommand{\listfigurename}{Daftar Gambar}
+\renewcommand{\listtablename}{Daftar Tabel}
 
 \renewcommand{\figurename}{Gambar}
 \captionsetup[table]{labelsep=period}
@@ -32,20 +36,142 @@
 \setstretch{1.5} % atur seluruh dokumen 1,5 spasi
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{0pt}
-\setcounter{page}{5}
+% \setcounter{page}{5}
+
+\usepackage{tikz}
+\usetikzlibrary{calc}
+\usetikzlibrary{shapes.geometric, arrows.meta, positioning}
+
+\tikzstyle{startstop} = [rectangle, rounded corners, minimum width=5cm, minimum height=1cm,text centered, draw=black, fill=blue!20]
+\tikzstyle{process} = [rectangle, minimum width=5cm, minimum height=1cm, text centered, draw=black, fill=green!20]
+\tikzstyle{arrow} = [thick,->,>=stealth]
 
 \begin{document}
 
+\tableofcontents
+\newpage
+\listoffigures
+\newpage
+\listoftables
+\newpage
+
+\begin{center}
+    \textbf{BAB I}\\
+    \textbf{PENDAHULUAN}
+    \addcontentsline{toc}{chapter}{BAB I. PENDAHULUAN}
+\end{center}
+
+\textbf{A. Latar Belakang}
+\addcontentsline{toc}{section}{A. Latar Belakang}
+
+\hspace*{1cm}Pendidikan merupakan salah satu faktor utama dalam pembangunan suatu bangsa. Dalam upaya meningkatkan mutu pendidikan, diperlukan inovasi dalam metode pembelajaran yang mampu menjawab tantangan zaman serta memenuhi kebutuhan peserta didik. Salah satu tantangan yang sering dihadapi dalam pembelajaran matematika adalah kesulitan peserta didik dalam memahami konsep-konsep abstrak, khususnya pada materi bangun ruang sisi datar. Materi ini sering kali sulit dipahami karena umumnya hanya disampaikan melalui media dua dimensi, seperti buku teks atau gambar di papan tulis. Akibatnya, peserta didik mengalami kesulitan dalam memvisualisasikan bentuk tiga dimensi secara nyata \citep{battista1999}.
+
+\hspace*{1cm}Kemajuan teknologi di era digital memberikan peluang besar untuk menghadirkan inovasi dalam dunia pendidikan. Salah satu teknologi yang memiliki potensi besar adalah Augmented Reality (AR) \citep{saidin2015}. Teknologi AR memungkinkan penggabungan objek virtual dengan dunia nyata secara interaktif dan realistis. Dalam konteks pembelajaran matematika, penggunaan AR diharapkan dapat meningkatkan kemampuan visualisasi, pemahaman, serta pengalaman belajar peserta didik terhadap materi bangun ruang \citep{syahputra2024}.
+
+\hspace*{1cm}Di SMP Negeri 3 Kalikajar, proses pembelajaran matematika masih didominasi oleh metode konvensional. Guru menggunakan buku teks dan penjelasan di papan tulis sebagai media utama. Namun, hasil evaluasi pembelajaran menunjukkan bahwa banyak peserta didik masih mengalami kesulitan dalam memahami materi bangun ruang sisi datar. Kondisi ini menunjukkan perlunya pengembangan media pembelajaran yang lebih inovatif dan interaktif guna membantu peserta didik memahami konsep secara lebih mendalam.
+
+\hspace*{1cm}Penggunaan media pembelajaran berbasis Augmented Reality (AR) diharapkan dapat menjadi solusi yang efektif dalam mengatasi kesulitan yang dihadapi dalam pembelajaran matematika. AR sebagai alternatif media pembelajaran interaktif dapat meningkatkan pemahaman peserta didik terhadap konsep-konsep matematika, khususnya pada materi bangun ruang sisi datar \citep{nincarean2013mar,mustaqim2016pemanfaatan,qumillaila2017eksresi}. Media pembelajaran berbasis AR mengintegrasikan elemen digital dunia nyata dengan dunia maya, memungkinkan siswa memahami materi melalui visualisasi 3D, animasi, dan interaksi langsung yang meningkatkan keterlibatan mereka dalam proses pembelajaran, serta menunjukkan antusiasme dan partisipasi aktif yang lebih tinggi dibandingkan metode konvensional \citep{arinda2023}. Dengan memanfaatkan teknologi ini, diharapkan pemahaman peserta didik terhadap materi bangun ruang sisi datar dapat meningkat secara signifikan, sehingga hasil belajar pun menjadi lebih optimal.
+
+\hspace*{1cm}Berdasarkan uraian tersebut, penelitian ini bertujuan untuk mengembangkan media pembelajaran berbasis Augmented Reality pada materi bangun ruang sisi datar di SMP Negeri 3 Kalikajar. Penelitian ini diharapkan dapat memberikan kontribusi nyata dalam meningkatkan kualitas pembelajaran matematika, serta menjadi referensi bagi pengembangan media pembelajaran berbasis teknologi di masa yang akan datang.\\
+
+
+\textbf{B. Identifikasi Masalah}
+\addcontentsline{toc}{section}{B. Identifikasi Masalah}
+
+\hspace*{1cm}Berdasarkan uraian pada latar belakang, dapat diidentifikasi beberapa permasalahan sebagai berikut:
+\begin{enumerate}
+    \item Peserta didik mengalami kesulitan dalam mempelajari materi geometri, khususnya bangun ruang sisi datar, karena mereka kesulitan memvisualisasikan objek geometri tiga dimensi.
+    \item Masih banyak peserta didik kelas VIII SMP Negeri 3 Kalikajar yang memperoleh nilai ulangan harian pada materi bangun ruang sisi datar di bawah Kriteria Ketuntasan Minimal (KKM).
+    \item Pembelajaran geometri bangun ruang sisi datar di SMP Negeri 3 Kalikajar masih didominasi oleh metode tradisional, seperti penyampaian materi melalui gambar di papan tulis.
+\end{enumerate}
+
+\textbf{C. Pembatasan Masalah}
+\addcontentsline{toc}{section}{C. Pembatasan Masalah}
+
+\hspace*{1cm}Berdasarkan identifikasi masalah, penelitian ini difokuskan pada pengembangan media pembelajaran berbasis Augmented Reality (AR) pada materi bangun ruang sisi datar guna mempermudah peserta didik dalam memvisualisasikan objek geometri tiga dimensi. Penelitian ini bertujuan untuk menguji tingkat kelayakan media yang dikembangkan, tanpa mengukur pengaruh media tersebut terhadap hasil belajar peserta didik.\\
+
+\textbf{D. Rumusan Masalah}
+\addcontentsline{toc}{section}{D. Rumusan Masalah}
+
+\hspace*{1cm}Berdasarkan latar belakang dan identifikasi masalah, maka rumusan masalah dalam penelitian ini adalah sebagai berikut:
+\begin{enumerate}
+    \item Bagaimana prosedur pengembangan media pembelajaran berbasis Augmented Reality pada materi bangun ruang sisi datar?
+    \item Bagaimana tingkat kelayakan media pembelajaran berbasis Augmented Reality pada materi bangun ruang sisi datar?\\
+\end{enumerate}
+
+\textbf{E. Tujuan Pengembangan}
+\addcontentsline{toc}{section}{E. Tujuan Pengembangan}
+
+\hspace*{1cm}Berdasarkan rumusan masalah di atas, maka tujuan dari penelitian ini adalah sebagai berikut:
+\begin{enumerate}
+    \item Mengetahui prosedur pengembangan media pembelajaran berbasis Augmented Reality pada materi bangun ruang sisi datar.
+    \item Mengetahui tingkat kelayakan media pembelajaran berbasis Augmented Reality pada materi bangun ruang sisi datar.\\
+\end{enumerate}
+
+\textbf{F. Spesifikasi Produk yang Dikembangkan} \\
+\addcontentsline{toc}{section}{F. Spesifikasi Produk yang Dikembangkan}
+\hspace*{1cm}Produk yang dikembangkan oleh peneliti memiliki spesifikasi sebagai berikut:
+\begin{enumerate}
+    \item Produk berupa website yang dapat diakses melalui ponsel maupun laptop secara online.
+    \item Produk mengintegrasikan materi bangun ruang sisi datar dengan teknologi Augmented Reality.
+    \item Produk menampilkan objek AR melalui pemindaian kode QR (barcode).
+\end{enumerate}
+
+\textbf{G. Manfaat Pengembangan}
+\addcontentsline{toc}{section}{G. Manfaat Pengembangan}
+
+\hspace*{1cm}Hasil dari penelitian ini diharapkan dapat memberikan manfaat dalam dunia pendidikan, baik secara teoritis maupun praktis, sebagai berikut:
+
+\begin{enumerate}
+    \item \textbf{Manfaat Teoretis} \\
+    Penelitian ini diharapkan dapat memberikan kontribusi pengetahuan dalam bidang pendidikan matematika, khususnya terkait pengembangan media pembelajaran berbasis Augmented Reality.
+
+    \item \textbf{Manfaat Praktis}
+    \begin{enumerate}
+        \item \textbf{Bagi Peserta Didik} \\
+        Media ini diharapkan dapat mempermudah peserta didik dalam memvisualisasikan objek tiga dimensi, membantu memahami materi bangun ruang sisi datar, serta meningkatkan minat belajar matematika.
+        
+        \item \textbf{Bagi Pendidik} \\
+        Media ini diharapkan dapat menjadi alternatif dalam menyampaikan materi bangun ruang sisi datar, serta menjadi motivasi dan rujukan bagi pendidik untuk mengembangkan media pembelajaran berbasis Augmented Reality pada materi lainnya.
+    \end{enumerate}
+\end{enumerate}
+
+\textbf{H. Asumsi dan Keterbatasan Pengembangan}
+\addcontentsline{toc}{section}{H. Asumsi dan Keterbatasan Pengembangan}
+
+\begin{enumerate}
+    \item \textbf{Asumsi Pengembangan} \\
+    Pengembangan media pembelajaran berbasis Augmented Reality ini didasarkan pada beberapa asumsi sebagai berikut:
+    \begin{enumerate}
+        \item Media pembelajaran berbasis Augmented Reality ini diharapkan dapat digunakan dalam pembelajaran matematika, khususnya pada materi bangun ruang sisi datar.
+        \item Peserta didik akan lebih tertarik untuk belajar matematika ketika menggunakan media pembelajaran berbasis Augmented Reality.
+        \item Penyajian bangun ruang sisi datar dalam bentuk virtual melalui teknologi AR dapat membantu peserta didik dalam memvisualisasikan konsep secara lebih nyata.
+    \end{enumerate}
+
+    \item \textbf{Keterbatasan Pengembangan} \\
+    Penelitian pengembangan media pembelajaran berbasis Augmented Reality ini memiliki beberapa keterbatasan, antara lain:
+    \begin{enumerate}
+        \item Materi yang dikembangkan terbatas pada materi bangun ruang sisi datar.
+        \item Subjek penelitian terbatas pada peserta didik kelas VIII SMP Negeri 3 Kalikajar.
+        \item Media pembelajaran disusun berdasarkan Kurikulum 2013.
+        \item Produk hanya dapat diakses secara online.
+    \end{enumerate}
+\end{enumerate}
+
+
+\newpage
 \begin{center}
     \textbf{BAB II}\\
     \textbf{LANDASAN TEORI DAN KERANGKA BERPIKIR}
+    \addcontentsline{toc}{chapter}{BAB II. LANDASAN TEORI DAN KERANGKA BERPIKIR}
 \end{center}
 
 \textbf{A. Landasan Teori}
+\addcontentsline{toc}{section}{A. Landasan Teori}
 \begin{enumerate}
     \item Pendidikan Matematika\\
     \hspace*{1cm}Pentingnya pendidikan matematika didasarkan pada fakta bahwa matematika merupakan aktivitas dasar manusia, sebagaimana halnya musik, seni lukis, sastra, atau bahkan pembuatan sepatu yang berkualitas \citep{hilton1984}. Matematika murni juga membentuk lingkungan tempat aktivitas sehari-hari manusia berlangsung \citep{yig2022}. Menurut Schoenfeld (2000), pendidikan matematika memiliki dua tujuan utama, yaitu tujuan murni dan tujuan terapan. Tujuan matematika murni adalah untuk memahami cara berpikir matematis dan bagaimana mengajarkannya dalam pembelajaran. Sementara itu, tujuan matematika terapan adalah untuk meningkatkan kualitas pengajaran matematika melalui pemahaman yang diperoleh dari matematika murni. Dengan kata lain, matematika merupakan elemen mendasar dalam sains dan teknologi serta penting untuk memahami lingkungan. Oleh karena itu, agar pendidikan matematika berhasil, bidang matematika murni dan terapan harus disajikan secara seimbang \citep{hilton1984}. Karena terdapat hubungan timbal balik antara keduanya, maka tanpa pemahaman mendalam mengenai cara berpikir, belajar, dan mengajar matematika, praktik pembelajaran yang berkelanjutan tidak dapat dikembangkan \citep{schoenfeld2000}.\\
-    \hspace*{1cm}Pendidikan matematika merupakan disiplin ilmu di mana berbagai konsep dan topik digunakan secara intensif \citep{turkdogan2015}. Dalam konteks ini, penggunaan konsep-konsep di lapangan serta hubungan antar konsep menjadi komponen penting dalam dinamika bidang tersebut. Dengan pemahaman yang tepat terhadap komponen-komponen ini, pendidikan matematika memberikan perspektif baru bagi para peneliti, sehingga mereka dapat menelaah berbagai topik secara lebih mendalam, mengajukan pertanyaan-pertanyaan baru, dan bahkan menemukan kemungkinan-kemungkinan alternatif (Ernest et al., 2016). Schoenfeld (2000) mengemukakan beberapa pertanyaan yang dieksplorasi dalam pendidikan matematika sebagai berikut:
+    \hspace*{1cm}Pendidikan matematika merupakan disiplin ilmu di mana berbagai konsep dan topik digunakan secara intensif \citep{turkdogan2015}. Dalam konteks ini, penggunaan konsep-konsep di lapangan serta hubungan antar konsep menjadi komponen penting dalam dinamika bidang tersebut. Dengan pemahaman yang tepat terhadap komponen-komponen ini, pendidikan matematika memberikan perspektif baru bagi para peneliti, sehingga mereka dapat menelaah berbagai topik secara lebih mendalam, mengajukan pertanyaan-pertanyaan baru, dan bahkan menemukan kemungkinan-kemungkinan alternatif \citep{ernest2016}. Schoenfeld (2000) mengemukakan beberapa pertanyaan yang dieksplorasi dalam pendidikan matematika sebagai berikut:
     \begin{enumerate}
         \item Perspektif teoritis untuk memahami pemikiran, pembelajaran, dan pengajaran;
         \item Berbagai aspek kognisi (misalnya pemikiran matematis, pemahaman siswa, dan kesalahpahaman);
@@ -62,7 +188,7 @@
     % PERBAIKI MAIER
     \item Kemampuan Spasial dan Teknologi\\
     \hspace*{1cm}Banyak istilah berbeda digunakan dalam literatur untuk mendefinisikan dan menggambarkan kemampuan spasial \citep{ozcakir2021augmented}. Beberapa istilah tersebut antara lain pemikiran spasial \citep{yakimanskaya1991}, pengertian spasial \citep{nctm1989}, keterampilan spasial \citep{tartre1990}, dan penalaran spasial \citep{battista2007}. Istilah-istilah ini digunakan oleh para peneliti untuk menjelaskan proses visualisasi mental, manipulasi, serta rotasi terhadap angka dan bentuk. Secara umum, inti dari definisi kemampuan spasial mengacu pada ide-ide seperti kemampuan untuk memutar, mengubah, atau membayangkan suatu objek serta memanipulasi sifat-sifatnya secara mental \citep{ozcakir2021augmented}. Dengan kata lain, kemampuan spasial merupakan keterampilan dalam membayangkan bentuk-bentuk geometri dan bagaimana bentuk tersebut berubah ketika diputar atau dimanipulasi dalam pikiran.\\
-    \hspace*{1cm}Selain istilah yang bervariasi, terdapat pula beragam klasifikasi komponen kemampuan spasial yang diajukan oleh para peneliti. \citet{battista1994} membagi kemampuan spasial menjadi dua komponen, yaitu orientasi spasial dan visualisasi spasial. Sementara itu, \citet{pellegrino1982} mengkategorikan menjadi hubungan spasial dan visualisasi spasial. \citet{linn1985} bahkan membagi kemampuan spasial menjadi tiga elemen, yakni perputaran mental, persepsi spasial, dan visualisasi spasial. Meskipun terdapat perbedaan dalam pengkategorian, semua komponen tersebut dapat dipahami secara logis dan relevan dengan kemampuan berpikir spasial manusia \citep{ozcakir2021augmented}. Berangkat dari perkembangan teknologi dan kompleksitas tantangan visual-spasial saat ini, Maier (1996) menyatakan bahwa klasifikasi tersebut perlu diperluas. Maier (1996) mengusulkan lima elemen kemampuan spasial, yaitu perputaran mental, persepsi spasial, visualisasi spasial, hubungan spasial, dan orientasi spasial. Ia menekankan bahwa kemajuan teknologi menuntut pelatihan menyeluruh terhadap kelima elemen ini untuk mendukung perkembangan keterampilan spasial yang lebih mendalam.\\
+    \hspace*{1cm}Selain istilah yang bervariasi, terdapat pula beragam klasifikasi komponen kemampuan spasial yang diajukan oleh para peneliti. \citet{battista1994} membagi kemampuan spasial menjadi dua komponen, yaitu orientasi spasial dan visualisasi spasial. Sementara itu, \citet{pellegrino1982} mengkategorikan menjadi hubungan spasial dan visualisasi spasial. \citet{linn1985} bahkan membagi kemampuan spasial menjadi tiga elemen, yakni perputaran mental, persepsi spasial, dan visualisasi spasial. Meskipun terdapat perbedaan dalam pengkategorian, semua komponen tersebut dapat dipahami secara logis dan relevan dengan kemampuan berpikir spasial manusia \citep{ozcakir2021augmented}. Berangkat dari perkembangan teknologi dan kompleksitas tantangan visual-spasial saat ini, \citet{maier1996} menyatakan bahwa klasifikasi tersebut perlu diperluas. Maier (1996) mengusulkan lima elemen kemampuan spasial, yaitu perputaran mental, persepsi spasial, visualisasi spasial, hubungan spasial, dan orientasi spasial. Ia menekankan bahwa kemajuan teknologi menuntut pelatihan menyeluruh terhadap kelima elemen ini untuk mendukung perkembangan keterampilan spasial yang lebih mendalam.\\
     \hspace*{1cm}Kemampuan spasial merupakan aspek penting dalam proses kognitif yang melibatkan kemampuan untuk memvisualisasikan, memanipulasi, dan merotasi objek secara mental. Berbagai istilah telah digunakan dalam literatur untuk menggambarkan kemampuan ini, seperti pemikiran spasial, pengertian spasial, keterampilan spasial, dan penalaran spasial, yang semuanya mengarah pada proses visualisasi dan manipulasi bentuk atau angka dalam pikiran. Para peneliti juga mengelompokkan komponen kemampuan spasial dalam beberapa kategori, mulai dari dua hingga lima elemen utama, antara lain visualisasi spasial, orientasi spasial, hubungan spasial, persepsi spasial, dan perputaran mental. Meskipun terdapat perbedaan dalam klasifikasi tersebut, seluruh elemen tersebut dianggap relevan dan saling melengkapi. Seiring dengan perkembangan teknologi, pelatihan terhadap seluruh komponen kemampuan spasial menjadi semakin penting, khususnya dalam bidang pendidikan dan pembelajaran, guna meningkatkan efektivitas pemahaman konsep-konsep abstrak yang membutuhkan representasi visual.
 
     \item Bangun Ruang Sisi Datar\\
@@ -206,6 +332,7 @@
 \end{enumerate}
 
 \textbf{B. Kajian Penelitian yang Relevan}\\
+\addcontentsline{toc}{section}{B. Kajian Penelitian yang Relevan}
 \hspace*{1cm}Berikut ini adalah beberapa penelitian yang relevan dengan pengembangan media pembelajaran interaktif berbasis Augmented Reality pada materi bangun ruang sisi datar, antara lain:
 \begin{enumerate}
     \item Penelitian yang dilakukan oleh \citet{maulana2020} dengan judul \textit{“The Use of Mobile-Based Augmented Reality in Science Learning to Improve Learning Motivation”} bertujuan untuk mengkaji pengaruh penggunaan media berbasis \textit{augmented reality} pada perangkat \textit{Android} terhadap peningkatan motivasi belajar siswa. Penelitian ini menggunakan metode \textit{quasi-experimental} dengan desain \textit{pretest-posttest control group}. Berdasarkan hasil uji statistik menggunakan \textit{SPSS}, diperoleh nilai signifikansi sebesar 0{,}002 yang lebih kecil dari 0{,}025. Hal ini menunjukkan adanya perbedaan skor rata-rata antara kelas kontrol dan kelas eksperimen. Dengan demikian, dapat disimpulkan bahwa pembelajaran menggunakan media \textit{augmented reality} berbasis \textit{Android} berpengaruh positif terhadap proses pembelajaran di kelas, yang ditunjukkan dengan meningkatnya motivasi belajar siswa.
@@ -215,35 +342,111 @@
 \end{enumerate}
 
 \textbf{C. Kerangka Berpikir}\\
+\addcontentsline{toc}{section}{C. Kerangka Berpikir}
 \hspace*{1cm}Kerangka berpikir dalam penelitian dan pengembangan ini dilatarbelakangi oleh permasalahan yang ditemukan di SMP Negeri 3 Kalikajar, yaitu bahan ajar yang digunakan oleh pendidik masih terbatas pada buku teks dan LKS. Selain itu, peserta didik masih mengalami kesulitan dalam menyelesaikan soal-soal yang berkaitan dengan bangun ruang. Berdasarkan permasalahan tersebut, peneliti menawarkan solusi dengan mengembangkan produk berupa media pembelajaran berbasis Augmented Reality. Diharapkan, media pembelajaran berbasis AR ini dapat mempermudah peserta didik dalam memahami materi bangun ruang serta meningkatkan motivasi mereka dalam belajar.\\
 \hspace*{1cm}Augmented Reality adalah teknologi yang mampu menampilkan objek 3D seolah-olah terlihat nyata dan menyatu dengan lingkungan sekitar. Teknologi ini sesuai untuk digunakan dalam materi Bangun Ruang Sisi Datar, di mana objek bangun ruang sering kali perlu divisualisasikan secara lebih konkret. Hal ini disebabkan oleh keterbatasan gambar 2D dalam menunjukkan bentuk secara menyeluruh, sehingga dengan Augmented Reality, peserta didik dapat melihat bentuk bangun ruang secara lebih nyata dan mendalam. Proses perancangan media pembelajaran diawali dengan wawancara bersama pendidik mata pelajaran matematika. Dari hasil wawancara diperoleh informasi bahwa peserta didik mengalami kesulitan saat mengerjakan soal yang berkaitan dengan bangun ruang 3D, terutama dalam mengidentifikasi bentuk bangun prisma dan limas.\\
-\hspace*{1cm}Proses selanjutnya adalah mempelajari materi bangun ruang dan mengidentifikasi bagian materi yang perlu divisualisasikan ke dalam bentuk Augmented Reality (AR). Setelah materi teridentifikasi, model bangun ruang 3D akan dibuat menggunakan aplikasi Blender. Selanjutnya, materi pembelajaran yang terintegrasi dengan AR dikembangkan dalam bentuk website yang dapat diakses melalui ponsel peserta didik. Media pembelajaran yang telah dikembangkan akan divalidasi oleh ahli, kemudian direvisi sesuai dengan masukan yang diberikan sebelum digunakan dalam proses pembelajaran. Setelah validasi, media akan diuji coba terlebih dahulu pada kelas kecil. Jika masih ditemukan kekurangan, akan dilakukan perbaikan sebelum diujicobakan pada kelas besar. Pada tahap uji coba kelas, peneliti akan mengumpulkan data berupa respons peserta didik terhadap media pembelajaran yang dikembangkan. Alur kerangka berpikir dalam penelitian ini dapat dilihat pada Gambar IV berikut.
+\hspace*{1cm}Proses selanjutnya adalah mempelajari materi bangun ruang dan mengidentifikasi bagian materi yang perlu divisualisasikan ke dalam bentuk Augmented Reality (AR). Setelah materi teridentifikasi, model bangun ruang 3D akan dibuat menggunakan aplikasi Blender. Selanjutnya, materi pembelajaran yang terintegrasi dengan AR dikembangkan dalam bentuk website yang dapat diakses melalui ponsel peserta didik. Media pembelajaran yang telah dikembangkan akan divalidasi oleh ahli, kemudian direvisi sesuai dengan masukan yang diberikan sebelum digunakan dalam proses pembelajaran. Setelah validasi, media akan diuji coba terlebih dahulu pada kelas kecil. Jika masih ditemukan kekurangan, akan dilakukan perbaikan sebelum diujicobakan pada kelas besar. Pada tahap uji coba kelas, peneliti akan mengumpulkan data berupa respons peserta didik terhadap media pembelajaran yang dikembangkan. Alur kerangka berpikir dalam penelitian ini dapat dilihat pada Gambar \ref{diagram} berikut.\\
+
+\begin{center}
+\begin{tikzpicture}[
+  node distance=1.6cm and 1cm,
+  every node/.style={align=center, font=\small},
+  scale=0.9, transform shape
+]
+
+% Gaya node
+\tikzstyle{startstop} = [rectangle, rounded corners, minimum width=3.2cm, minimum height=1cm, text centered, draw=black, fill=white!20]
+\tikzstyle{process} = [rectangle, minimum width=3.2cm, minimum height=1cm, text centered, draw=black, fill=white!10]
+\tikzstyle{arrow} = [thick,->,>=stealth]
+
+% Jalur utama
+\node (start) [startstop] {Identifikasi Masalah:\\
+1. Sulit memvisualisasikan objek geometri\\
+2. Nilai bangun ruang di bawah KKM\\
+3. Menggambar 3D masih di papan tulis};
+
+\node (desain) [process, below=of start] {Desain Produk};
+\node (kembangkan) [process, below=of desain] {Mengembangkan Media Pembelajaran\\Berbasis AR};
+\node (validasi) [process, below=of kembangkan] {Melakukan Validasi};
+
+% Paralel validasi
+\node (validasi_media) [process, left=3cm of validasi] {Validasi Ahli Media};
+\node (validasi_materi) [process, right=3cm of validasi] {Validasi Ahli Materi};
+
+\node (revisi_media) [process, below=of validasi_media] {Revisi Media};
+\node (revisi_materi) [process, below=of validasi_materi] {Revisi Materi};
+
+% Titik koordinat di bawah revisi
+\node (bawah_media) [below=0.4cm of revisi_media] {};
+\node (bawah_materi) [below=0.4cm of revisi_materi] {};
+
+% Titik gabung di bawah tengah
+\node (merge) [coordinate] at ($(bawah_media)!0.5!(bawah_materi)$) {};
+
+% Lanjut ke bawah
+\node (uji_coba) [process, below=1.6cm of merge] {Melakukan Uji Coba};
+\node (revisi2) [process, below=of uji_coba] {Revisi Setelah Uji Coba};
+\node (produk_akhir) [startstop, below=of revisi2] {Produk Akhir};
+
+% Panah utama
+\draw [arrow] (start) -- (desain);
+\draw [arrow] (desain) -- (kembangkan);
+\draw [arrow] (kembangkan) -- (validasi);
+
+% Panah validasi
+\draw [arrow] (validasi) -- (validasi_media);
+\draw [arrow] (validasi) -- (validasi_materi);
+\draw [arrow] (validasi_media) -- (revisi_media);
+\draw [arrow] (validasi_materi) -- (revisi_materi);
+
+% Dari revisi ke titik merge (lurus)
+\draw [arrow] (revisi_media.south) -- (bawah_media.center);
+\draw [arrow] (revisi_materi.south) -- (bawah_materi.center);
+\draw [arrow] (bawah_media.center) -- (merge);
+\draw [arrow] (bawah_materi.center) -- (merge);
+
+% Lanjut ke bawah
+\draw [arrow] (merge) -- (uji_coba);
+\draw [arrow] (uji_coba) -- (revisi2);
+\draw [arrow] (revisi2) -- (produk_akhir);
+
+\end{tikzpicture}
+\end{center}
+\begin{figure}[H]
+    \caption{Alur Kerangka Berpikir}
+    \label{diagram}
+\end{figure}
 
 \newpage
 \begin{center}
     \textbf{BAB III}\\
     \textbf{METODE PENELITIAN}
+    \addcontentsline{toc}{chapter}{BAB III. METODE PENELITIAN}
 \end{center}
 
 \textbf{A. Model Pengembangan}
+\addcontentsline{toc}{section}{A. Model Pengembangan}
 
-\hspace*{1cm}Penelitian ini termasuk dalam jenis penelitian pengembangan atau \textit{Research and Development} (R\&D). Menurut \citet{sugiyono2015}, model pengembangan atau \textit{Research and Development} merupakan metode penelitian yang bertujuan untuk menciptakan produk tertentu berdasarkan analisis kebutuhan dan melalui tahapan pengujian produk. Produk yang dikembangkan dalam penelitian ini adalah media pembelajaran berbasis \textit{Augmented Reality} pada materi bangun ruang sisi datar. Model pengembangan yang digunakan dalam penelitian ini adalah model ADDIE (\textit{Analysis}, \textit{Design}, \textit{Development}, \textit{Implementation}, and \textit{Evaluation}).
+\hspace*{1cm}Penelitian ini termasuk dalam jenis penelitian pengembangan atau \textit{Research and Development} (R\&D). Menurut \citet{sugiyono2019}, model pengembangan atau \textit{Research and Development} merupakan metode penelitian yang bertujuan untuk menciptakan produk tertentu berdasarkan analisis kebutuhan dan melalui tahapan pengujian produk. Produk yang dikembangkan dalam penelitian ini adalah media pembelajaran berbasis \textit{Augmented Reality} pada materi bangun ruang sisi datar. Model pengembangan yang digunakan dalam penelitian ini adalah model ADDIE (\textit{Analysis}, \textit{Design}, \textit{Development}, \textit{Implementation}, and \textit{Evaluation}).
 
 % LENGKAPI REFERENCE CAHYADI
 \hspace*{1cm}Model ADDIE merupakan salah satu model desain pembelajaran yang menggambarkan langkah-langkah dasar dalam sistem pembelajaran yang mudah diterapkan \citep{cahyadi2019}. Model ini dipilih karena disusun secara sistematis dan terstruktur untuk memecahkan permasalahan pembelajaran sesuai dengan kebutuhan serta karakteristik peserta didik. Model ADDIE terdiri dari lima tahap, yaitu: (1) analisis, (2) perancangan, (3) pengembangan, (4) implementasi, dan (5) evaluasi.\\
 
 
 \textbf{B. Prosedur Pengembangan}
+\addcontentsline{toc}{section}{B. Prosedur Pengembangan}
 
 \hspace*{1cm}Model ADDIE memiliki beberapa tahapan prosedur pengembangan yang ditunjukkan pada Gambar~\ref{gambar-addie} berikut.
 \begin{figure}[H]
   \centering
-  \includegraphics[width=0.2\textwidth]{images/materi1.jpg}
+  \includegraphics[width=0.8\textwidth]{images/addie.png}
   \caption{Tahapan prosedur pengembangan model ADDIE}
   \label{gambar-addie}
 \end{figure}
 
-\hspace*{1cm}Menurut Mulyatiningsih (dalam Setyadi \& Saefudin, 2019), model ADDIE merupakan akronim dari Analysis, Design, Development, Implementation, dan Evaluation. Berikut penjelasan dari masing-masing tahapan.
+\hspace*{1cm}\citet{mulyatiningsih2012} menyatakan bahwa model ADDIE merupakan singkatan dari 
+\textit{Analysis} (analisis), \textit{Design} (desain), \textit{Development} (pengembangan), 
+\textit{Implementation} (implementasi), dan \textit{Evaluation} (evaluasi) yang dikembangkan oleh Dick and Carry. Berikut penjelasan dari masing-masing tahapan.
 \begin{enumerate}
     \item Analisis \textit{(Analysis)}\\
     \hspace*{1cm}Pada tahap analisis, peneliti melakukan analisis terhadap tiga hal, yaitu: analisis kebutuhan, analisis kurikulum, dan analisis karakteristik peserta didik.
@@ -277,6 +480,7 @@
 \end{enumerate}
 
 \textbf{C. Uji Coba Produk}
+\addcontentsline{toc}{section}{C. Uji Coba Produk}
 
 \hspace*{1cm}Uji coba produk meliputi desain uji coba, subjek uji coba, jenis data, metode dan instrumen pengumpulan data, serta teknik analisis data. Berikut penjabaran dari masing-masing komponen tersebut.
 \begin{enumerate}
@@ -472,9 +676,11 @@
 \begin{center}
     \textbf{BAB IV} \\
     \textbf{HASIL DAN PEMBAHASAN}
+    \addcontentsline{toc}{chapter}{BAB IV. HASIL DAN PEMBAHASAN}
 \end{center}
 
 \textbf{A. Data Uji Coba}
+\addcontentsline{toc}{section}{A. Data Uji Coba}
 
 \hspace*{1cm}Data uji coba dalam pengembangan media pembelajaran berbasis \textit{Augmented Reality} pada materi bangun ruang untuk peserta didik kelas VIII SMP menggunakan model pengembangan ADDIE. Adapun tahapan dalam proses pengembangan meliputi Analisis (Analysis), Perancangan (Design), Pengembangan (Development), Implementasi (Implementation), dan Evaluasi (Evaluation).
 
@@ -645,6 +851,7 @@
 \end{enumerate}
 % ANALISIS DATA
 \textbf{B. Analisis Data}
+\addcontentsline{toc}{section}{B. Analisis Data}
 
 \hspace{1cm}Analisis data merupakan tahap lanjutan dari tahap evaluasi dalam model pengembangan ADDIE. Data yang diperoleh dalam penelitian ini berupa data kualitatif yang kemudian dikonversi menjadi data kuantitatif. Analisis data dilakukan berdasarkan lembar penilaian dari ahli materi, ahli media, dan respons peserta didik. Media pembelajaran yang dikembangkan dinyatakan layak apabila memperoleh skor rata-rata penilaian dari ahli materi, ahli media, dan respons peserta didik minimal pada kategori “baik”. Berikut ini adalah hasil analisis data tersebut:
 \begin{enumerate}
@@ -767,6 +974,7 @@
 \end{enumerate}
 % REVISI PRODUK
 \textbf{C. Revisi Produk}
+\addcontentsline{toc}{section}{C. Revisi Produk}
 
 \hspace*{1cm}Revisi produk merupakan langkah penting dalam pengembangan media pembelajaran. Revisi dilakukan apabila masih terdapat kesalahan atau kekurangan pada produk yang dikembangkan. Pada tahap ini, peneliti melakukan revisi terhadap media pembelajaran berdasarkan saran dan masukan dari ahli materi dan ahli media. Adapun proses revisi dalam pengembangan media pembelajaran ini adalah sebagai berikut:
 \begin{enumerate}
@@ -774,17 +982,58 @@
     \hspace*{1cm}Berdasarkan masukan dari ahli materi, perbaikan yang dilakukan telah sesuai dengan saran dan rekomendasi yang diberikan. Hasil perbaikan tersebut disajikan sebagai berikut.
     \begin{enumerate}
         \item Menambahkan kelas dan logo UAD pada halaman sampul.
+        \begin{table}[H]
+            \centering
+            \begin{tabular}{c c}
+                Sebelum Revisi & Sesudah Revisi \\
+                \includegraphics[width=0.3\textwidth]{images/cover-sebelum.jpg} &
+                \includegraphics[width=0.3\textwidth]{images/cover-sesudah.jpg} \\
+            \end{tabular}
+        \end{table}
+
         \item Menambahkan ilustrasi kubus satuan yang tidak dapat dihitung menggunakan tombol.
+        \begin{figure}[H]
+            \centering
+            \includegraphics[width=0.3\textwidth]{images/kubus-no-button.jpg}
+        \end{figure}
         \item Menyisipkan teknologi AR pada soal, tidak hanya pada materi.
+        \begin{figure}[H]
+            \centering
+            \includegraphics[width=0.3\textwidth]{images/kuis3.jpg}
+        \end{figure}
         \item Menambahkan materi mengenai unsur-unsur bangun ruang.
+        \begin{figure}[H]
+            \centering
+            \includegraphics[width=0.3\textwidth]{images/unsur-bangun.jpg}
+        \end{figure}
         \item Memperbaiki penggunaan tanda baca pada kalimat-kalimat dalam media.
     \end{enumerate}
-    \item Revisi Produk Hasil Validasi Ahli Media
+    \item Revisi Produk Hasil Validasi Ahli Media\\
+    \hspace*{1cm}Berdasarkan masukan dari ahli media, perbaikan yang dilakukan telah sesuai dengan saran dan rekomendasi yang diberikan. Hasil perbaikan tersebut disajikan sebagai berikut.
+    \begin{enumerate}
+        \item Memperbaiki kunci jawaban.
+
+        \begin{figure}[H]
+            \centering
+            \includegraphics[width=0.3\textwidth]{images/kunci-1.jpg}
+            \hfill
+            \includegraphics[width=0.3\textwidth]{images/kunci-2.jpg}
+            \hfill
+            \includegraphics[width=0.3\textwidth]{images/kunci-3.jpg}
+            \caption{Contoh Perbaikan pada Kunci Jawaban}
+        \end{figure}
+
+        \item Membuat media mudah diakses oleh siswa.
+
+        \hspace*{1cm}Media yang sebelumnya berupa aplikasi Android masih sulit untuk diakses oleh siswa, karena perangkat siswa yang belum memadai serta biaya unggah ke PlayStore yang cukup mahal. Oleh karena itu, media diubah menjadi bentuk web dengan konten yang sama. Hasil perubahan dapat diakses melalui: https://www.avanedu.my.id
+    \end{enumerate}
+
     \item Revisi Produk Hasil Uji Coba Kelas Kecil
     \item Revisi Produk Hasil Uji Coba Kelas Besar
 \end{enumerate}
 
 \textbf{D. Kajian Produk Akhir}
+\addcontentsline{toc}{section}{D. Kajian Produk Akhir}
 
 \hspace*{1cm}Media pembelajaran yang dikembangkan oleh peneliti disusun dengan isi sebagai berikut:
 \begin{enumerate}
@@ -839,6 +1088,7 @@
 \end{enumerate}
 \newpage
 \bibliography{daftar-pustaka}
+\addcontentsline{toc}{chapter}{Daftar Pustaka}
 
 
 \end{document}

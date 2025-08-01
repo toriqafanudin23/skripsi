@@ -1,0 +1,23 @@
+\contentsline {chapter}{BAB I. PENDAHULUAN}{5}{}%
+\contentsline {section}{A. Latar Belakang}{5}{}%
+\contentsline {section}{B. Identifikasi Masalah}{6}{}%
+\contentsline {section}{C. Pembatasan Masalah}{6}{}%
+\contentsline {section}{D. Rumusan Masalah}{7}{}%
+\contentsline {section}{E. Tujuan Pengembangan}{7}{}%
+\contentsline {section}{F. Spesifikasi Produk yang Dikembangkan}{7}{}%
+\contentsline {section}{G. Manfaat Pengembangan}{8}{}%
+\contentsline {section}{H. Asumsi dan Keterbatasan Pengembangan}{8}{}%
+\contentsline {chapter}{BAB II. LANDASAN TEORI DAN KERANGKA BERPIKIR}{10}{}%
+\contentsline {section}{A. Landasan Teori}{10}{}%
+\contentsline {section}{B. Kajian Penelitian yang Relevan}{20}{}%
+\contentsline {section}{C. Kerangka Berpikir}{22}{}%
+\contentsline {chapter}{BAB III. METODE PENELITIAN}{25}{}%
+\contentsline {section}{A. Model Pengembangan}{25}{}%
+\contentsline {section}{B. Prosedur Pengembangan}{25}{}%
+\contentsline {section}{C. Uji Coba Produk}{28}{}%
+\contentsline {chapter}{BAB IV. HASIL DAN PEMBAHASAN}{37}{}%
+\contentsline {section}{A. Data Uji Coba}{37}{}%
+\contentsline {section}{B. Analisis Data}{45}{}%
+\contentsline {section}{C. Revisi Produk}{48}{}%
+\contentsline {section}{D. Kajian Produk Akhir}{52}{}%
+\contentsline {chapter}{Daftar Pustaka}{61}{}%
