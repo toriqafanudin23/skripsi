@@ -17,13 +17,13 @@
 \usepackage{natbib}
 \usepackage[utf8]{inputenc}   % wajib untuk UTF-8
 \usepackage[T1]{fontenc}
+\usepackage{tabularx}
+% \usepackage{background}
 \bibliographystyle{agsm}
 \renewcommand{\bibname}{Daftar Pustaka}
 
 \usepackage{fancyhdr}
-\pagestyle{fancy}
-\fancyhf{}
-\fancyhead[R]{\thepage}
+\usepackage{lipsum}
 \renewcommand{\headrulewidth}{0pt}
 \renewcommand{\contentsname}{Daftar Isi}
 \renewcommand{\listfigurename}{Daftar Gambar}
@@ -47,14 +47,143 @@
 \tikzstyle{arrow} = [thick,->,>=stealth]
 
 \begin{document}
+\pagenumbering{roman}
+\setcounter{page}{1}
+\addcontentsline{toc}{chapter}{HALAMAN JUDUL}
+\begin{center}
+    {
+        \fontsize{14pt}{16pt}\selectfont
+        \textbf{PENGEMBANGAN MEDIA PEMBELAJARAN BERBASIS AUGMENTED REALITY PADA MATERI BANGUN RUANG SISI DATAR DI SMP NEGERI 3 KALIKAJAR}\\[1cm]
+        \textbf{SKRIPSI}\\[1cm]
+    
 
+        Diajukan kepada Fakultas Keguruan dan Ilmu Pendidikan Universitas Ahmad Dahlan untuk Memenuhi Persyaratan Memperoleh Gelar Sarjana Pendidikan\\[1cm]
+
+        \begin{figure}[H]
+            \centering
+            \includegraphics[width=0.3\textwidth]{images/logo-uad-hitam.png}
+        \end{figure}
+
+        Oleh
+
+        Toriq Afanudin
+
+        1900006105\\[1cm]
+
+        \textbf{PROGRAM STUDI PENDIDIKAN MATEMATIKA FAKULTAS KEGURUAN DAN ILMU PENDIDIKAN}\\
+        \textbf{UNIVERSITAS AHMAD DAHLAN}\\
+        \textbf{2025}
+    }
+\end{center}
+\newpage
+\addcontentsline{toc}{chapter}{HALAMAN PERSETUJUAN}
+\begin{center}
+    {
+        \fontsize{16pt}{16pt}\selectfont
+        \textbf{SKRIPSI}\\[0.4cm]
+        \textbf{PENGEMBANGAN MEDIA PEMBELAJARAN BERBASIS AUGMENTED REALITY PADA MATERI BANGUN RUANG SISI DATAR DI SMP NEGERI 3 KALIKAJAR}\\[0.4cm]
+    }
+    {
+        \fontsize{14pt}{16pt}\selectfont
+        dipersiapkan dan disusun oleh\\[1cm]
+        Toriq Afanudin\\[1cm]
+        1900006105\\[1cm]
+    }
+    telah disetujui oleh\\
+    Dosen Pembimbing Skripsi\\
+    Program Studi Pendidikan Matematika\\
+    Fakultas Keguruan dan Ilmu Pendidikan\\
+    Universitas Ahmad Dahlan\\
+    dan dinyatakan telah memenuhi\\
+    syarat untuk diujikan\\[2cm]
+    {
+        \fontsize{14pt}{16pt}\selectfont
+        Dosen Pembimbing\\[2.5cm]
+        Dr. Puguh Wahyu Prasetyo, S.Si., M.Sc.\\
+        NIDN. 0422078801
+
+    }
+    
+\end{center}
+\newpage
+\begin{center}
+    {
+        \fontsize{16pt}{16pt}\selectfont
+        \textbf{SKRIPSI}\\[0.4cm]
+        \textbf{PENGEMBANGAN MEDIA PEMBELAJARAN BERBASIS AUGMENTED REALITY PADA MATERI BANGUN RUANG SISI DATAR DI SMP NEGERI 3 KALIKAJAR}\\[0.4cm]
+    }
+    {
+        \fontsize{14pt}{16pt}\selectfont
+        dipersiapkan dan disusun oleh\\[0.7cm]
+        Toriq Afanudin 1900006105\\[0.7cm]
+    }
+    telah dipertahankan di depan\\
+    Panitia Penguji Skripsi Fakultas Keguruan dan Ilmu Pendidikan\\
+    Universitas Ahmad Dahlan pada tanggal\\
+    Dan dinyatakan telah memenuhi persyaratan memperoleh\\
+    Gelar Sarjana Pendidikan\\[0.5cm]
+    {
+        \fontsize{16pt}{16pt}\selectfont
+        \textbf{SUSUNAN PANITIA UJIAN SKRIPSI}
+
+    }
+    
+\end{center}
+{\fontsize{14pt}{16pt}\selectfont
+\noindent
+\begin{tabularx}{\textwidth}{lX}
+\textbf{1. Ketua}      & \textbf{: Dr. Puguh Wahyu Prasetyo, S.Si., M.Sc. \dotfill} \\
+\textbf{2. Penguji I}  & \textbf{: Dosen X} \\
+\textbf{3. Penguji II} & \textbf{: Dosen Y}
+\end{tabularx}
+
+\begin{flushright}
+\begin{minipage}{0.6\textwidth}
+\raggedright
+Yogyakarta, 15 Agustus 2025\\
+Fakultas Keguruan dan Ilmu Pendidikan\\
+Universitas Ahmad Dahlan\\
+Dekan,\\[2cm]
+Muhammad Sayuti, M.Pd., M.Ed., Ph.D.\\
+NIY. 60080551
+\end{minipage}
+\end{flushright}
+}
+
+\newpage
+\begin{center}
+    \textbf{SURAT PERNYATAAN}
+\end{center}
+
+Yang bertanda tangan di bawah ini:\\[0.5cm]
+\begin{tabular}{ll}
+    Nama & : Toriq Afanudin \\
+    NIM  & : 1900006105 \\
+    Program Studi & : Pendidikan Matematika\\
+    Fakultas & : Keguruan dan Ilmu Pendidikan\\
+    Universitas & : Universitas Ahmad Dahlan\\
+\end{tabular}
+\vspace{0.5cm}
+
+Menyatakan bahwa skripsi
+
+
+
+\newpage
+\addcontentsline{toc}{chapter}{DAFTAR ISI}
 \tableofcontents
 \newpage
+% \addcontentsline{toc}{chapter}{DAFTAR GAMBAR}
 \listoffigures
 \newpage
+% \addcontentsline{toc}{chapter}{DAFTAR TABEL}
 \listoftables
 \newpage
-
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[R]{\thepage}
+\pagenumbering{arabic}
+\setcounter{page}{1}
 \begin{center}
     \textbf{BAB I}\\
     \textbf{PENDAHULUAN}
@@ -1089,6 +1218,63 @@
 \newpage
 \bibliography{daftar-pustaka}
 \addcontentsline{toc}{chapter}{Daftar Pustaka}
+
+\newpage
+Lampiran 1. Instrumen Angket Pra Penelitian Peserta Didik
+\begin{center}
+    \textbf{INSTRUMEN ANGKET PRA PENELITIAN PESERTA DIDIK}
+\end{center}
+\textbf{Petunjuk:}
+\begin{enumerate}
+    \item Isilah identitas kalian pada tempat yang telah disediakan.
+    \item Perhatikan setiap pertanyaan dengan cermat dan seksama.
+    \item Pilih jawaban yang sesuai dengan kepribadian anda.
+    \item Seluruh pertanyaan wajib diisi.
+    \item Hasil angket ini tidak mempengaruhi nilai dan dijaga kerahasiaannya.
+\end{enumerate}
+Identitas responden\\
+Nama:\\
+Kelas:\\
+\begin{table}[H]
+    \centering
+    \begin{tabular}{|c|p{7cm}|c|p{3cm}|}
+        \hline
+        \textbf{No} & \textbf{Aspek} & \textbf{Bentuk Jawaban} & \textbf{Keterangan} \\
+        \hline
+        1. & Apakah pelajaran matematika sulit? & Pilihan opsi & 
+        \begin{tabular}[t]{@{}l@{}}
+            - Ya\\
+            - Tidak
+        \end{tabular} \\
+        \hline
+        2. & Apakah materi bangun ruang sisi datar sulit dipahami? & Pilihan opsi & 
+        \begin{tabular}[t]{@{}l@{}}
+            - Ya\\
+            - Tidak
+        \end{tabular} \\
+        \hline
+        3. & Saya lebih tertarik dengan pembelajaran praktik, daripada hanya dijelaskan oleh guru. & Pilihan opsi &
+        \begin{tabular}[t]{@{}l@{}}
+            - Ya\\
+            - Tidak
+        \end{tabular} \\
+        \hline
+        4. & Saya menyukai pendekatan pembelajaran yang membuat peserta didik menjadi lebih aktif. & Pilihan opsi &
+        \begin{tabular}[t]{@{}l@{}}
+            - Ya\\
+            - Tidak
+        \end{tabular} \\
+        \hline
+        5. & Saya menyukai pembelajaran dengan menggunakan teknologi & Pilihan opsi &
+        \begin{tabular}[t]{@{}l@{}}
+            - Ya\\
+            - Tidak
+        \end{tabular} \\
+        \hline
+    \end{tabular}
+\end{table}
+
+
 
 
 \end{document}
