@@ -1,26 +1,37 @@
 \contentsline {chapter}{HALAMAN JUDUL}{i}{}%
 \contentsline {chapter}{HALAMAN PERSETUJUAN}{ii}{}%
-\contentsline {chapter}{DAFTAR ISI}{vi}{}%
+\contentsline {chapter}{SURAT PERNYATAAN KEASLIAN}{v}{}%
+\contentsline {chapter}{KATA PENGANTAR}{vi}{}%
+\contentsline {chapter}{DAFTAR ISI}{ix}{}%
+\contentsline {chapter}{ABSTRAK}{xiv}{}%
 \contentsline {chapter}{BAB I. PENDAHULUAN}{1}{}%
 \contentsline {section}{A. Latar Belakang}{1}{}%
-\contentsline {section}{B. Identifikasi Masalah}{2}{}%
+\contentsline {section}{B. Identifikasi Masalah}{1}{}%
 \contentsline {section}{C. Pembatasan Masalah}{2}{}%
-\contentsline {section}{D. Rumusan Masalah}{3}{}%
+\contentsline {section}{D. Rumusan Masalah}{2}{}%
 \contentsline {section}{E. Tujuan Pengembangan}{3}{}%
 \contentsline {section}{F. Spesifikasi Produk yang Dikembangkan}{3}{}%
 \contentsline {section}{G. Manfaat Pengembangan}{4}{}%
-\contentsline {section}{H. Asumsi dan Keterbatasan Pengembangan}{4}{}%
-\contentsline {chapter}{BAB II. LANDASAN TEORI DAN KERANGKA BERPIKIR}{6}{}%
-\contentsline {section}{A. Landasan Teori}{6}{}%
-\contentsline {section}{B. Kajian Penelitian yang Relevan}{16}{}%
-\contentsline {section}{C. Kerangka Berpikir}{18}{}%
-\contentsline {chapter}{BAB III. METODE PENELITIAN}{22}{}%
-\contentsline {section}{A. Model Pengembangan}{22}{}%
-\contentsline {section}{B. Prosedur Pengembangan}{22}{}%
-\contentsline {section}{C. Uji Coba Produk}{25}{}%
-\contentsline {chapter}{BAB IV. HASIL DAN PEMBAHASAN}{34}{}%
-\contentsline {section}{A. Data Uji Coba}{34}{}%
-\contentsline {section}{B. Analisis Data}{48}{}%
-\contentsline {section}{C. Revisi Produk}{54}{}%
-\contentsline {section}{D. Kajian Produk Akhir}{59}{}%
-\contentsline {chapter}{Daftar Pustaka}{68}{}%
+\contentsline {section}{H. Asumsi dan Keterbatasan Pengembangan}{5}{}%
+\contentsline {section}{I. Definisi Operasional}{6}{}%
+\contentsline {chapter}{BAB II. LANDASAN TEORI DAN KERANGKA BERPIKIR}{8}{}%
+\contentsline {section}{A. Landasan Teori}{8}{}%
+\contentsline {section}{B. Kajian Penelitian yang Relevan}{10}{}%
+\contentsline {section}{C. Kerangka Berpikir}{12}{}%
+\contentsline {chapter}{BAB III. METODE PENELITIAN}{14}{}%
+\contentsline {section}{A. Model Pengembangan}{14}{}%
+\contentsline {section}{B. Prosedur Pengembangan}{15}{}%
+\contentsline {section}{C. Uji Coba Produk}{18}{}%
+\contentsline {chapter}{BAB IV. HASIL DAN PEMBAHASAN}{26}{}%
+\contentsline {section}{A. Data Uji Coba}{26}{}%
+\contentsline {section}{B. Analisis Data}{44}{}%
+\contentsline {section}{C. Revisi Produk}{48}{}%
+\contentsline {section}{D. Kajian Produk Akhir}{52}{}%
+\contentsline {chapter}{BAB V. KESIMPULAN DAN SARAN}{57}{}%
+\contentsline {section}{A. Kesimpulan}{57}{}%
+\contentsline {section}{B. Saran}{58}{}%
+\contentsline {chapter}{DAFTAR PUSTAKA}{62}{}%
+\contentsline {chapter}{LAMPIRAN}{63}{}%
+\contentsline {section}{Lampiran 1. Instrumen Angket Pra Penelitian Peserta Didik}{63}{}%
+\contentsline {section}{Lampiran 2. Revisi Ahli Materi}{65}{}%
+\contentsline {section}{Lampiran 3. Glosarium Istilah IT}{67}{}%

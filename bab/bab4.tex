@@ -54,7 +54,7 @@
     
             \item Peserta didik menyukai pembelajaran yang memanfaatkan teknologi.
     
-            \item Pendidik matematika kelas VIII-D SMP Muhammadiyah 9 Yogyakarta belum pernah menggunakan teknologi simulasi 3D dalam proses pembelajaran.
+            \item Pendidik matematika kelas VIII-B SMP Muhammadiyah 9 Yogyakarta belum pernah menggunakan teknologi simulasi 3D dalam proses pembelajaran.
         \end{enumerate}
 
         \hspace*{1cm}Dari permasalahan di atas, agar peserta didik lebih tertarik dengan pelajaran matematika, khususnya pada materi bangun ruang sisi datar, peneliti berniat menguji kelayakan media pembelajaran berbasis simulasi 3D. Media pembelajaran ini diharapkan dapat membantu peserta didik dalam belajar serta menarik minat belajar mereka.
@@ -77,8 +77,9 @@
 
         \hspace*{1cm}Dengan demikian, pengembangan media pembelajaran berbasis simulasi 3D diarahkan untuk membantu peserta didik mencapai capaian pembelajaran fase D dalam memahami bangun ruang sisi datar.
     \end{enumerate}
-    \item \textbf{Perancangan (Design)}\\
-    \hspace*{1cm}Tahap perancangan mencakup dua aspek utama, yaitu perancangan konten materi pembelajaran dan perancangan sistem perangkat lunak. Pada tahap ini, peneliti menyusun strategi untuk mengintegrasikan teknologi simulasi 3D ke dalam platform berbasis web agar dapat memenuhi tujuan pembelajaran yang telah ditetapkan. Mengingat media pembelajaran berbasis simulasi 3D masih merupakan inovasi baru dalam bidang pendidikan, proses perancangan didokumentasikan secara rinci dan sistematis. Dokumentasi ini dimaksudkan untuk memfasilitasi pemahaman mendalam dan memungkinkan replikasi serta pengembangan lebih lanjut oleh peneliti lain. Berikut adalah rincian dari masing-masing tahapan perancangan:
+
+    \item \textbf{Perancangan \textit{(Design)}}\\
+    \hspace*{1cm}Tahap perancangan mencakup dua aspek utama, yaitu perancangan konten materi pembelajaran dan perancangan sistem perangkat lunak. Pada tahap ini, peneliti menyusun strategi untuk mengintegrasikan teknologi simulasi 3D ke dalam \textit{platform} berbasis website agar dapat memenuhi tujuan pembelajaran yang telah ditetapkan. Mengingat media pembelajaran berbasis simulasi 3D masih merupakan inovasi baru dalam bidang pendidikan, proses perancangan didokumentasikan secara rinci dan sistematis. Dokumentasi ini dimaksudkan untuk memfasilitasi pemahaman mendalam dan memungkinkan replikasi serta pengembangan lebih lanjut oleh peneliti lain. Berikut adalah rincian dari masing-masing tahapan perancangan:
     \begin{enumerate}
         \item Perancangan Tujuan Pembelajaran \\
         \hspace*{1cm}Pada tahap ini, peneliti menentukan tujuan pembelajaran yang ingin dicapai melalui media pembelajaran berbasis simulasi 3D. Tujuan pembelajaran dirancang untuk mendukung capaian pembelajaran kurikulum dan meningkatkan pemahaman peserta didik terhadap materi bangun ruang sisi datar. Adapun tujuan pembelajaran yang telah ditetapkan adalah sebagai berikut:
@@ -90,7 +91,7 @@
             \item Merekonstruksi jaring-jaring bangun ruang menggunakan media konkret seperti kertas karton.
         \end{enumerate}
         \item Perancangan Materi \\
-        \hspace*{1cm}Materi pembelajaran disusun berdasarkan hasil analisis materi dan kebutuhan peserta didik. Ruang lingkup materi mencakup bangun ruang sisi datar, yaitu kubus, balok, prisma, dan limas. Struktur hirarki materi disajikan pada diagram berikut untuk memudahkan pemahaman konsep dan alur pembelajaran.
+        \hspace*{1cm}Materi pembelajaran disusun berdasarkan hasil analisis materi, kurikulum dan kebutuhan peserta didik. Ruang lingkup materi mencakup volume dan luas permukaan bangun ruang sisi datar, yaitu kubus, balok, prisma, dan limas. Struktur hirarki materi disajikan pada diagram berikut untuk memudahkan pemahaman konsep dan alur pembelajaran.
         \begin{figure}[H]
             \centering
             \includegraphics[width=0.8\textwidth]{images/bagan2.png}
@@ -104,7 +105,7 @@
             \item Simulasi jaring-jaring bangun ruang kubus, balok, prisma, dan limas.
         \end{enumerate}
         \item Perancangan Media \\
-        \hspace*{1cm}Terlebih dahulu peneliti merancang tampilan media dalam bentuk mockup. Mockup ini berfungsi sebagai prototipe awal untuk merancang antarmuka pengguna (UI) media pembelajaran berbasis simulasi 3D. Desain UI dirancang dengan mempertimbangkan aspek kegrafikan, kemudahan navigasi, dan keterlibatan pengguna. Berikut adalah contoh desain mockup yang telah dibuat.
+        \hspace*{1cm}Terlebih dahulu peneliti merancang tampilan media dalam bentuk \textit{wireframe}. \textit{Wireframe} ini berfungsi sebagai panduan dalam membuat tampilan antarmuka pengguna (UI) media pembelajaran yang akan dikembangkan.
         \begin{figure}[H]
             \centering
             \includegraphics[width=0.8\textwidth]{images/landingpage2.png}
@@ -129,11 +130,11 @@
             \caption{Halaman Quiz}
             \label{fig:halamanquiz}
         \end{figure}
-        Selain merancang tampilan antarmuka pengguna (UI) melalui mockup, peneliti juga membuat diagram alur navigasi web untuk mengilustrasikan struktur dan aliran interaksi pengguna dalam sistem. Diagram alur navigasi ini dirancang untuk memastikan kemudahan navigasi dan pengalaman pengguna yang optimal. Berikut adalah rancangan alur navigasi yang telah dibuat:
+        Selain merancang tampilan antarmuka pengguna (UI) melalui \textit{wireframe}, peneliti juga membuat diagram alur navigasi website untuk mengilustrasikan struktur dan aliran interaksi pengguna dalam sistem. Diagram alur navigasi ini dirancang untuk memastikan kemudahan navigasi dan pengalaman pengguna yang optimal. Berikut adalah rancangan alur navigasi yang telah dibuat:
         \begin{figure}[H]
             \centering
             \includegraphics[width=0.8\textwidth]{images/Flow.png}
-            \caption{Diagram Alur Navigasi Web}
+            \caption{Diagram Alur Navigasi Website}
             \label{fig:flowchart}
         \end{figure}
         \item Perancangan Interaksi Simulasi 3D
@@ -143,32 +144,45 @@
             \caption{Halaman Simulasi 3D}
             \label{fig:mocksimulasi3d}
         \end{figure}
-        \hspace*{1cm}Desain antarmuka halaman simulasi 3D ditampilkan pada Gambar \ref{fig:mocksimulasi3d}. Pada tampilan tersebut terdapat objek 3D di tengah layar yang dapat dikendalikan melalui beberapa kontrol utama, antara lain:
-        \begin{description}
-            \item[Fullscreen:] Berpindah ke tampilan layar penuh untuk memperbesar area visualisasi.
-            \item[Play / Pause:] Menjalankan atau menghentikan animasi objek 3D.
-            \item[Zoom In / Zoom Out:] Memperbesar atau memperkecil tampilan objek untuk melihat detail atau konteks keseluruhan.
-            \item[Rotate:] Memutar objek dengan kecepatan konstan; fitur ini dapat diaktifkan atau dinonaktifkan oleh pengguna.
-            \item[AR:] Berpindah ke mode realitas tertambah (AR) menggunakan objek 3D yang sama. Untuk mode AR, objek 3D diekspor dan diunggah ke layanan mywebar.com sehingga dapat dimuat pada perangkat peserta didik.
-        \end{description}
-        \item Perancangan Objek 3D\\
-        \hspace*{1cm}Objek 3D dibuat menggunakan perangkat lunak Blender. Objek yang dibuat meliputi kubus, balok, prisma, limas, serta jaring-jaring masing-masing bangun ruang. Semua objek diekspor dalam format .glb.
-        \item Perancangan Arsitektur Web\\
-        \hspace*{1cm}Arsitektur web dirancang sebagai aplikasi frontend berbasis \textbf{React.js} yang berperan sebagai Single Page Application (SPA). Pengembangan dilakukan secara lokal oleh tim pengembang menggunakan Node.js dan pengelola paket (npm atau yarn); seluruh kode sumber dikelola pada repositori GitHub. Struktur penyimpanan dan alur data dirancang sebagai berikut:
+        \hspace*{1cm}Desain antarmuka halaman simulasi 3D ditampilkan pada Gambar \ref{fig:mocksimulasi3d}. Pada tampilan tersebut terdapat model 3D di tengah layar yang dapat dikendalikan melalui beberapa kontrol utama, antara lain:
+        \begin{table}[H]
+            \centering
+            \caption{Kontrol Utama Pada Halaman Simulasi 3D}
+            \label{tab:kontrolsimulasi3d}
+            \begin{tabular}{|p{3.5cm}|p{9cm}|}
+                \hline
+                \textbf{Kontrol} & \textbf{Fungsi} \\
+                \hline
+                Fullscreen & Berpindah ke tampilan layar penuh untuk memperbesar area visualisasi. \\
+                \hline
+                Play / Pause & Menjalankan atau menghentikan animasi model 3D. \\
+                \hline
+                Zoom In / Zoom Out & Memperbesar atau memperkecil tampilan objek untuk melihat detail atau konteks keseluruhan. \\
+                \hline
+                Rotate & Memutar objek dengan kecepatan konstan; fitur ini dapat diaktifkan atau dinonaktifkan oleh pengguna. \\
+                \hline
+                AR & Berpindah ke mode \textit{Augmented Reality (AR)} menggunakan model 3D yang sama. \\
+                \hline
+            \end{tabular}
+        \end{table}
+        \item Perancangan Model 3D\\
+        \hspace*{1cm}Model 3D dibuat menggunakan perangkat lunak Blender. Model yang dibuat meliputi kubus, balok, prisma, limas, serta jaring-jaring masing-masing bangun ruang. Semua model diekspor dalam format \texttt{.glb}.
+        \item Perancangan Arsitektur Website\\
+        \hspace*{1cm}Arsitektur website dirancang sebagai aplikasi frontend berbasis \textbf{React} yang berperan sebagai \textit{Single Page Application (SPA)}. Pengembangan dilakukan secara lokal oleh tim pengembang menggunakan \textbf{Node.js} dan pengelola paket  \textbf{yarn}; seluruh kode sumber dikelola pada repositori GitHub. Struktur penyimpanan dan alur data dirancang sebagai berikut:
 
         \begin{enumerate}[leftmargin=*, label=--]
-            \item Asset statis (gambar, berkas grafis) dan model 3D (format \texttt{.glb}) disimpan pada layanan Supabase Storage dan disajikan melalui URL publik atau CDN untuk akses cepat oleh klien.
-            \item Komponen simulasi 3D diimplementasikan di sisi klien menggunakan Three.js di dalam komponen React, sehingga rendering dan interaksi (zoom, rotate, animasi) dijalankan di browser pengguna.
-            \item Integrasi AR dilakukan dengan menyediakan model \texttt{.glb} pada layanan pihak ketiga (mis. mywebar.com) yang dapat memuat model dari Supabase; frontend memanggil URL AR saat mode AR diaktifkan.
+            \item Asset statis (gambar, berkas grafis) dan model 3D (format \texttt{.glb}) disimpan pada layanan Supabase Storage dan disajikan melalui URL publik untuk akses cepat oleh klien.
+            \item Komponen simulasi 3D diimplementasikan di sisi klien menggunakan \textbf{Three.js} di dalam komponen React, sehingga rendering dan interaksi (zoom, rotate, animasi) dijalankan di browser pengguna.
+            \item Integrasi AR dilakukan melalui layanan eksternal \textbf{mywebar.com}, di mana model 3D yang sama diunggah dan dikonfigurasi untuk mode AR. Link atau QR code yang dihasilkan oleh mywebar.com diintegrasikan ke dalam aplikasi React untuk akses langsung ke fitur AR.
             \item Variabel lingkungan sensitif (kunci API, URL storage) disimpan sebagai secret pada pengaturan Vercel dan tidak dikomit ke repositori.
-            \item Continuous Deployment (CD): setiap perubahan yang dipush ke cabang utama pada GitHub memicu proses build otomatis di Vercel, yang meliputi instalasi dependensi, proses bundling React, dan penerapan ke domain produksi \textbf{https://medpemar.vercel.app}.
+            \item \textit{Continuous Deployment (CD)}: setiap perubahan yang dipush ke cabang utama pada GitHub memicu proses build otomatis di Vercel, yang meliputi instalasi dependensi, proses bundling React, dan penerapan ke domain produksi \textbf{https://medpemar.vercel.app}.
         \end{enumerate}
 
-        \hspace*{1cm}Alur ini memastikan pemisahan tanggung jawab antara penyimpanan asset, logika aplikasi React, dan layanan AR eksternal. Diagram arsitektur sistem dan daftar teknologi yang digunakan disajikan pada Gambar \ref{fig:arsitekturweb}.
+        \hspace*{1cm}Peneliti merancang arsitektur website dengan mempertimbangkan pemisahan tugas, kemudahan pemeliharaan, dan skalabilitas. Arsitektur ini memungkinkan pengembangan fitur tambahan di masa depan, seperti penambahan materi pembelajaran baru atau peningkatan interaktivitas simulasi 3D, tanpa perlu merombak keseluruhan sistem. Desain arsitektur website dapat dilihat pada Gambar \ref{fig:arsitekturweb} berikut.
         \begin{figure}[H]
             \centering
-            \includegraphics[width=1\textwidth]{images/Arsitektur.png}
-            \caption{Arsitektur Web}
+            \includegraphics[width=0.9\textwidth]{images/Arsitektur.png}
+            \caption{Arsitektur Website}
             \label{fig:arsitekturweb}
         \end{figure}
 
@@ -176,53 +190,197 @@
 
     \end{enumerate}
 
-    \item \textbf{Pengembangan (Development)}\\
-    \hspace*{1cm}Pengembangan media pembelajaran berbasis simulasi 3D tergolong kompleks. Teknologi simulasi 3D sendiri merupakan hal baru dalam dunia pendidikan, sehingga referensi untuk pengembangannya masih terbatas.
-    Tahapan yang dilakukan peneliti dalam mengembangkan media pembelajaran berbasis simulasi 3D meliputi menyusun materi bangun ruang sisi datar, mendesain objek 3D bangun ruang menggunakan \textbf{Blender}, membuat desain grafis bangun datar dengan \textbf{GeoGebra}, serta membangun antarmuka aplikasi media pembelajaran berbasis web menggunakan \textbf{React JS}. 
-    Berikut adalah penjabaran dari masing-masing tahapan tersebut.
+    \item \textbf{Pengembangan \textit{(Development)}}\\
+    \hspace*{1cm}Pengembangan media pembelajaran berbasis simulasi 3D tergolong kompleks. Pengembangan simulasi 3D menggunakan React dan Blender sendiri merupakan hal baru dalam dunia pendidikan, sehingga referensi untuk pengembangannya masih terbatas. Tahapan yang dilakukan peneliti meliputi implementasi desain, pengembangan antarmuka, pengembangan fitur simulasi 3D, pembuatan model 3D, pengembangan fitur evaluasi, integrasi sistem, validasi produk, dan revisi produk. Berikut adalah penjabaran dari masing-masing tahapan tersebut.
+    
     \begin{enumerate}[label=\arabic*)]
-        \item Membuat Animasi 3D dengan Blender \\
-        \hspace*{1cm}Pada materi bangun ruang sisi datar tentu terdapat objek bangun ruang seperti kubus, balok, prisma, dan limas. Peneliti membuat model bangun-bangun tersebut dengan bantuan aplikasi Blender, yang merupakan perangkat lunak untuk pembuatan objek 3D. Selain itu, Blender juga dapat digunakan untuk membuat animasi sederhana, misalnya animasi jaring-jaring bangun ruang agar materi lebih mudah dipahami oleh peserta didik. Desain 3D ini nantinya akan dijadikan objek dalam media pembelajaran berbasis simulasi 3D. Berikut contoh desain bangun ruang yang dibuat.
+        \item Implementasi Desain\\
+        \hspace*{1cm}Sesuai dengan arsitektur website pada Gambar \ref{fig:arsitekturweb}, proses implementasi mencakup beberapa langkah teknis utama. Tahap ini dimulai dengan konfigurasi layanan penyimpanan file pada Supabase dan pembuatan repositori kode di GitHub. Selanjutnya, kode sumber di-*clone* ke lingkungan pengembangan lokal, kemudian dilakukan instalasi dependensi, termasuk React dan library pendukung lainnya, sebelum memulai pengembangan antarmuka.
+        \begin{enumerate}[leftmargin=*, label=--]
+            \item Mengonfigurasi penyimpanan di Supabase untuk menyimpan gambar, model 3D, dan aset pendukung.
+            \item Menyiapkan repositori di GitHub sebagai basis kode sumber dan pengelolaan versi.
+            \item Meng-clone repositori ke lingkungan pengembangan lokal.
+            \item Menginstal dependensi yang diperlukan untuk proyek React, termasuk paket untuk Three.js.
+            \item Memulai pengembangan antarmuka pengguna berdasarkan desain yang telah ditetapkan.
+        \end{enumerate}
         \begin{figure}[H]
             \centering
-            \includegraphics[width=0.4\textwidth]{images/bangun-dan-jaring.png}
-            \caption{Desain 3D Bangun Ruang dan Jaring-jaring}
-            \label{fig:bangundanjaring}
+            \includegraphics[width=1\textwidth]{images2/supabase.png}
+            \caption{Storage di Supabase}
+            \label{fig:supabase}
         \end{figure}
-        \item Membuat Gambar Bangun Ruang dengan GeoGebra \\
-        \hspace*{1cm}Gambar atau objek matematika yang terdapat dalam media ini sepenuhnya dibuat secara mandiri oleh peneliti. Objek-objek matematika, seperti persegi, kubus, balok, jaring-jaring, serta soal-soal, dibuat menggunakan aplikasi GeoGebra. Berikut ditampilkan contoh hasil pembuatannya.
         \begin{figure}[H]
             \centering
-            \includegraphics[width=0.4\textwidth]{images/hasil-geogebra.png}
-            \caption{Desain 2D Bangun Ruang dan Jaring-jaring}
-            \label{fig:hasilgeogebra}
+            \includegraphics[width=1\textwidth]{images2/github.png}
+            \caption{Repository di Github}
+            \label{fig:github}
         \end{figure}
-        
-        \item Membuat UI dengan React JS \\
-        \hspace*{1cm}Agar media pembelajaran mudah diakses oleh peserta didik, peneliti membuat antarmuka menggunakan React JS. Antarmuka ini berbentuk situs web, sehingga peserta didik dapat dengan mudah mengakses media melalui domain yang diberikan. Untuk menampilkan simulasi 3D di situs web, peneliti menggunakan Three.js sebagai paket tambahan serta mywebar.com untuk menampilkan konten AR. Berikut ditampilkan contoh hasil pembuatannya.
+        \item Pengembangan Antarmuka\\
+        \hspace*{1cm}Pengembangan antarmuka dilakukan menggunakan \textbf{React} sebagai library utama untuk membangun \textit{Single Page Application (SPA)}. Antarmuka aplikasi dirancang responsif untuk berbagai ukuran layar dan perangkat. Peneliti mengintegrasikan \textbf{Three.js} untuk menampilkan dan memanipulasi model 3D langsung di dalam halaman website. Komponen React dikembangkan untuk mengelola status aplikasi, navigasi halaman, dan komunikasi dengan API eksternal. Berikut ditampilkan contoh hasil pengembangan antarmuka.
         \begin{figure}[H]
             \centering
-            \includegraphics[width=0.3\textwidth]{images/ui-1.jpg}
-            \includegraphics[width=0.3\textwidth]{images/ui-2.jpg}
-            \includegraphics[width=0.3\textwidth]{images/ui-3.jpg}
-            \caption{Antarmuka Media AR}
+            \includegraphics[width=0.3\textwidth]{images2/landingpage.jpg}
+            \includegraphics[width=0.3\textwidth]{images2/tujuanpembelajaran.jpg}
+            \includegraphics[width=0.3\textwidth]{images2/menu.jpg}
+            \caption{Contoh Antarmuka Media Pembelajaran}
             \label{fig:antarmuka}
         \end{figure}
+
+        \item Pembuatan Model 3D\\
+        \hspace*{1cm}Pembuatan model 3D dilakukan menggunakan aplikasi \textbf{Blender}, yang merupakan perangkat lunak gratis dan open-source untuk pemodelan 3D dan animasi. Peneliti membuat model berbentuk kubus, balok, prisma, dan limas dengan detail geometri yang akurat sesuai dengan materi bangun ruang sisi datar. Selain itu, dikembangkan juga animasi jaring-jaring yang dapat menunjukkan proses pembukaan bangun ruang menjadi jaring-jaringnya, untuk meningkatkan pemahaman peserta didik. Semua model 3D diekspor ke format \texttt{.glb} (glTF binary format) untuk kompatibilitas maksimal dengan Three.js. Berikut tampilan aplikasi Blender dan contoh model 3D yang dihasilkan.
+        \begin{figure}[H]
+            \centering
+            \includegraphics[width=1\textwidth]{images2/blender.png}
+            \caption{Pembuatan Model 3D dengan Blender}
+            \label{fig:blender}
+        \end{figure}
+        \begin{figure}[H]
+            \centering
+            \includegraphics[width=0.3\textwidth]{images2/kubus.png}
+            \includegraphics[width=0.3\textwidth]{images2/limas.png}
+            \includegraphics[width=0.3\textwidth]{images2/jaringbalok.png}
+            \caption{Contoh Model 3D}
+            \label{fig:contohobjek3d}
+        \end{figure}
+        
+        \item Pengembangan Fitur Simulasi 3D\\
+        \hspace*{1cm}Pengembangan simulasi 3D dilakukan berdasarkan desain yang ditampilkan pada Gambar 15. Simulasi 3D diimplementasikan menggunakan library \textbf{Three.js} dalam komponen React untuk menampilkan dan memanipulasi model bangun ruang secara interaktif. Model 3D yang telah dibuat diupload ke dalam penyimpanan Supabase, kemudian komponen React yang dibuat dengan Three.js mengakses model 3D tersebut untuk ditampilkan di dalam website.
+        
+        \hspace*{1cm}Fitur simulasi 3D memiliki beberapa tombol utama untuk mengontrol model 3D secara interaktif. Adapun daftar tombol yang tersedia bisa dilihat pada Tabel \ref{tab:kontrolsimulasi3d}. Melalui simulasi 3D interaktif ini, peserta didik dapat memahami konsep-konsep matematika abstrak antara lain:
+        \begin{enumerate}[leftmargin=*, label=--]
+            \item \textbf{Volume kubus:} Visualisasi kubus besar yang tersusun dari kubus-kubus satuan, membantu peserta didik memahami konsep volume sebagai pengisian ruang tiga dimensi.
+            \item \textbf{Volume limas:} Animasi yang menunjukkan transformasi kubus menjadi tiga limas dengan ukuran yang sama, memperjelas hubungan antara volume kubus dan limas.
+            \item \textbf{Jaring-jaring:} Animasi pembukaan berbagai bangun ruang (kubus, balok, prisma, limas) menjadi jaring-jaringnya, memfasilitasi pemahaman hubungan antara bentuk 3D dan representasi 2D.
+        \end{enumerate}
+        
+        \hspace*{1cm}Desain lengkap simulasi 3D dengan tampilan antarmuka, tombol kontrol, dan visualisasi objek dapat dilihat pada Gambar \ref{fig:simulasi3d} berikut:
+        \begin{figure}[H]
+            \centering
+            \includegraphics[width=0.35\textwidth]{images2/simulasi3d.jpg}
+            \caption{Tampilan Simulasi 3D}
+            \label{fig:simulasi3d}
+        \end{figure}
+        
+        
+        \item Menampilkan Model 3D melalui Fitur \textit{Augmented Reality (AR)}\\
+        \hspace*{1cm}Untuk memperkaya pengalaman pembelajaran, peneliti mengintegrasikan fitur \textit{Augmented Reality (AR)} yang memungkinkan peserta didik melihat model 3D bangun ruang dalam lingkungan nyata mereka. Implementasi AR dilakukan menggunakan layanan online \textbf{MyWebAR}, yang merupakan \textit{platform user-friendly} untuk mengubah model 3D menjadi konten AR tanpa memerlukan pemrograman yang rumit.
+        
+        \hspace*{1cm}Keunggulan menggunakan layanan mywebar.com antara lain:
+        \begin{enumerate}[leftmargin=*, label=--]
+            \item Interface yang intuitif dan mudah digunakan bahkan bagi pengguna awam.
+            \item Animasi dari model 3D tetap berfungsi setelah dikonversi menjadi konten AR, sehingga fitur interaktif seperti rotasi dan transformasi jaring-jaring masih dapat diakses dalam mode AR.
+            \item Sifat layanan yang berbasis cloud (online) memungkinkan integrasi mudah dengan aplikasi website yang sedang dikembangkan.
+        \end{enumerate}
+        
+        \hspace*{1cm}Proses pengembangan fitur AR mencakup: (1) mengupload model 3D dalam format \texttt{.glb} ke mywebar.com, (2) melakukan konfigurasi dan kustomisasi tampilan AR, (3) menghasilkan link atau QR code yang dapat dipanggil dari aplikasi React, dan (4) mengintegrasikan link AR tersebut ke dalam komponen website sehingga peserta didik dapat mengakses fitur AR langsung dari media pembelajaran. Integrasi ini memfasilitasi pembelajaran multimodal di mana peserta didik dapat beralih antara visualisasi simulasi 3D dalam aplikasi website dan visualisasi AR di lingkungan fisik mereka.
+        \begin{figure}[H]
+            \centering
+            \includegraphics[width=1\textwidth]{images2/mywebar.png}
+            \caption{Tampilan mywebar.com untuk Pengembangan AR}
+            \label{fig:mywebar}
+        \end{figure}
+        \begin{figure}[H]
+            \centering
+            \includegraphics[width=0.3\textwidth]{images/materi4.jpg}
+            \caption{Tampilan AR pada Media Pembelajaran}
+            \label{fig:armedia}
+        \end{figure}
+        
+        \item Pengembangan Evaluasi\\
+        \hspace*{1cm}Pengembangan evaluasi mencakup integrasi berbagai mekanisme penilaian formatif dan sumatif dalam aplikasi untuk mendukung proses pembelajaran peserta didik. Sistem evaluasi dirancang untuk memberikan umpan balik instan dan mendukung pembelajaran mandiri. Berikut adalah komponen-komponen evaluasi yang dikembangkan:
+        
+        \begin{enumerate}[leftmargin=*, label=--]
+            \item \textbf{Isian Singkat dalam Proses Pembelajaran:} Selama pembelajaran, peneliti menyisipkan pertanyaan isian singkat pada tahap-tahap strategis untuk memastikan peserta didik memahami konsep sebelum melanjutkan ke materi selanjutnya. Jika jawaban peserta didik benar, sistem memberikan umpan balik positif. Mekanisme ini berfungsi sebagai \textit{checkpoint} pembelajaran untuk mengidentifikasi pemahaman peserta didik secara \textit{real-time}.
+            
+            \item \textbf{Soal Evaluasi di Akhir Setiap Bab:} Setiap bab materi diakhiri dengan serangkaian soal evaluasi komprehensif. Peserta didik dapat mengecek jawaban mereka, dan jika jawaban benar, sistem menampilkan pembahasan mendetail yang menjelaskan solusi dan konsep-konsep terkait. Fitur ini mendukung pembelajaran reflektif dan membantu peserta didik memahami alasan di balik jawaban yang benar.
+            
+            \item \textbf{Fitur Quiz Interaktif:} Peneliti mengembangkan dua paket kuis spesifik untuk menguji pemahaman mendalam peserta didik mengenai topik utama:
+            \begin{itemize}
+                \item \textbf{Quiz Volume:} Paket kuis yang fokus pada konsep volume berbagai bangun ruang sisi datar.
+                \item \textbf{Quiz Luas Permukaan:} Paket kuis yang fokus pada konsep luas permukaan berbagai bangun ruang.
+            \end{itemize}
+            
+            Setiap soal dalam kuis berbentuk pilihan ganda dengan opsi jawaban yang disusun strategis. Untuk setiap jawaban yang dipilih peserta didik, baik benar maupun salah, sistem menampilkan pembahasan detail yang menjelaskan mengapa jawaban tersebut benar atau salah dan memberikan pengajaran ulang konsep yang relevan. Setelah semua soal dalam kuis dijawab, sistem secara otomatis menghitung dan menampilkan skor akhir peserta didik, memberikan informasi tentang pencapaian mereka terhadap standar pembelajaran.
+        \end{enumerate}
+        \begin{figure}[H]
+            \centering
+            \includegraphics[width=0.3\textwidth]{images2/isiansingkat.jpg}
+            \includegraphics[width=0.3\textwidth]{images2/soalakhirbab.jpg}
+            \includegraphics[width=0.3\textwidth]{images2/quizvolume.jpg}
+            \caption{Contoh Soal Evaluasi}
+            \label{fig:contohsoalevaluasi}
+        \end{figure}
+        \item Integrasi Sistem\\
+        \hspace*{1cm}Integrasi sistem melibatkan penggabungan semua komponen pengembangan menjadi satu aplikasi yang kohesif. Model 3D dari Blender diintegrasikan ke dalam komponen React melalui Three.js. Konten 2D dari GeoGebra diimpor sebagai aset gambar. Sistem penyimpanan aset menggunakan Supabase Storage, dan aplikasi React dikonfigurasi untuk mengambil aset dari URL yang disediakan. Testing dilakukan untuk memastikan semua komponen bekerja bersama tanpa eror dan performa aplikasi optimal.
+
+        
+        \item Validasi Produk\\
+        \hspace*{1cm}Validasi produk dilakukan oleh tim ahli materi dan ahli media untuk memastikan kelayakan media pembelajaran dari berbagai aspek sebelum pengujian lapangan. Proses validasi ini bertujuan untuk mengidentifikasi kekurangan, mendapatkan kritik, saran, dan penilaian konstruktif yang dijadikan acuan untuk perbaikan produk.
+        
+        \textbf{Validasi Ahli Materi:}
+        
+        \hspace*{1cm}Validasi konten materi dilakukan oleh dua ahli materi:
+        \begin{enumerate}[leftmargin=*, label=--]
+            \item Ibu Rima Aksen Cahdriyana, M.Pd., dosen Pendidikan Matematika Universitas Ahmad Dahlan (UAD).
+            \item Bapak Wibowo Ramadhiyanto, S.Pd., pendidik Matematika SMP Muhammadiyah 9 Yogyakarta.
+        \end{enumerate}
+        
+        \hspace*{1cm}Tujuan validasi ahli materi adalah untuk memperoleh kritik, saran, dan penilaian terhadap keakuratan konten matematika, kesesuaian dengan capaian pembelajaran kurikulum, dan kelayakan materi untuk dipelajari melalui media simulasi 3D. Saran, masukan, dan tindak lanjut dari ahli materi disajikan pada Tabel \ref{tabel:validasimateri} berikut.
+        \begin{table}[H]
+\begin{adjustwidth}{-2cm}{-2cm}
+    \centering
+    \caption{Saran, Masukan, dan Tindak Lanjut Validasi Ahli Materi}
+    \label{tabel:validasimateri}
+    \begin{tabular}{|c|p{9cm}|c|}
+        \hline
+        \textbf{No} & \textbf{Saran dan Masukan} & \textbf{Tindak Lanjut} \\
+        \hline
+        1 & Perlu penambahan kata "satuan" pada kolom input kubus satuan. & Sudah direvisi \\
+        \hline
+        2 & Kalimat "kubus tersebut tidak terbentuk dari kubus satuan" kurang tepat secara konsep, karena pada dasarnya setiap kubus dapat dipandang tersusun dari kubus satuan, meskipun tidak ditampilkan secara eksplisit. Oleh karena itu, kalimat tersebut sebaiknya diubah menjadi "tidak ditampilkan dalam bentuk kubus satuan". & Sudah direvisi \\
+        \hline
+        3 & Penggunaan istilah "representasi" kurang sesuai untuk siswa SMP. Disarankan untuk mengganti dengan kalimat yang lebih sederhana, seperti "banyaknya kubus satuan yang menyusun suatu kubus menunjukkan volume kubus tersebut". & Sudah direvisi \\
+        \hline
+        4 & Definisi prisma perlu diperbaiki karena berpotensi menimbulkan kebingungan bagi siswa. & Sudah direvisi \\
+        \hline
+        5 & Perlu penambahan satu paragraf pengantar sebelum definisi jaring-jaring. Contohnya: "Perhatikan kardus pada gambar di atas. Kardus tersebut berbentuk kubus. Untuk menghitung luas permukaan kubus, diperlukan luas seluruh sisi. Salah satu cara untuk melihat seluruh sisi kubus adalah dengan membukanya menjadi jaring-jaring," kemudian dilanjutkan dengan definisi jaring-jaring. & Sudah direvisi \\
+        \hline
+        6 & Memperbanyak variasi jaring-jaring prisma. & Sudah direvisi \\
+        \hline
+        7 & Menambahkan Capaian Pembelajaran, Tujuan Pembelajaran, dan Indikator Pencapaian Kompetensi di bagian awal website. & Sudah direvisi \\
+        \hline
+    \end{tabular}
+\end{adjustwidth}
+\end{table}
+\newpage
+        
+        \textbf{Validasi Ahli Media:}
+        
+        \hspace*{1cm}Validasi aspek media dilakukan oleh dua ahli media:
+        \begin{enumerate}[leftmargin=*, label=--]
+            \item Bapak Anggit Prabowo, M.Pd., dosen Pendidikan Matematika Universitas Ahmad Dahlan (UAD).
+            \item Bapak Wibowo Ramadhiyanto, S.Pd., pendidik Matematika SMP Muhammadiyah 9 Yogyakarta.
+        \end{enumerate}
+        
+        \hspace*{1cm}Validasi ahli media bertujuan untuk menilai kualitas kegrafikan, kelayakan bahasa, dan kualitas perangkat lunak. Tidak ada revisi yang signifikan dari kedua validator. Hanya saja ada kunci jawaban soal yang salah dan sudah direvisi. Bapak Wibowo menyampaikan bahwa media pembelajaran memiliki visual yang baik, serta terdapat ilustrasi yang dapat mempermudah pemahaman peserta didik.
 
     \end{enumerate}
 
     \item \textbf{Implementasi}\\
-    \hspace*{1cm}Pada tahap implementasi ini, peneliti melakukan uji coba terhadap produk yang telah dikembangkan. Uji coba dilakukan terhadap peserta didik kelas VIII-D SMP Muhammadiyah 9 Yogyakarta. Tahap ini bertujuan untuk memperoleh informasi mengenai kelayakan media pembelajaran yang telah dikembangkan. Pada tahap ini, terdapat dua jenis uji coba yang dilakukan, yaitu uji coba kelas kecil dan uji coba kelas besar. Berikut adalah penjelasan mengenai uji coba kelas kecil dan uji coba kelas besar.
+    \hspace*{1cm}Pada tahap implementasi ini, peneliti melakukan uji coba terhadap produk yang telah dikembangkan. Uji coba dilakukan terhadap peserta didik kelas VIII-B dan VIII-D SMP Muhammadiyah 9 Yogyakarta. Tahap ini bertujuan untuk memperoleh informasi mengenai kelayakan media pembelajaran yang telah dikembangkan. Pada tahap ini, terdapat dua jenis uji coba yang dilakukan, yaitu uji coba kelas kecil dan uji coba kelas besar. Berikut adalah penjelasan mengenai uji coba kelas kecil dan uji coba kelas besar.
     \begin{enumerate}
         \item Uji Coba Kelas Kecil \\
-        \hspace*{1cm}Uji coba kelas kecil dilakukan dengan melibatkan beberapa peserta didik dari kelas VIII-D. Pelaksanaan uji coba ini dilakukan melalui kegiatan pembelajaran menggunakan media pembelajaran yang sedang dikembangkan. Setelah pembelajaran selesai, peserta didik diminta mengisi angket untuk memperoleh informasi mengenai respons mereka terhadap media tersebut. Uji coba kelas kecil dilaksanakan pada tanggal 14 Mei 2024 dengan melibatkan 7 peserta didik kelas VIII-D yang dipilih secara acak.
+        \hspace*{1cm}Uji coba kelas kecil dilakukan pada tanggal 18 Mei 2026 dengan melibatkan 5 peserta didik kelas VIII-D yang dipilih secara acak. Kegiatan ini dilaksanakan melalui pembelajaran menggunakan media yang sedang dikembangkan. Setelah pembelajaran selesai, peserta didik diminta mengisi angket untuk mengetahui respons mereka terhadap media tersebut.
 
-        \hspace*{1cm}Pada tahap awal uji coba kelas kecil, peneliti terlebih dahulu meminta izin kepada pendidik matematika untuk melaksanakan uji coba terhadap 7 peserta didik kelas VIII-D. Pemilihan peserta didik dilakukan secara acak oleh pendidik matematika kelas VIII-D. Uji coba dilakukan dengan memberikan media pembelajaran dan angket kepada peserta didik. Angket tersebut digunakan untuk memperoleh data penilaian peserta didik terhadap media pembelajaran yang sedang dikembangkan. Hasil dari penyebaran angket dapat dilihat pada Tabel 3.
+        \hspace*{1cm}Sebelum pelaksanaan, peneliti terlebih dahulu meminta izin kepada pendidik matematika kelas VIII-D. Pemilihan peserta didik dilakukan secara acak oleh pendidik. Selama uji coba, peserta didik menggunakan media pembelajaran dan kemudian mengisi angket penilaian.
+
+        \hspace*{1cm}Hasil angket menunjukkan bahwa media pembelajaran memudahkan pemahaman materi, menarik, serta diharapkan dapat dikembangkan untuk materi lainnya. Pada tahap ini tidak terdapat saran revisi dari peserta didik, sehingga pengembangan dapat dilanjutkan ke tahap berikutnya.
+
 
         \item Uji Coba Kelas Besar \\
-        \hspace*{1cm}Uji coba kelas besar dilakukan dengan melibatkan seluruh peserta didik kelas VIII-D SMP Muhammadiyah 9 Yogyakarta pada tanggal 16 Mei 2024. Pemilihan kelas tersebut didasarkan pada rekomendasi dari pendidik matematika. Alasan pemilihan ini adalah karena pendidik mengampu kelas tersebut dan peserta didik diketahui mengalami kesulitan dalam mempelajari materi bangun ruang.
+        \hspace*{1cm}Uji coba kelas besar dilakukan dengan melibatkan seluruh peserta didik kelas VIII-B SMP Muhammadiyah 9 Yogyakarta pada tanggal 20 Mei 2026. Pemilihan kelas tersebut didasarkan pada rekomendasi pendidik matematika karena pendidik tersebut mengampu kelas tersebut dan materi bangun ruang sedang diajarkan.
 
-        \hspace{1cm}Uji coba dilakukan melalui pembelajaran menggunakan media pembelajaran berbasis simulasi 3D. Setelah pembelajaran selesai, peserta didik diberikan angket. Angket tersebut digunakan untuk mengetahui penilaian peserta didik terhadap kualitas media pembelajaran yang dikembangkan. Pembelajaran dilaksanakan dengan membagi peserta didik ke dalam kelompok, disesuaikan dengan jumlah peserta didik yang membawa smartphone. Setelah peserta didik menyelesaikan materi dan soal-soal yang terdapat dalam media, mereka diminta untuk mengisi angket yang telah disediakan.
+        \hspace{1cm}Pelaksanaan uji coba dilakukan melalui pembelajaran menggunakan media pembelajaran berbasis simulasi 3D. Setelah pembelajaran selesai, peserta didik diminta mengisi angket yang telah disiapkan. Angket tersebut digunakan untuk memperoleh penilaian peserta didik terhadap kualitas media pembelajaran yang dikembangkan. Peserta didik menyampaikan bahwa materi mudah dipahami dan pembelajaran menjadi tidak membosankan. Mereka juga menyarankan agar tidak terlalu banyak bacaan dan contoh soal diperbanyak.
     \end{enumerate}
 
     \item \textbf{Evaluasi}
@@ -281,7 +439,8 @@
 
     \begin{table}[H]
         \centering
-        \caption{Kriteria Penilaian Ahli Materi dan Ahli Media}
+        \caption{Kriteria Penilaian Ahli Materi, Ahli Media, dan Respons Peserta Didik}
+        \label{tab:kriteriaahli}
         \begin{tabular}{|c|c|l|}
             \hline
             \textbf{No} & \textbf{Rentang Skor \( (i) \) Kuantitatif} & \textbf{Kategori Kualitatif}\\
@@ -294,7 +453,7 @@
             \hline 
         \end{tabular}
     \end{table}
-    \hspace*{1cm}Dari Tabel \ref{penilaianmateri} diperoleh skor rata-rata penilaian kedua validator sebesar \(4{,}63\). Mengacu pada kriteria penilaian yang ditetapkan pada Tabel \ref{kriteriaresponsiswa}, skor sebesar \(4{,}63\) berada di atas nilai ambang batas \(\bar{x} > 4{,}2\), sehingga termasuk dalam kategori \textbf{Sangat Baik}. Selain itu, kedua validator juga memberikan skor penuh sebesar 5 pada aspek simulasi 3D, yang menunjukkan bahwa penggunaan simulasi 3D dalam media pembelajaran mendapat respons yang sangat positif.
+    \hspace*{1cm}Dari Tabel \ref{penilaianmateri} diperoleh skor rata-rata penilaian kedua validator sebesar \(4{,}63\). Mengacu pada kriteria penilaian yang ditetapkan pada Tabel \ref{tab:kriteriaahli}, skor sebesar \(4{,}63\) berada di atas nilai ambang batas \(\bar{x} > 4{,}2\), sehingga termasuk dalam kategori \textbf{Sangat Baik}. Selain itu, kedua validator juga memberikan skor penuh sebesar 5 pada aspek simulasi 3D, yang menunjukkan bahwa penggunaan simulasi 3D dalam media pembelajaran mendapat respons yang sangat positif.
 
     \item Analisis Penilaian Angket Ahli Media\\
     \hspace*{1cm}Validasi oleh ahli media dilakukan untuk memperoleh penilaian berupa skor, komentar, dan masukan terhadap media pembelajaran yang dikembangkan. Komentar dan saran dari validator media digunakan untuk menyempurnakan media pembelajaran agar menghasilkan produk akhir yang layak digunakan. Kelayakan media pembelajaran ini dinilai oleh dua orang ahli media, yaitu Bapak Anggit Prabowo, M.Pd., dosen Pendidikan Matematika UAD sebagai validator 1, dan Bapak Wibowo Ramadhiyanto, S.Pd., pendidik Matematika di SMP Muhammadiyah 9 Yogyakarta sebagai validator 2. Hasil penilaian kelayakan oleh ahli media disajikan pada Tabel~\ref{penilaianmedia}.
@@ -332,27 +491,11 @@
     %         \hline 
     %     \end{tabular}
     % \end{table}
-    \hspace*{1cm}Dari Tabel \ref{penilaianmedia} diperoleh skor rata-rata penilaian kedua validator sebesar \(4{,}66\). Mengacu pada kriteria penilaian yang ditetapkan pada Tabel \ref{kriteriaresponsiswa}, skor sebesar \(4{,}66\) berada di atas nilai ambang batas \(\bar{x} > 4{,}2\), sehingga termasuk dalam kategori \textbf{Sangat Baik}. Selain itu, kedua validator juga memberikan skor tinggi pada aspek kualitas perangkat lunak, dengan skor rata-rata sebesar \(4{,}83\), yang menunjukkan bahwa media pembelajaran berbasis simulasi 3D yang dikembangkan memiliki kualitas perangkat lunak yang sangat baik.
+    \hspace*{1cm}Dari Tabel \ref{penilaianmedia} diperoleh skor rata-rata penilaian kedua validator sebesar \(4{,}66\). Mengacu pada kriteria penilaian yang ditetapkan pada Tabel \ref{tab:kriteriaahli}, skor sebesar \(4{,}66\) berada di atas nilai ambang batas \(\bar{x} > 4{,}2\), sehingga termasuk dalam kategori \textbf{Sangat Baik}. Selain itu, kedua validator juga memberikan skor tinggi pada aspek kualitas perangkat lunak, dengan skor rata-rata sebesar \(4{,}83\), yang menunjukkan bahwa media pembelajaran berbasis simulasi 3D yang dikembangkan memiliki kualitas perangkat lunak yang sangat baik.
 
     \item Analisis Penilaian Angket Respons Peserta Didik\\
-    \hspace*{1cm}Respons peserta didik diperoleh melalui uji coba kelas kecil dan uji coba kelas besar yang bertujuan untuk mendapatkan penilaian berupa skor, komentar, dan masukan terhadap media pembelajaran yang telah dikembangkan. Respons tersebut dianalisis berdasarkan hasil angket yang disebarkan kepada peserta didik kelas VIII-D SMP Muhammadiyah 9 Yogyakarta. Kriteria penilaian angket respons peserta didik disajikan pada Tabel \ref{kriteriaresponsiswa}. Kriteria ini mengacu pada buku Prof. Sugiyono 2019 tentang metode penelitian kuantitatif, kualitatif, dan R\&D. Adapun hasil uji coba kelas kecil disajikan pada Tabel~\ref{ujikelaskecil}.
-    \begin{table}[H]
-        \centering
-        \caption{Kriteria Penilaian Respons Peserta Didik}
-        \label{kriteriaresponsiswa}
-        \begin{tabular}{|c|c|l|}
-            \hline
-            \textbf{No} & \textbf{Rentang Skor \( (i) \) Kuantitatif} & \textbf{Kategori Kualitatif}\\
-            \hline
-            1 & \( \bar{x} > 4{,}2 \) & Sangat Baik\\
-            2 & \( 3{,}4 < \bar{x} \leq 4{,}2 \) & Baik\\
-            3 & \( 2{,}6 < \bar{x} \leq 3{,}4 \) & Cukup Baik\\
-            4 & \( 1{,}8 < \bar{x} \leq 2{,}6 \) & Kurang\\
-            5 & \( \bar{x} \leq 1{,8} \) & Sangat Kurang\\
-            \hline 
-        \end{tabular}
-    \end{table}
-    \hspace*{1cm}Berdasarkan pengambilan data pada uji coba kelas kecil yang melibatkan lima orang peserta didik, diperoleh hasil sebagai berikut.
+    \hspace*{1cm}Respons peserta didik diperoleh melalui uji coba kelas kecil dan uji coba kelas besar yang bertujuan untuk mendapatkan penilaian berupa skor, komentar, dan masukan terhadap media pembelajaran yang telah dikembangkan. Respons tersebut dianalisis berdasarkan hasil angket yang disebarkan kepada peserta didik kelas VIII-B SMP Muhammadiyah 9 Yogyakarta. Kriteria penilaian angket respons peserta didik disajikan pada Tabel \ref{tab:kriteriaahli}. Kriteria ini mengacu pada buku Prof. Sugiyono 2019 tentang metode penelitian kuantitatif, kualitatif, dan R\&D. Adapun hasil uji coba kelas kecil disajikan pada Tabel~\ref{ujikelaskecil}.
+
     \begin{table}[H]
         \centering
         \caption{Data Hasil Ujicoba Kelas Kecil}
@@ -371,15 +514,15 @@
             \hline
         \end{tabular}
     \end{table}
-    Hasil uji coba kelas kecil menunjukkan bahwa skor rata-rata respons peserta didik sebesar \(4{,}31\). Mengacu pada kriteria penilaian yang ditetapkan pada Tabel \ref{kriteriaresponsiswa}, skor sebesar \(4{,}31\) berada di atas nilai ambang batas \(\bar{x} > 4{,}2\), sehingga termasuk dalam kategori \textbf{Sangat Baik}. Peserta didik memberikan tanggapan bahwa media pembelajaran ini menarik, mudah dipahami, dan menyarankan untuk diterapkan pada materi pembelajaran lain. Dari hasil ini, tidak terdapat rekomendasi revisi yang signifikan untuk produk berdasarkan uji coba kelas kecil, sehingga bisa langsung dilanjutkan ke tahap uji coba kelas besar. 
-    \begin{figure}[H]
-        \centering
-        \includegraphics[width=1\textwidth]{komentar/kelaskecil1.jpg}
-        \includegraphics[width=1\textwidth]{komentar/kelaskecil2.jpg}
-        \includegraphics[width=1\textwidth]{komentar/kelaskecil3.jpg}
-        \caption{Komentar dan Saran Kelas Kecil}
-        \label{saran1}
-    \end{figure}
+    Hasil uji coba kelas kecil menunjukkan bahwa skor rata-rata respons peserta didik sebesar \(4{,}31\). Mengacu pada kriteria penilaian yang ditetapkan pada Tabel \ref{tab:kriteriaahli}, skor sebesar \(4{,}31\) berada di atas nilai ambang batas \(\bar{x} > 4{,}2\), sehingga termasuk dalam kategori \textbf{Sangat Baik}. Peserta didik memberikan tanggapan bahwa media pembelajaran ini menarik, mudah dipahami, dan menyarankan untuk diterapkan pada materi pembelajaran lain. Dari hasil ini, tidak terdapat rekomendasi revisi yang signifikan untuk produk berdasarkan uji coba kelas kecil, sehingga bisa langsung dilanjutkan ke tahap uji coba kelas besar.\\
+    % \begin{figure}[H]
+    %     \centering
+    %     \includegraphics[width=1\textwidth]{komentar/kelaskecil1.jpg}
+    %     \includegraphics[width=1\textwidth]{komentar/kelaskecil2.jpg}
+    %     \includegraphics[width=1\textwidth]{komentar/kelaskecil3.jpg}
+    %     \caption{Komentar dan Saran Kelas Kecil}
+    %     \label{saran1}
+    % \end{figure}
     \hspace*{1cm}Berdasarkan pengambilan data pada uji coba kelas besar yang melibatkan 21 peserta didik kelas VIII-B, diperoleh hasil seperti pada Tabel \ref{ujikelasbesar}.
     \begin{table}[H]
         \centering
@@ -415,7 +558,7 @@
             \hline
         \end{tabular}
     \end{table}
-    Hasil uji coba kelas besar menunjukkan bahwa skor rata-rata respons peserta didik sebesar \(4{,}65\). Mengacu pada kriteria penilaian yang ditetapkan pada Tabel \ref{kriteriaresponsiswa}, skor sebesar \(4{,}65\) berada di atas nilai ambang batas \(\bar{x} > 4{,}2\), sehingga termasuk dalam kategori \textbf{Sangat Baik}. Peserta didik memberikan umpan balik positif, meliputi pernyataan bahwa materi mudah dipahami, media pembelajaran menarik, dan simulasi 3D dapat meningkatkan motivasi belajar. Meskipun demikian, beberapa peserta didik memberikan rekomendasi untuk menambah jumlah contoh soal dengan tujuan meningkatkan pemahaman konsep. Dokumentasi lengkap dari komentar dan saran peserta didik tersaji secara rinci dalam lampiran penelitian ini.
+    Hasil uji coba kelas besar menunjukkan bahwa skor rata-rata respons peserta didik sebesar \(4{,}65\). Mengacu pada kriteria penilaian yang ditetapkan pada Tabel \ref{tab:kriteriaahli}, skor sebesar \(4{,}65\) berada di atas nilai ambang batas \(\bar{x} > 4{,}2\), sehingga termasuk dalam kategori \textbf{Sangat Baik}. Peserta didik memberikan umpan balik positif, meliputi pernyataan bahwa materi mudah dipahami, media pembelajaran menarik, dan simulasi 3D dapat meningkatkan motivasi belajar. Meskipun demikian, beberapa peserta didik memberikan rekomendasi untuk menambah jumlah contoh soal dengan tujuan meningkatkan pemahaman konsep. Dokumentasi lengkap dari komentar dan saran peserta didik tersaji secara rinci dalam lampiran penelitian ini.
     \item Kualitas Produk Secara Keseluruhan\\
     \hspace*{1cm}Kualitas media pembelajaran secara keseluruhan dinilai berdasarkan skor rata-rata dari ahli materi, ahli media, uji coba kelas kecil, dan uji coba kelas besar. Hasil perhitungan rata-rata keseluruhan dari keempat penilaian tersebut disajikan pada Tabel~\ref{ratakeseluruhan}.\\
     \begin{table}[H]
@@ -436,10 +579,11 @@
             
         \end{tabular}
     \end{table}
-    \hspace*{1cm}Berdasarkan hasil perhitungan rata-rata keseluruhan pada Tabel~\ref{ratakeseluruhan}, diperoleh skor rata-rata sebesar \(4{,}56\). Mengacu pada kriteria penilaian yang telah ditetapkan pada Tabel \ref{kriteriaresponsiswa}, skor sebesar \(4{,}56\) berada di atas nilai ambang batas \(\bar{x} > 4{,}2\), sehingga termasuk dalam kategori \textbf{Sangat Baik}. Hasil ini menunjukkan bahwa media pembelajaran berbasis simulasi 3D yang dikembangkan memiliki kualitas yang sangat baik dan dinyatakan layak untuk digunakan dalam proses pembelajaran materi bangun ruang sisi datar untuk peserta didik kelas VIII.
+    \hspace*{1cm}Berdasarkan hasil perhitungan rata-rata keseluruhan pada Tabel~\ref{ratakeseluruhan}, diperoleh skor rata-rata sebesar \(4{,}56\). Mengacu pada kriteria penilaian yang telah ditetapkan pada Tabel \ref{tab:kriteriaahli}, skor sebesar \(4{,}56\) berada di atas nilai ambang batas \(\bar{x} > 4{,}2\), sehingga termasuk dalam kategori \textbf{Sangat Baik}. Hasil ini menunjukkan bahwa media pembelajaran berbasis simulasi 3D yang dikembangkan memiliki kualitas yang sangat baik dan dinyatakan layak untuk digunakan dalam proses pembelajaran materi bangun ruang sisi datar untuk peserta didik kelas VIII.
 
 \end{enumerate}
 % REVISI PRODUK
+\newpage
 \textbf{C. Revisi Produk}
 \addcontentsline{toc}{section}{C. Revisi Produk}
 
@@ -530,8 +674,8 @@
 
     \end{enumerate}
 
-    \item Revisi Produk Hasil Uji Coba Kelas Kecil
-    \item Revisi Produk Hasil Uji Coba Kelas Besar
+    \item Revisi Produk Hasil Uji Coba Kelas Kecil\\
+    \hspace*{1cm}Setelah melakukan ujicoba kelas kecil, tidak ada revisi yang disarankan oleh peserta didik.
 \end{enumerate}
 
 \textbf{D. Kajian Produk Akhir}

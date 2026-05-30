@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.3.20)  22 MAY 2026 11:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.3.20)  31 MAY 2026 06:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -61,7 +61,27 @@ File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen149
 \Gin@req@width=\dimen150
-) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/mathptmx.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
+\ESO@tempdima=\dimen151
+\ESO@tempdimb=\dimen152
+ (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+)) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/mathptmx.sty
 Package: mathptmx 2020/03/25 PSNFSS-v9.3 Times w/ Math, improved (SPQR, WaS) 
 LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
@@ -101,7 +121,7 @@ Package: setspace 2022/12/04 v6.7b set line spacing
 ) (/usr/share/texlive/texmf-dist/tex/latex/enumitem/enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip50
-\enit@outerparindent=\dimen151
+\enit@outerparindent=\dimen153
 \enit@toks=\toks19
 \enit@inbox=\box51
 \enit@count@id=\count199
@@ -111,120 +131,146 @@ Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
 \multirow@colwidth=\skip51
 \multirow@cntb=\count267
 \multirow@dima=\skip52
-\bigstrutjot=\dimen152
+\bigstrutjot=\dimen154
 ) (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
 Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
-\col@sep=\dimen153
+\col@sep=\dimen155
 \ar@mcellbox=\box52
-\extrarowheight=\dimen154
+\extrarowheight=\dimen156
 \NC@list=\toks20
 \extratabsurround=\skip53
 \backup@length=\skip54
 \ar@cellbox=\box53
 ) (/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen155
-\lightrulewidth=\dimen156
-\cmidrulewidth=\dimen157
-\belowrulesep=\dimen158
-\belowbottomsep=\dimen159
-\aboverulesep=\dimen160
-\abovetopsep=\dimen161
-\cmidrulesep=\dimen162
-\cmidrulekern=\dimen163
-\defaultaddspace=\dimen164
+\heavyrulewidth=\dimen157
+\lightrulewidth=\dimen158
+\cmidrulewidth=\dimen159
+\belowrulesep=\dimen160
+\belowbottomsep=\dimen161
+\aboverulesep=\dimen162
+\abovetopsep=\dimen163
+\cmidrulesep=\dimen164
+\cmidrulekern=\dimen165
+\defaultaddspace=\dimen166
 \@cmidla=\count268
 \@cmidlb=\count269
-\@aboverulesep=\dimen165
-\@belowrulesep=\dimen166
+\@aboverulesep=\dimen167
+\@belowrulesep=\dimen168
 \@thisruleclass=\count270
 \@lastruleclass=\count271
-\@thisrulewidth=\dimen167
+\@thisrulewidth=\dimen169
 ) (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
  (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
-\caption@tempdima=\dimen168
-\captionmargin=\dimen169
-\caption@leftmargin=\dimen170
-\caption@rightmargin=\dimen171
-\caption@width=\dimen172
-\caption@indent=\dimen173
-\caption@parindent=\dimen174
-\caption@hangindent=\dimen175
+\caption@tempdima=\dimen170
+\captionmargin=\dimen171
+\caption@leftmargin=\dimen172
+\caption@rightmargin=\dimen173
+\caption@width=\dimen174
+\caption@indent=\dimen175
+\caption@parindent=\dimen176
+\caption@hangindent=\dimen177
 Package caption Info: Standard document class detected.
 )
 \c@caption@flags=\count272
 \c@continuedfloat=\count273
-) (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2023/03/13 v3.1a Micro-typographical refinements (RS)
+ (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count274
+)
+\MT@toks=\toks21
+\MT@tempbox=\box54
+\MT@count=\count275
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1059.
+LaTeX Info: Redefining \leftprotrusion on input line 1060.
+\MT@prot@toks=\toks22
+LaTeX Info: Redefining \rightprotrusion on input line 1078.
+LaTeX Info: Redefining \textls on input line 1368.
+\MT@outer@kern=\dimen178
+LaTeX Info: Redefining \textmicrotypecontext on input line 1988.
+\MT@listname@count=\count276
+ (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+File: microtype-pdftex.def 2023/03/13 v3.1a Definitions specific to pdftex (RS)
+LaTeX Info: Redefining \lsstyle on input line 902.
+LaTeX Info: Redefining \lslig on input line 902.
+\MT@outer@space=\skip55
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+ (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2023/03/13 v3.1a microtype main configuration file (RS)
+)) (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count274
-\float@exts=\toks21
-\float@box=\box54
-\@float@everytoks=\toks22
-\@floatcapt=\box55
+\c@float@type=\count277
+\float@exts=\toks23
+\float@box=\box55
+\@float@everytoks=\toks24
+\@floatcapt=\box56
 ) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2023/05/13 v2.17o AMS math features
-\@mathmargin=\skip55
+\@mathmargin=\skip56
 
 For additional information on amsmath, use the `?' option.
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
  (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks23
-\ex@=\dimen176
+\@emptytoks=\toks25
+\ex@=\dimen179
 )) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen177
+\pmbraise@=\dimen180
 ) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count275
+\inf@bad=\count278
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count276
-\leftroot@=\count277
+\uproot@=\count279
+\leftroot@=\count280
 LaTeX Info: Redefining \overline on input line 399.
 LaTeX Info: Redefining \colon on input line 410.
-\classnum@=\count278
-\DOTSCASE@=\count279
+\classnum@=\count281
+\DOTSCASE@=\count282
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
-\Mathstrutbox@=\box56
-\strutbox@=\box57
+\Mathstrutbox@=\box57
+\strutbox@=\box58
 LaTeX Info: Redefining \big on input line 722.
 LaTeX Info: Redefining \Big on input line 723.
 LaTeX Info: Redefining \bigg on input line 724.
 LaTeX Info: Redefining \Bigg on input line 725.
-\big@size=\dimen178
+\big@size=\dimen181
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count280
+\macc@depth=\count283
 LaTeX Info: Redefining \bmod on input line 905.
 LaTeX Info: Redefining \pmod on input line 910.
 LaTeX Info: Redefining \smash on input line 940.
 LaTeX Info: Redefining \relbar on input line 970.
 LaTeX Info: Redefining \Relbar on input line 971.
-\c@MaxMatrixCols=\count281
+\c@MaxMatrixCols=\count284
 \dotsspace@=\muskip16
-\c@parentequation=\count282
-\dspbrk@lvl=\count283
-\tag@help=\toks24
-\row@=\count284
-\column@=\count285
-\maxfields@=\count286
-\andhelp@=\toks25
-\eqnshift@=\dimen179
-\alignsep@=\dimen180
-\tagshift@=\dimen181
-\tagwidth@=\dimen182
-\totwidth@=\dimen183
-\lineht@=\dimen184
-\@envbody=\toks26
-\multlinegap=\skip56
-\multlinetaggap=\skip57
-\mathdisplay@stack=\toks27
+\c@parentequation=\count285
+\dspbrk@lvl=\count286
+\tag@help=\toks26
+\row@=\count287
+\column@=\count288
+\maxfields@=\count289
+\andhelp@=\toks27
+\eqnshift@=\dimen182
+\alignsep@=\dimen183
+\tagshift@=\dimen184
+\tagwidth@=\dimen185
+\totwidth@=\dimen186
+\lineht@=\dimen187
+\@envbody=\toks28
+\multlinegap=\skip57
+\multlinetaggap=\skip58
+\mathdisplay@stack=\toks29
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
 ) (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
@@ -237,12 +283,12 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )) (/usr/share/texlive/texmf-dist/tex/latex/changepage/changepage.sty
 Package: changepage 2009/10/20 v1.0c check page and change page layout
-\c@cp@cntr=\count287
-\cp@tempcnt=\count288
+\c@cp@cntr=\count290
+\cp@tempcnt=\count291
 ) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
-\inpenc@prehook=\toks28
-\inpenc@posthook=\toks29
+\inpenc@prehook=\toks30
+\inpenc@posthook=\toks31
 ) (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 LaTeX Font Info:    Trying to load font information for T1+ptm on input line 112.
@@ -250,49 +296,49 @@ LaTeX Font Info:    Trying to load font information for T1+ptm on input line 112
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )) (/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip58
-\bibsep=\skip59
+\bibhang=\skip59
+\bibsep=\skip60
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count289
+\c@NAT@ctr=\count292
 ) (/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
 Package: tabularx 2023/07/08 v2.11c `tabularx' package (DPC)
-\TX@col@width=\dimen185
-\TX@old@table=\dimen186
-\TX@old@col=\dimen187
-\TX@target=\dimen188
-\TX@delta=\dimen189
-\TX@cols=\count290
-\TX@ftn=\toks30
+\TX@col@width=\dimen188
+\TX@old@table=\dimen189
+\TX@old@col=\dimen190
+\TX@target=\dimen191
+\TX@delta=\dimen192
+\TX@cols=\count293
+\TX@ftn=\toks32
 ) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
-\f@nch@headwidth=\skip60
-\f@nch@O@elh=\skip61
-\f@nch@O@erh=\skip62
-\f@nch@O@olh=\skip63
-\f@nch@O@orh=\skip64
-\f@nch@O@elf=\skip65
-\f@nch@O@erf=\skip66
-\f@nch@O@olf=\skip67
-\f@nch@O@orf=\skip68
+\f@nch@headwidth=\skip61
+\f@nch@O@elh=\skip62
+\f@nch@O@erh=\skip63
+\f@nch@O@olh=\skip64
+\f@nch@O@orh=\skip65
+\f@nch@O@elf=\skip66
+\f@nch@O@erf=\skip67
+\f@nch@O@olf=\skip68
+\f@nch@O@orf=\skip69
 ) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2024-01-22 L3 programming layer (loader) 
  (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count291
-\l__pdf_internal_box=\box58
+\l__color_backend_stack_int=\count294
+\l__pdf_internal_box=\box59
 ))
 Package: l3keys2e 2023-10-10 LaTeX2e option processing using LaTeX3 keys
 )
 Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
-\g__lipsum_par_int=\count292
-\l__lipsum_a_int=\count293
-\l__lipsum_b_int=\count294
+\g__lipsum_par_int=\count295
+\l__lipsum_a_int=\count296
+\l__lipsum_b_int=\count297
  (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
-\pgfutil@everybye=\toks31
-\pgfutil@tempdima=\dimen190
-\pgfutil@tempdimb=\dimen191
+\pgfutil@everybye=\toks33
+\pgfutil@tempdima=\dimen193
+\pgfutil@tempdimb=\dimen194
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
-\pgfutil@abb=\box59
+\pgfutil@abb=\box60
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (/usr/share/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex)
 Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
 ))
@@ -300,31 +346,31 @@ Package: pgf 2023-01-15 v3.1.10 (3.1.10)
  (/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
 Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
  (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks32
-\pgfkeys@temptoks=\toks33
+\pgfkeys@pathtoks=\toks34
+\pgfkeys@temptoks=\toks35
  (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.tex
-\pgfkeys@tmptoks=\toks34
+\pgfkeys@tmptoks=\toks36
 ))
-\pgf@x=\dimen192
-\pgf@y=\dimen193
-\pgf@xa=\dimen194
-\pgf@ya=\dimen195
-\pgf@xb=\dimen196
-\pgf@yb=\dimen197
-\pgf@xc=\dimen198
-\pgf@yc=\dimen199
-\pgf@xd=\dimen256
-\pgf@yd=\dimen257
+\pgf@x=\dimen195
+\pgf@y=\dimen196
+\pgf@xa=\dimen197
+\pgf@ya=\dimen198
+\pgf@xb=\dimen199
+\pgf@yb=\dimen256
+\pgf@xc=\dimen257
+\pgf@yc=\dimen258
+\pgf@xd=\dimen259
+\pgf@yd=\dimen260
 \w@pgf@writea=\write3
 \r@pgf@reada=\read2
-\c@pgf@counta=\count295
-\c@pgf@countb=\count296
-\c@pgf@countc=\count297
-\c@pgf@countd=\count298
-\t@pgf@toka=\toks35
-\t@pgf@tokb=\toks36
-\t@pgf@tokc=\toks37
-\pgf@sys@id@count=\count299
+\c@pgf@counta=\count298
+\c@pgf@countb=\count299
+\c@pgf@countc=\count300
+\c@pgf@countd=\count301
+\t@pgf@toka=\toks37
+\t@pgf@tokb=\toks38
+\t@pgf@tokc=\toks39
+\pgf@sys@id@count=\count302
  (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
 )
@@ -335,75 +381,59 @@ File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
 File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
 ))) (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfsyssoftpath@smallbuffer@items=\count300
-\pgfsyssoftpath@bigbuffer@items=\count301
+\pgfsyssoftpath@smallbuffer@items=\count303
+\pgfsyssoftpath@bigbuffer@items=\count304
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)) (/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
-Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
- (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
-File: color.cfg 2016/01/02 v1.6 sample color configuration
-)
-Package xcolor Info: Driver file: pdftex.def on input line 274.
- (/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx)
-Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
-Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
-Package xcolor Info: Model `RGB' extended on input line 1366.
-Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
-Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
-Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
-Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
-Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
-Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
-) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
 Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
  (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen258
-\pgfmath@count=\count302
-\pgfmath@box=\box60
-\pgfmath@toks=\toks38
-\pgfmath@stack@operand=\toks39
-\pgfmath@stack@operation=\toks40
+\pgfmath@dimen=\dimen261
+\pgfmath@count=\count305
+\pgfmath@box=\box61
+\pgfmath@toks=\toks40
+\pgfmath@stack@operand=\toks41
+\pgfmath@stack@operation=\toks42
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count303
+\c@pgfmathroundto@lastzeros=\count306
 )) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@picminx=\dimen259
-\pgf@picmaxx=\dimen260
-\pgf@picminy=\dimen261
-\pgf@picmaxy=\dimen262
-\pgf@pathminx=\dimen263
-\pgf@pathmaxx=\dimen264
-\pgf@pathminy=\dimen265
-\pgf@pathmaxy=\dimen266
-\pgf@xx=\dimen267
-\pgf@xy=\dimen268
-\pgf@yx=\dimen269
-\pgf@yy=\dimen270
-\pgf@zx=\dimen271
-\pgf@zy=\dimen272
+\pgf@picminx=\dimen262
+\pgf@picmaxx=\dimen263
+\pgf@picminy=\dimen264
+\pgf@picmaxy=\dimen265
+\pgf@pathminx=\dimen266
+\pgf@pathmaxx=\dimen267
+\pgf@pathminy=\dimen268
+\pgf@pathmaxy=\dimen269
+\pgf@xx=\dimen270
+\pgf@xy=\dimen271
+\pgf@yx=\dimen272
+\pgf@yy=\dimen273
+\pgf@zx=\dimen274
+\pgf@zy=\dimen275
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@path@lastx=\dimen273
-\pgf@path@lasty=\dimen274
+\pgf@path@lastx=\dimen276
+\pgf@path@lasty=\dimen277
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
 File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@shorten@end@additional=\dimen275
-\pgf@shorten@start@additional=\dimen276
+\pgf@shorten@end@additional=\dimen278
+\pgf@shorten@start@additional=\dimen279
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfpic=\box61
-\pgf@hbox=\box62
-\pgf@layerbox@main=\box63
-\pgf@picture@serial@count=\count304
+\pgfpic=\box62
+\pgf@hbox=\box63
+\pgf@layerbox@main=\box64
+\pgf@picture@serial@count=\count307
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgflinewidth=\dimen277
+\pgflinewidth=\dimen280
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
 File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@pt@x=\dimen278
-\pgf@pt@y=\dimen279
-\pgf@pt@temp=\dimen280
+\pgf@pt@x=\dimen281
+\pgf@pt@y=\dimen282
+\pgf@pt@temp=\dimen283
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
@@ -412,17 +442,17 @@ File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
 File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
 File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfarrowsep=\dimen281
+\pgfarrowsep=\dimen284
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@max=\dimen282
-\pgf@sys@shading@range@num=\count305
-\pgf@shadingcount=\count306
+\pgf@max=\dimen285
+\pgf@sys@shading@range@num=\count308
+\pgf@shadingcount=\count309
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
 File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfexternal@startupbox=\box64
+\pgfexternal@startupbox=\box65
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
 File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
@@ -433,51 +463,51 @@ File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
 File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfnodeparttextbox=\box65
+\pgfnodeparttextbox=\box66
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
 File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
 Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
-\pgf@nodesepstart=\dimen283
-\pgf@nodesepend=\dimen284
+\pgf@nodesepstart=\dimen286
+\pgf@nodesepend=\dimen287
 ) (/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
 Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
 )) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
 Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
-\pgffor@iter=\dimen285
-\pgffor@skip=\dimen286
-\pgffor@stack=\toks41
-\pgffor@toks=\toks42
+\pgffor@iter=\dimen288
+\pgffor@skip=\dimen289
+\pgffor@stack=\toks43
+\pgffor@toks=\toks44
 )) (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
 Package: tikz 2023-01-15 v3.1.10 (3.1.10)
  (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@plot@mark@count=\count307
-\pgfplotmarksize=\dimen287
+\pgf@plot@mark@count=\count310
+\pgfplotmarksize=\dimen290
 )
-\tikz@lastx=\dimen288
-\tikz@lasty=\dimen289
-\tikz@lastxsaved=\dimen290
-\tikz@lastysaved=\dimen291
-\tikz@lastmovetox=\dimen292
-\tikz@lastmovetoy=\dimen293
-\tikzleveldistance=\dimen294
-\tikzsiblingdistance=\dimen295
-\tikz@figbox=\box66
-\tikz@figbox@bg=\box67
-\tikz@tempbox=\box68
-\tikz@tempbox@bg=\box69
-\tikztreelevel=\count308
-\tikznumberofchildren=\count309
-\tikznumberofcurrentchild=\count310
-\tikz@fig@count=\count311
+\tikz@lastx=\dimen291
+\tikz@lasty=\dimen292
+\tikz@lastxsaved=\dimen293
+\tikz@lastysaved=\dimen294
+\tikz@lastmovetox=\dimen295
+\tikz@lastmovetoy=\dimen296
+\tikzleveldistance=\dimen297
+\tikzsiblingdistance=\dimen298
+\tikz@figbox=\box67
+\tikz@figbox@bg=\box68
+\tikz@tempbox=\box69
+\tikz@tempbox@bg=\box70
+\tikztreelevel=\count311
+\tikznumberofchildren=\count312
+\tikznumberofcurrentchild=\count313
+\tikz@fig@count=\count314
  (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfmatrixcurrentrow=\count312
-\pgfmatrixcurrentcolumn=\count313
-\pgf@matrix@numberofcolumns=\count314
+\pgfmatrixcurrentrow=\count315
+\pgfmatrixcurrentcolumn=\count316
+\pgf@matrix@numberofcolumns=\count317
 )
-\tikz@expandcount=\count315
+\tikz@expandcount=\count318
  (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))) (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.code.tex
@@ -488,29 +518,29 @@ File: tikzlibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
 File: pgflibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )) (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.code.tex
 File: pgflibraryarrows.meta.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfarrowinset=\dimen296
-\pgfarrowlength=\dimen297
-\pgfarrowwidth=\dimen298
-\pgfarrowlinewidth=\dimen299
+\pgfarrowinset=\dimen299
+\pgfarrowlength=\dimen300
+\pgfarrowwidth=\dimen301
+\pgfarrowlinewidth=\dimen302
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypositioning.code.tex
 File: tikzlibrarypositioning.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (./skripsi.aux)
 \openout1 = `skripsi.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
-LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 62.
+LaTeX Font Info:    ... okay on input line 62.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -529,7 +559,7 @@ LaTeX Font Info:    ... okay on input line 49.
 * \oddsidemargin=41.54103pt
 * \evensidemargin=41.54103pt
 * \topmargin=4.54103pt
-* \headheight=12.0pt
+* \headheight=14.49998pt
 * \headsep=25.0pt
 * \topskip=12.0pt
 * \footskip=30.0pt
@@ -548,17 +578,17 @@ LaTeX Font Info:    ... okay on input line 49.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count316
-\scratchdimen=\dimen300
-\scratchbox=\box70
-\nofMPsegments=\count317
-\nofMParguments=\count318
-\everyMPshowfont=\toks43
-\MPscratchCnt=\count319
-\MPscratchDim=\dimen301
-\MPnumerator=\count320
-\makeMPintoPDFobject=\count321
-\everyMPtoPDFconversion=\toks44
+\scratchcounter=\count319
+\scratchdimen=\dimen303
+\scratchbox=\box71
+\nofMPsegments=\count320
+\nofMParguments=\count321
+\everyMPshowfont=\toks45
+\MPscratchCnt=\count322
+\MPscratchDim=\dimen304
+\MPnumerator=\count323
+\makeMPintoPDFobject=\count324
+\everyMPtoPDFconversion=\toks46
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -567,1386 +597,496 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: changepage package is loaded.
-\caption@adjustwidth@hsize=\dimen302
-\caption@adjustwidth@linewidth=\dimen303
+\caption@adjustwidth@hsize=\dimen305
+\caption@adjustwidth@linewidth=\dimen306
 Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
+LaTeX Info: Redefining \microtypecontext on input line 62.
+Package microtype Info: Applying patch `item' on input line 62.
+Package microtype Info: Applying patch `toc' on input line 62.
+Package microtype Info: Applying patch `eqnum' on input line 62.
+Package microtype Info: Applying patch `footnote' on input line 62.
+Package microtype Info: Applying patch `verbatim' on input line 62.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 62.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+ (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-ptm.cfg
+File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
+) (./bab/halaman_judul.tex
 <images/logo-uad-hitam.png, id=4, 72.27pt x 72.27pt>
 File: images/logo-uad-hitam.png Graphic file (type png)
 <use images/logo-uad-hitam.png>
-Package pdftex.def Info: images/logo-uad-hitam.png  used on input line 64.
+Package pdftex.def Info: images/logo-uad-hitam.png  used on input line 13.
 (pdftex.def)             Requested size: 119.50279pt x 119.50938pt.
- [1
+) [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc} <./images/logo-uad-hitam.png>] [2] (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlztmcm.fd) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsztmcm.fd) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxztmcm.fd) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd) [3] [4]
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc} <./images/logo-uad-hitam.png>] (./bab/persetujuan.tex)
+<logo/logo-uad-kuning.png, id=14, 120.45pt x 120.45pt>
+File: logo/logo-uad-kuning.png Graphic file (type png)
+<use logo/logo-uad-kuning.png>
+Package pdftex.def Info: logo/logo-uad-kuning.png  used on input line 72.
+(pdftex.def)             Requested size: 358.50836pt x 358.5444pt.
+ [2 <./logo/logo-uad-kuning.png>] (./bab/pengesahan.tex (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlztmcm.fd) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsztmcm.fd) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxztmcm.fd) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd) (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg) (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg)
+File: logo/logo-uad-kuning.png Graphic file (type png)
+<use logo/logo-uad-kuning.png>
+Package pdftex.def Info: logo/logo-uad-kuning.png  used on input line 42.
+(pdftex.def)             Requested size: 358.50836pt x 358.5444pt.
+ [3]) [4] (./bab/pernyataan_keaslian.tex
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 159.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 7.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 159.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 7.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 159.
-
-Overfull \hbox (4.45728pt too wide) in paragraph at lines 168--169
-\T1/ptm/m/n/12 ACT JS DAN BLENDER PADA MA-TERI BAN-GUN RU-ANG SISI DATAR" adalah
- []
-
-[5] (./skripsi.toc [6
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 7.
+) [5] (./bab/kata_pengantar.tex [6]) [7] (./bab/halaman_motto.tex
+LaTeX Font Info:    Trying to load font information for T1+cmss on input line 5.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmss.fd
+File: t1cmss.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmss' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+) [8{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}] (./skripsi.toc [9
 
 ])
 \tf@toc=\write4
 \openout4 = `skripsi.toc'.
 
- [7] (./skripsi.lof [8
+ [10] (./skripsi.lof [11
 
 ])
 \tf@lof=\write5
 \openout5 = `skripsi.lof'.
 
- [9] (./skripsi.lot)
+ [12] (./skripsi.lot)
 \tf@lot=\write6
 \openout6 = `skripsi.lot'.
 
- [10
+ [13
 
-] (./bab/bab1.tex
-Overfull \hbox (8.22932pt too wide) in paragraph at lines 10--11
-\T1/ptm/m/n/12 atika adalah ke-suli-tan pe-serta didik dalam mema-hami konsep-konsep ab-strak, khusus-
- []
-
-
-Overfull \hbox (17.94829pt too wide) in paragraph at lines 16--17
-\T1/ptm/m/n/12 matem-atika. AR se-ba-gai me-dia pem-be-la-jaran in-ter-ak-tif di-hara-p-kan da-pat meningkatkan
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[1]
-Underfull \hbox (badness 10000) in paragraph at lines 18--19
+] (./bab/abstrak.tex [14] [15]) (./bab/bab1_baru.tex [1]
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
 
  []
-
-
-Overfull \hbox (8.19148pt too wide) in paragraph at lines 26--27
-[]\T1/ptm/m/n/12 Peserta didik men-galami ke-suli-tan dalam mem-pela-jari ma-teri ge-ometri, khusus-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 34--35
-
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [2]
-Overfull \hbox (2.50493pt too wide) in paragraph at lines 41--42
-[]\T1/ptm/m/n/12 Bagaimana prose-dur pengem-ban-gan me-dia pem-be-la-jaran berba-sis Aug-mented
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 60.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `cmtt' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+ [3] [4] [5] [6]) (./bab/bab2_baru.tex [7] [8] [9] [10] [11] [12]) (./bab/bab3_rewrite_total.tex [13]
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
  []
 
-
-Overfull \hbox (5.9009pt too wide) in paragraph at lines 50--51
-[]\T1/ptm/m/n/12 Mengetahui prose-dur pengem-ban-gan me-dia pem-be-la-jaran berba-sis Aug-mented
- []
-
-
-Overfull \hbox (2.4344pt too wide) in paragraph at lines 54--58
-[] | \T1/ptm/m/n/12 Pro-duk yang dikem-bangkan oleh peneliti memi-liki spe-si-fikasi se-ba-gai berikut: 
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[3]
-Overfull \hbox (8.86435pt too wide) in paragraph at lines 86--89
-\T1/ptm/m/n/12 Pengembangan me-dia pem-be-la-jaran berba-sis Aug-mented Re-al-ity ini di-dasarkan
- []
-
-
-Overfull \hbox (1.85846pt too wide) in paragraph at lines 91--92
-[]\T1/ptm/m/n/12 Penyajian ban-gun ru-ang sisi datar dalam ben-tuk vir-tual melalui teknologi
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[4]) (./bab/bab2.tex
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[5]
-Overfull \hbox (4.9537pt too wide) in paragraph at lines 11--15
-| \T1/ptm/m/n/12 Pent-ingnya pen-didikan matem-atika di-dasarkan pada fakta bahwa matem-
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[6]
-Overfull \hbox (0.31079pt too wide) in paragraph at lines 17--18
-\T1/ptm/m/n/12 masalah, in-duksi, in-ter-aksi kelom-pok, dan pen-er-a-pan berba-gai je-nis pen-
- []
-
-
-Overfull \hbox (9.74123pt too wide) in paragraph at lines 20--21
-\T1/ptm/m/n/12 pem-be-la-jaran serta men-dukung perkem-ban-gan ilmu penge-tahuan dan teknologi.
- []
-
-
-Overfull \hbox (1.82149pt too wide) in paragraph at lines 22--26
-| \T1/ptm/m/it/12 Aug-mented Re-al-ity \T1/ptm/m/n/12 (AR) memu-ngkinkan pen-em-patan ob-jek vir-tual yang
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[7]
-Overfull \hbox (7.12424pt too wide) in paragraph at lines 27--31
-\T1/ptm/m/n/12 mam-puan spasial, an-tara lain: pemiki-ran spasial (Yaki-man-skaya 1991), penger-
- []
-
-
-Overfull \hbox (3.69327pt too wide) in paragraph at lines 27--31
-| \T1/ptm/m/n/12 Be-ber-apa peneliti mengk-lasi-fikasikan ke-mam-puan spasial berbeda-beda.
- []
-
-
-Overfull \hbox (7.7249pt too wide) in paragraph at lines 27--31
-\T1/ptm/m/n/12 un-tuk meningkatkan efek-tiv-i-tas pema-haman konsep-konsep ab-strak yang mem-
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[8]
-Underfull \hbox (badness 4927) in paragraph at lines 42--42
-\T1/ptm/m/n/12 (fak-tual, kon-sep-tual, dan prose-du-ral)
- []
-
-
-Underfull \hbox (badness 2042) in paragraph at lines 43--44
-\T1/ptm/m/n/12 ranah konkret (meng-gu-nakan, men-gu-
- []
-
-
-Underfull \hbox (badness 3657) in paragraph at lines 43--44
-\T1/ptm/m/n/12 baca, menghi-tung, menggam-bar, dan
- []
-
-
-Underfull \hbox (badness 4556) in paragraph at lines 47--48
-\T1/ptm/m/n/12 gun ru-ang sisi datar (kubus, balok,
- []
-
-
-Overfull \hbox (25.19995pt too wide) in paragraph at lines 38--50
+[14]
+<images2/addie.png, id=110, 575.14874pt x 296.10625pt>
+File: images2/addie.png Graphic file (type png)
+<use images2/addie.png>
+Package pdftex.def Info: images2/addie.png  used on input line 27.
+(pdftex.def)             Requested size: 318.67209pt x 164.06529pt.
+ [15 <./images2/addie.png>] [16] [17] [18] [19] [20]
+Overfull \hbox (7.75839pt too wide) in paragraph at lines 118--140
  [][] 
  []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[9]
-<images/kubusdanjaring.png, id=72, 990.70125pt x 445.665pt>
-File: images/kubusdanjaring.png Graphic file (type png)
-<use images/kubusdanjaring.png>
-Package pdftex.def Info: images/kubusdanjaring.png  used on input line 57.
-(pdftex.def)             Requested size: 239.00558pt x 107.5126pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[10]
-<images/balokdanjaring.png, id=76, 1102.1175pt x 489.83pt>
-File: images/balokdanjaring.png Graphic file (type png)
-<use images/balokdanjaring.png>
-Package pdftex.def Info: images/balokdanjaring.png  used on input line 71.
-(pdftex.def)             Requested size: 239.00558pt x 106.22324pt.
-
-Overfull \hbox (3.01112pt too wide) in paragraph at lines 64--74
-\T1/ptm/m/n/12 Cara men-cari luas per-mukaan balok sedikit berbeda den-gan kubus karena
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[11 <./images/kubusdanjaring.png> <./images/balokdanjaring.png>]
-<images/jenisprisma.png, id=85, 1262.7175pt x 665.48625pt>
-File: images/jenisprisma.png Graphic file (type png)
-<use images/jenisprisma.png>
-Package pdftex.def Info: images/jenisprisma.png  used on input line 106.
-(pdftex.def)             Requested size: 239.00558pt x 125.95628pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[12]
-<images/prismasegitigasiku.png, id=89, 755.82375pt x 470.75874pt>
-File: images/prismasegitigasiku.png Graphic file (type png)
-<use images/prismasegitigasiku.png>
-Package pdftex.def Info: images/prismasegitigasiku.png  used on input line 115.
-(pdftex.def)             Requested size: 239.00558pt x 148.86444pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 112--118
-
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[13 <./images/jenisprisma.png>]
-<images/jenislimas.png, id=95, 968.61874pt x 297.11pt>
-File: images/jenislimas.png Graphic file (type png)
-<use images/jenislimas.png>
-Package pdftex.def Info: images/jenislimas.png  used on input line 134.
-(pdftex.def)             Requested size: 239.00558pt x 73.31166pt.
-
-Overfull \hbox (0.38362pt too wide) in paragraph at lines 131--137
-| \T1/ptm/m/n/12 Se-belum-nya telah dipela-jari cara menghi-tung luas per-mukaan ban-
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[14 <./images/prismasegitigasiku.png>]
-<images/limasdanjaringnya.png, id=100, 727.71875pt x 459.7175pt>
-File: images/limasdanjaringnya.png Graphic file (type png)
-<use images/limasdanjaringnya.png>
-Package pdftex.def Info: images/limasdanjaringnya.png  used on input line 141.
-(pdftex.def)             Requested size: 239.00558pt x 150.98473pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[15 <./images/jenislimas.png> <./images/limasdanjaringnya.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 153--159
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 160--166
-
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[16]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[17]
-Overfull \hbox (7.46114pt too wide) in paragraph at lines 179--180
-\T1/ptm/m/it/12 Re-al-ity, Ed-modo, and Tin-ker-cad Me-dia^^Q\T1/ptm/m/n/12 . Peneli-tian ini bertu-juan un-tuk menge-
- []
-
-
-Overfull \hbox (29.85393pt too wide) in paragraph at lines 182--187
-\T1/ptm/m/n/12 berkai-tan den-gan ban-gun ru-ang. Berdasarkan per-masala-han terse-but, peneliti menawarkan
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 182--187
-
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[18]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[19]
-Overfull \hbox (16.42929pt too wide) in paragraph at lines 251--252
- [] 
- []
-
-) (./bab/bab3.tex
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[20]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [21]
-Overfull \hbox (16.48616pt too wide) in paragraph at lines 13--14
-[]| \T1/ptm/m/n/12 Model AD-DIE meru-pakan salah satu model de-sain pem-be-la-jaran yang menggam-
+Underfull \hbox (badness 7832) in paragraph at lines 159--159
+[]|\T1/ptm/m/n/12 (+20) Kualitas perangkat
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 13--14
-
- []
-
-<images/addie.png, id=126, 1027.84pt x 770.88pt>
-File: images/addie.png Graphic file (type png)
-<use images/addie.png>
-Package pdftex.def Info: images/addie.png  used on input line 22.
-(pdftex.def)             Requested size: 318.67209pt x 239.00562pt.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[22]
-Overfull \hbox (2.16768pt too wide) in paragraph at lines 29--32
-\T1/ptm/m/n/12 anal-i-sis ke-bu-tuhan, anal-i-sis kuriku-lum, dan anal-i-sis karak-ter-is-tik pe-serta didik. 
- []
-
-
-Overfull \hbox (5.57893pt too wide) in paragraph at lines 32--34
-| \T1/ptm/m/n/12 Pada tahap anal-i-sis ke-bu-tuhan, peneliti mengi-den-ti-fikasi per-masala-
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[23 <./images/addie.png>]
-Overfull \hbox (1.56982pt too wide) in paragraph at lines 39--41
-| \T1/ptm/m/n/12 Pada tahap per-an-can-gan, peneliti mer-an-cang me-dia pem-be-la-jaran berba-
- []
-
-
-Overfull \hbox (2.61264pt too wide) in paragraph at lines 41--44
-\T1/ptm/m/n/12 pem-be-la-jaran berba-sis Aug-mented Re-al-ity. Hal-hal yang di-lakukan pada tahap
- []
-
-
-Overfull \hbox (3.62354pt too wide) in paragraph at lines 46--48
-| \T1/ptm/m/n/12 Se-belum di-uji cobakan, me-dia ter-lebih dahulu dikon-sul-tasikan den-
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[24]
-Overfull \hbox (18.61111pt too wide) in paragraph at lines 48--50
-| \T1/ptm/m/n/12 Me-dia pem-be-la-jaran yang telah di-val-i-dasi akan diper-baiki berdasarkan
- []
-
-
-Overfull \hbox (4.23473pt too wide) in paragraph at lines 48--50
-\T1/ptm/m/n/12 lakukan agar me-dia yang di-hasilkan men-jadi lebih baik dan lebih menarik
- []
-
-
-Overfull \hbox (9.46358pt too wide) in paragraph at lines 51--53
-\T1/ptm/m/n/12 re-spons mereka ter-hadap me-dia pem-be-la-jaran berba-sis sim-u-lasi 3D yang sedang
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 54--56
-
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[25]
-Overfull \hbox (0.4666pt too wide) in paragraph at lines 74--76
-\T1/ptm/m/n/12 dia, dan di akhir pem-be-la-jaran, pe-serta didik mengisi angket un-tuk mem-
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[26]
-Overfull \hbox (3.83705pt too wide) in paragraph at lines 84--86
-\T1/ptm/m/n/12 didik Matem-atika ke-las VIII-D SMP Muham-madiyah 9 Yo-gyakarta. Ahli
- []
-
-
-Overfull \hbox (9.39236pt too wide) in paragraph at lines 87--89
-\T1/ptm/m/n/12 Peserta didik dalam peneli-tian ini adalah siswa ke-las VIII-D SMP Muham-
- []
-
-
-Overfull \hbox (1.96707pt too wide) in paragraph at lines 87--89
-\T1/ptm/m/n/12 didik berperan se-ba-gai re-spon-den pada tahap uji coba ke-las ke-cil maupun
- []
-
-
-Overfull \hbox (15.64536pt too wide) in paragraph at lines 91--94
-| \T1/ptm/m/n/12 Je-nis data dikelom-pokkan berdasarkan sifat-nya, an-tara lain se-ba-gai berikut: 
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[27]
-Overfull \hbox (2.66364pt too wide) in paragraph at lines 94--96
-| \T1/ptm/m/n/12 Data kual-i-tatif meru-pakan data yang dis-ajikan dalam ben-tuk perny-
- []
-
-
-Overfull \hbox (2.69719pt too wide) in paragraph at lines 94--96
-\T1/ptm/m/n/12 ataan atau kali-mat. Dalam peneli-tian ini, data kual-i-tatif diper-oleh melalui
- []
-
-
-Overfull \hbox (5.26558pt too wide) in paragraph at lines 96--98
-\T1/ptm/m/n/12 ke-layakan me-dia pem-be-la-jaran berba-sis sim-u-lasi 3D dalam ben-tuk angka.
- []
-
-
-Overfull \hbox (2.36163pt too wide) in paragraph at lines 99--102
-| \T1/ptm/m/n/12 Metode pengumpu-lan data yang di-gu-nakan dalam peneli-tian ini meliputi
- []
-
-
-Overfull \hbox (3.0585pt too wide) in paragraph at lines 102--104
-\T1/ptm/m/n/12 bertu-juan un-tuk men-e-mukan per-masala-han yang akan diteliti serta meng-
- []
-
-
-Overfull \hbox (12.26088pt too wide) in paragraph at lines 102--104
-\T1/ptm/m/n/12 Matem-atika dan be-ber-apa pe-serta didik ke-las VIII-D SMP Muham-madiyah
- []
-
-
-Overfull \hbox (2.02641pt too wide) in paragraph at lines 102--104
-\T1/ptm/m/n/12 berba-gai per-masala-han yang muncul dalam proses pem-be-la-jaran Matem-
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[28]
-Overfull \hbox (2.44849pt too wide) in paragraph at lines 104--107
-| \T1/ptm/m/n/12 Angket meru-pakan metode pengumpu-lan data yang di-lakukan den-
- []
-
-
-Underfull \hbox (badness 2269) in paragraph at lines 123--123
-[]|\T1/ptm/m/n/12 Kemampuan men-dorong rasa keing-in-
- []
-
-
-Underfull \hbox (badness 2221) in paragraph at lines 124--124
-[]|\T1/ptm/m/n/12 Kesesuaian den-gan kaidah ba-hasa in-
- []
-
-
-Overfull \hbox (1.64174pt too wide) in paragraph at lines 128--129
-[]|\T1/ptm/m/n/12 23,24,25,26,27,28| 
- []
-
-
-Overfull \hbox (36.21115pt too wide) in paragraph at lines 113--137
+Overfull \hbox (50.43753pt too wide) in paragraph at lines 147--162
  [][] 
  []
 
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[29]
-Underfull \hbox (badness 2334) in paragraph at lines 152--152
-[]|\T1/ptm/m/n/12 Kesesuaian den-gan perkem-ban-gan pe-
- []
-
-
-Overfull \hbox (1.64174pt too wide) in paragraph at lines 156--157
-[]|\T1/ptm/m/n/12 20,21,22,23,24,25| 
- []
-
-
-Overfull \hbox (64.66391pt too wide) in paragraph at lines 144--160
- [][] 
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[30]
-Underfull \hbox (badness 10000) in paragraph at lines 171--172
-[]|\T1/ptm/m/n/12 1,2,3,4,5,6,7,8,9,10,11,
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[31]
-Overfull \hbox (1.2573pt too wide) in paragraph at lines 219--236
-\T1/ptm/m/n/12 kual-i-tas me-dia pem-be-la-jaran. Kri-te-ria pe-ni-la-ian ideal da-pat dil-i-hat dalam
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[32]
-Overfull \hbox (66.16231pt too wide) in paragraph at lines 237--245
+[22] [23] [24]
+Overfull \hbox (66.16231pt too wide) in paragraph at lines 232--240
 []$ 
  []
 
-) (./bab/bab4.tex
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[33]
-Overfull \hbox (8.02658pt too wide) in paragraph at lines 11--12
-\T1/ptm/m/n/12 pengem-ban-gan AD-DIE. Ada-pun taha-pan dalam proses pengem-ban-gan meliputi Anal-
+) (./bab/bab4_rapi.tex [25] [26] [27]
+Underfull \hbox (badness 1199) in paragraph at lines 64--65
+[]| \T1/ptm/m/n/12 (+20) SMP Muham-madiyah 9 Yo-gyakarta men-er-ap-kan Kuriku-lum
  []
 
-
-Overfull \hbox (3.06206pt too wide) in paragraph at lines 21--22
-[]| \T1/ptm/m/n/12 Pada tahap ini, peneliti melakukan wawan-cara den-gan guru matem-
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[34]
-Overfull \hbox (0.39836pt too wide) in paragraph at lines 46--47
-[]| \T1/ptm/m/n/12 Berdasarkan Tabel 7[] di atas, diper-oleh data bahwa se-banyak 83,3%
- []
-
-
-Overfull \hbox (4.92105pt too wide) in paragraph at lines 55--56
-[]\T1/ptm/m/n/12 Peserta didik menyukai pem-be-la-jaran yang me-man-faatkan teknologi. 
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[35]
-Overfull \hbox (13.73947pt too wide) in paragraph at lines 57--58
-[]\T1/ptm/m/n/12 Pendidik matem-atika ke-las VIII-D SMP Muham-madiyah 9 Yo-gyakarta
- []
-
-
-Overfull \hbox (9.44585pt too wide) in paragraph at lines 64--65
-[]| \T1/ptm/m/n/12 Pada tahap ini, peneliti menen-tukan ma-teri yang akan dikem-bangkan
- []
-
-
-Overfull \hbox (15.648pt too wide) in paragraph at lines 64--65
-\T1/ptm/m/n/12 berdasarkan hasil wawan-cara den-gan pen-didik matem-atika di SMP Muham-
- []
-
-
-Overfull \hbox (1.06871pt too wide) in paragraph at lines 68--69
-\T1/ptm/m/n/12 er-ap-kan Kuriku-lum Merdeka, ma-teri pem-be-la-jaran dikem-bangkan sesuai
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[36]
-Overfull \hbox (2.22112pt too wide) in paragraph at lines 83--86
-\T1/ptm/m/n/12 pem-be-la-jaran di-ran-cang un-tuk men-dukung ca-pa-ian pem-be-la-jaran kuriku-
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[37]
-Overfull \hbox (22.64548pt too wide) in paragraph at lines 90--91
-[]\T1/ptm/m/n/12 Merekonstruksi jaring-jaring ban-gun ru-ang meng-gu-nakan me-dia konkret
- []
-
-<images/bagan2.png, id=179, 1760.5775pt x 900.36375pt>
+[28]
+<images/bagan2.png, id=159, 1760.5775pt x 900.36375pt>
 File: images/bagan2.png Graphic file (type png)
 <use images/bagan2.png>
-Package pdftex.def Info: images/bagan2.png  used on input line 96.
+Package pdftex.def Info: images/bagan2.png  used on input line 93.
 (pdftex.def)             Requested size: 318.67209pt x 162.96521pt.
-
-Overfull \hbox (11.38957pt too wide) in paragraph at lines 103--104
-[]\T1/ptm/m/n/12 Simulasi kon-sep vol-ume pada li-mas, se-buah kubus yang da-pat berubah
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[38 <./images/bagan2.png (PNG copy)>]
-<images/landingpage2.png, id=183, 1471.4975pt x 722.7pt>
+ [29]
+<images/landingpage2.png, id=163, 1471.4975pt x 722.7pt>
 File: images/landingpage2.png Graphic file (type png)
 <use images/landingpage2.png>
-Package pdftex.def Info: images/landingpage2.png  used on input line 110.
+Package pdftex.def Info: images/landingpage2.png  used on input line 107.
 (pdftex.def)             Requested size: 318.67209pt x 156.50227pt.
-<images/pendahuluan2.png, id=184, 1485.55pt x 722.7pt>
+<images/pendahuluan2.png, id=164, 1485.55pt x 722.7pt>
 File: images/pendahuluan2.png Graphic file (type png)
 <use images/pendahuluan2.png>
-Package pdftex.def Info: images/pendahuluan2.png  used on input line 116.
+Package pdftex.def Info: images/pendahuluan2.png  used on input line 113.
 (pdftex.def)             Requested size: 318.67209pt x 155.02458pt.
-<images/menu2.png, id=185, 1359.0775pt x 786.94pt>
+ [30 <./images/bagan2.png (PNG copy)>]
+<images/menu2.png, id=168, 1359.0775pt x 786.94pt>
 File: images/menu2.png Graphic file (type png)
 <use images/menu2.png>
-Package pdftex.def Info: images/menu2.png  used on input line 122.
+Package pdftex.def Info: images/menu2.png  used on input line 119.
 (pdftex.def)             Requested size: 318.67209pt x 184.51065pt.
-<images/quiz2.png, id=186, 1282.7925pt x 819.06pt>
+<images/quiz2.png, id=169, 1282.7925pt x 819.06pt>
 File: images/quiz2.png Graphic file (type png)
 <use images/quiz2.png>
-Package pdftex.def Info: images/quiz2.png  used on input line 128.
+Package pdftex.def Info: images/quiz2.png  used on input line 125.
 (pdftex.def)             Requested size: 318.67209pt x 203.46472pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[39 <./images/landingpage2.png> <./images/pendahuluan2.png>]
-<images/Flow.png, id=193, 1541.76pt x 1027.84pt>
+ [31 <./images/landingpage2.png> <./images/pendahuluan2.png> <./images/menu2.png>]
+<images/Flow.png, id=176, 1541.76pt x 1027.84pt>
 File: images/Flow.png Graphic file (type png)
 <use images/Flow.png>
-Package pdftex.def Info: images/Flow.png  used on input line 135.
+Package pdftex.def Info: images/Flow.png  used on input line 132.
 (pdftex.def)             Requested size: 318.67209pt x 212.43375pt.
-
-Overfull \hbox (2.23242pt too wide) in paragraph at lines 132--138
-\T1/ptm/m/n/12 peneliti juga mem-buat di-a-gram alur nav-i-gasi web un-tuk mengilus-trasikan
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[40 <./images/menu2.png> <./images/quiz2.png>]
-<images/mocksimulasi3d.png, id=200, 899.36pt x 1188.44pt>
+<images/mocksimulasi3d.png, id=177, 899.36pt x 1188.44pt>
 File: images/mocksimulasi3d.png Graphic file (type png)
 <use images/mocksimulasi3d.png>
-Package pdftex.def Info: images/mocksimulasi3d.png  used on input line 142.
+Package pdftex.def Info: images/mocksimulasi3d.png  used on input line 139.
 (pdftex.def)             Requested size: 199.1693pt x 263.18034pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[41 <./images/Flow.png (PNG copy)> <./images/mocksimulasi3d.png>]
-Overfull \hbox (3.37955pt too wide) in paragraph at lines 148--149
-[]\T1/ptm/m/n/12 Berpindah ke tampi-lan la-yar penuh un-tuk mem-perbe-sar area
+ [32 <./images/quiz2.png> <./images/Flow.png (PNG copy)>] [33 <./images/mocksimulasi3d.png>]
+Underfull \hbox (badness 1024) in paragraph at lines 173--174
+[]\T1/ptm/m/it/12 (+20) Continuous De-ploy-ment\T1/ptm/m/n/12 (+20) : se-tiap pe-ruba-han pada ca-bang utama
  []
 
-
-Overfull \hbox (12.40921pt too wide) in paragraph at lines 156--158
-\T1/ptm/m/n/12 ban-gan di-lakukan se-cara lokal oleh tim pengem-bang meng-gu-nakan Node.js
- []
-
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 160.
-(/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
-File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
-)
-Overfull \hbox (4.94994pt too wide) in paragraph at lines 162--163
-[]\T1/ptm/m/n/12 Integrasi AR di-lakukan den-gan menye-di-akan model \T1/cmtt/m/n/12 .glb \T1/ptm/m/n/12 pada layanan
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[42{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}]
-<images/Arsitektur.png, id=209, 1535.7375pt x 1031.855pt>
+<images/Arsitektur.png, id=186, 1535.7375pt x 1031.855pt>
 File: images/Arsitektur.png Graphic file (type png)
 <use images/Arsitektur.png>
-Package pdftex.def Info: images/Arsitektur.png  used on input line 170.
-(pdftex.def)             Requested size: 398.3386pt x 267.63043pt.
-
-Overfull \hbox (6.74294pt too wide) in paragraph at lines 179--183
-| \T1/ptm/m/n/12 Pengem-ban-gan me-dia pem-be-la-jaran berba-sis sim-u-lasi 3D ter-go-long kom-
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[43 <./images/Arsitektur.png (PNG copy)>]
-<images/bangun-dan-jaring.png, id=213, 410.53375pt x 338.26375pt>
-File: images/bangun-dan-jaring.png Graphic file (type png)
-<use images/bangun-dan-jaring.png>
-Package pdftex.def Info: images/bangun-dan-jaring.png  used on input line 188.
-(pdftex.def)             Requested size: 159.333pt x 131.2823pt.
-<images/hasil-geogebra.png, id=214, 857.2025pt x 678.535pt>
-File: images/hasil-geogebra.png Graphic file (type png)
-<use images/hasil-geogebra.png>
-Package pdftex.def Info: images/hasil-geogebra.png  used on input line 196.
-(pdftex.def)             Requested size: 159.333pt x 126.11716pt.
-
-Overfull \hbox (3.40855pt too wide) in paragraph at lines 192--199
-\T1/ptm/m/n/12 meng-gu-nakan ap-likasi Ge-oGe-bra. Berikut di-ta-mpilkan con-toh hasil pem-
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[44 <./images/bangun-dan-jaring.png>]
-<images/ui-1.jpg, id=218, 722.7pt x 1606.0pt>
-File: images/ui-1.jpg Graphic file (type jpg)
-<use images/ui-1.jpg>
-Package pdftex.def Info: images/ui-1.jpg  used on input line 205.
-(pdftex.def)             Requested size: 119.50279pt x 265.54219pt.
-<images/ui-2.jpg, id=219, 722.7pt x 1606.0pt>
-File: images/ui-2.jpg Graphic file (type jpg)
-<use images/ui-2.jpg>
-Package pdftex.def Info: images/ui-2.jpg  used on input line 206.
-(pdftex.def)             Requested size: 119.50279pt x 265.54219pt.
-<images/ui-3.jpg, id=220, 722.7pt x 1606.0pt>
-File: images/ui-3.jpg Graphic file (type jpg)
-<use images/ui-3.jpg>
-Package pdftex.def Info: images/ui-3.jpg  used on input line 207.
-(pdftex.def)             Requested size: 119.50279pt x 265.54219pt.
-
-Overfull \hbox (7.00925pt too wide) in paragraph at lines 201--210
-| \T1/ptm/m/n/12 Agar me-dia pem-be-la-jaran mu-dah di-ak-ses oleh pe-serta didik, peneliti
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[45 <./images/hasil-geogebra.png>]
-Overfull \hbox (15.09561pt too wide) in paragraph at lines 217--219
-\T1/ptm/m/n/12 dikem-bangkan. Sete-lah pem-be-la-jaran se-le-sai, pe-serta didik dim-inta mengisi
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[46 <./images/ui-1.jpg> <./images/ui-2.jpg> <./images/ui-3.jpg>]
-Overfull \hbox (7.47691pt too wide) in paragraph at lines 220--221
-\T1/ptm/m/n/12 den-gan mem-berikan me-dia pem-be-la-jaran dan angket kepada pe-serta didik.
- []
-
-
-Overfull \hbox (7.64555pt too wide) in paragraph at lines 225--226
-[] \T1/ptm/m/n/12 Uji coba di-lakukan melalui pem-be-la-jaran meng-gu-nakan me-dia pem-
- []
-
-
-Overfull \hbox (6.6721pt too wide) in paragraph at lines 225--226
-\T1/ptm/m/n/12 pe-ni-la-ian pe-serta didik ter-hadap kual-i-tas me-dia pem-be-la-jaran yang dikem-
- []
-
-
-Overfull \hbox (1.76436pt too wide) in paragraph at lines 230--231
-[] \T1/ptm/m/n/12 Tahap eval-u-asi meru-pakan tahap akhir dalam model pengem-ban-gan AD-
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[47]
-Overfull \hbox (21.29868pt too wide) in paragraph at lines 232--233
-\T1/ptm/m/n/12 di-lakukan uji coba kepada pe-serta didik. Se-lan-jut-nya, di-lakukan re-visi berdasarkan
- []
-
-
-Overfull \hbox (14.90213pt too wide) in paragraph at lines 239--241
-[] \T1/ptm/m/n/12 Anal-i-sis data meru-pakan tahap lan-ju-tan dari tahap eval-u-asi dalam model pengem-
- []
-
-
-Overfull \hbox (19.41344pt too wide) in paragraph at lines 239--241
-\T1/ptm/m/n/12 yang ke-mu-dian dikon-versi men-jadi data kuan-ti-tatif. Anal-i-sis data di-lakukan berdasarkan
- []
-
-
-Overfull \hbox (1.1133pt too wide) in paragraph at lines 241--261
-\T1/ptm/m/n/12 skor, ko-men-tar, dan ma-sukan ter-hadap ma-teri yang telah dikem-bangkan dalam
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[48]
-Overfull \hbox (12.48944pt too wide) in paragraph at lines 299--318
-\T1/ptm/m/n/12 skor, ko-men-tar, dan ma-sukan ter-hadap me-dia pem-be-la-jaran yang dikem-bangkan.
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[49]
-Overfull \hbox (12.60909pt too wide) in paragraph at lines 337--354
-\T1/ptm/m/n/12 ko-men-tar, dan ma-sukan ter-hadap me-dia pem-be-la-jaran yang telah dikem-bangkan.
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[50]
-<komentar/kelaskecil1.jpg, id=241, 3384.645pt x 1015.795pt>
-File: komentar/kelaskecil1.jpg Graphic file (type jpg)
-<use komentar/kelaskecil1.jpg>
-Package pdftex.def Info: komentar/kelaskecil1.jpg  used on input line 377.
-(pdftex.def)             Requested size: 398.3386pt x 119.53416pt.
-<komentar/kelaskecil2.jpg, id=242, 3284.27pt x 533.995pt>
-File: komentar/kelaskecil2.jpg Graphic file (type jpg)
-<use komentar/kelaskecil2.jpg>
-Package pdftex.def Info: komentar/kelaskecil2.jpg  used on input line 378.
-(pdftex.def)             Requested size: 398.3386pt x 64.76106pt.
-<komentar/kelaskecil3.jpg, id=243, 3404.72pt x 590.205pt>
-File: komentar/kelaskecil3.jpg Graphic file (type jpg)
-<use komentar/kelaskecil3.jpg>
-Package pdftex.def Info: komentar/kelaskecil3.jpg  used on input line 379.
-(pdftex.def)             Requested size: 398.3386pt x 69.0474pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[51]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[52 <./komentar/kelaskecil1.jpg> <./komentar/kelaskecil2.jpg> <./komentar/kelaskecil3.jpg>]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[53]
-Underfull \hbox (badness 10000) in paragraph at lines 419--438
-
- []
-
-
-Overfull \hbox (8.04993pt too wide) in paragraph at lines 439--440
-[]| \T1/ptm/m/n/12 Berdasarkan hasil per-hi-tun-gan rata-rata ke-selu-ruhan pada Tabel 14[], diper-
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[54]
-<revisi/sebelum/sebelumA.jpg, id=257, 722.7pt x 1606.0pt>
-File: revisi/sebelum/sebelumA.jpg Graphic file (type jpg)
-<use revisi/sebelum/sebelumA.jpg>
-Package pdftex.def Info: revisi/sebelum/sebelumA.jpg  used on input line 456.
-(pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
-<revisi/sesudah/sesudahA.jpg, id=258, 722.7pt x 1606.0pt>
-File: revisi/sesudah/sesudahA.jpg Graphic file (type jpg)
-<use revisi/sesudah/sesudahA.jpg>
-Package pdftex.def Info: revisi/sesudah/sesudahA.jpg  used on input line 457.
-(pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
-<revisi/sebelum/sebelumB.jpg, id=259, 722.7pt x 1606.0pt>
-File: revisi/sebelum/sebelumB.jpg Graphic file (type jpg)
-<use revisi/sebelum/sebelumB.jpg>
-Package pdftex.def Info: revisi/sebelum/sebelumB.jpg  used on input line 466.
-(pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
-<revisi/sesudah/sesudahB.jpg, id=260, 722.7pt x 1606.0pt>
-File: revisi/sesudah/sesudahB.jpg Graphic file (type jpg)
-<use revisi/sesudah/sesudahB.jpg>
-Package pdftex.def Info: revisi/sesudah/sesudahB.jpg  used on input line 467.
-(pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[55 <./revisi/sebelum/sebelumA.jpg> <./revisi/sesudah/sesudahA.jpg>]
-<revisi/sebelum/sebelumC.jpg, id=264, 722.7pt x 1606.0pt>
-File: revisi/sebelum/sebelumC.jpg Graphic file (type jpg)
-<use revisi/sebelum/sebelumC.jpg>
-Package pdftex.def Info: revisi/sebelum/sebelumC.jpg  used on input line 475.
-(pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
-<revisi/sesudah/sesudahC.jpg, id=265, 722.7pt x 1606.0pt>
-File: revisi/sesudah/sesudahC.jpg Graphic file (type jpg)
-<use revisi/sesudah/sesudahC.jpg>
-Package pdftex.def Info: revisi/sesudah/sesudahC.jpg  used on input line 476.
-(pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
-<revisi/sebelum/sebelumD.jpg, id=266, 722.7pt x 1606.0pt>
-File: revisi/sebelum/sebelumD.jpg Graphic file (type jpg)
-<use revisi/sebelum/sebelumD.jpg>
-Package pdftex.def Info: revisi/sebelum/sebelumD.jpg  used on input line 484.
-(pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
-<revisi/sesudah/sesudahD.jpg, id=267, 722.7pt x 1606.0pt>
-File: revisi/sesudah/sesudahD.jpg Graphic file (type jpg)
-<use revisi/sesudah/sesudahD.jpg>
-Package pdftex.def Info: revisi/sesudah/sesudahD.jpg  used on input line 485.
-(pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[56 <./revisi/sebelum/sebelumB.jpg> <./revisi/sesudah/sesudahB.jpg> <./revisi/sebelum/sebelumC.jpg> <./revisi/sesudah/sesudahC.jpg>]
-<revisi/sebelum/sebelumE.jpg, id=271, 722.7pt x 1606.0pt>
-File: revisi/sebelum/sebelumE.jpg Graphic file (type jpg)
-<use revisi/sebelum/sebelumE.jpg>
-Package pdftex.def Info: revisi/sebelum/sebelumE.jpg  used on input line 493.
-(pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
-<revisi/sesudah/sesudahE.jpg, id=272, 722.7pt x 1606.0pt>
-File: revisi/sesudah/sesudahE.jpg Graphic file (type jpg)
-<use revisi/sesudah/sesudahE.jpg>
-Package pdftex.def Info: revisi/sesudah/sesudahE.jpg  used on input line 494.
-(pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
-<revisi/sebelum/sebelumF.jpg, id=273, 722.7pt x 1606.0pt>
-File: revisi/sebelum/sebelumF.jpg Graphic file (type jpg)
-<use revisi/sebelum/sebelumF.jpg>
-Package pdftex.def Info: revisi/sebelum/sebelumF.jpg  used on input line 502.
-(pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
-<revisi/sesudah/sesudahF.jpg, id=274, 722.7pt x 1606.0pt>
-File: revisi/sesudah/sesudahF.jpg Graphic file (type jpg)
-<use revisi/sesudah/sesudahF.jpg>
-Package pdftex.def Info: revisi/sesudah/sesudahF.jpg  used on input line 503.
-(pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[57 <./revisi/sebelum/sebelumD.jpg> <./revisi/sesudah/sesudahD.jpg> <./revisi/sebelum/sebelumE.jpg> <./revisi/sesudah/sesudahE.jpg>]
-<revisi/sesudah/sesudahG1.jpg, id=279, 722.7pt x 1606.0pt>
-File: revisi/sesudah/sesudahG1.jpg Graphic file (type jpg)
-<use revisi/sesudah/sesudahG1.jpg>
-Package pdftex.def Info: revisi/sesudah/sesudahG1.jpg  used on input line 510.
-(pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
-<revisi/sesudah/sesudahG2.jpg, id=280, 722.7pt x 1606.0pt>
-File: revisi/sesudah/sesudahG2.jpg Graphic file (type jpg)
-<use revisi/sesudah/sesudahG2.jpg>
-Package pdftex.def Info: revisi/sesudah/sesudahG2.jpg  used on input line 511.
-(pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
-<revisi/sesudah/sesudahG3.jpg, id=281, 722.7pt x 1606.0pt>
-File: revisi/sesudah/sesudahG3.jpg Graphic file (type jpg)
-<use revisi/sesudah/sesudahG3.jpg>
-Package pdftex.def Info: revisi/sesudah/sesudahG3.jpg  used on input line 512.
-(pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
-
-Overfull \hbox (11.2063pt too wide) in paragraph at lines 516--519
-| \T1/ptm/m/n/12 Re-visi yang diberikan oleh ahli me-dia tidak be-gitu banyak, hanya berfokus
- []
-
-<revisi/Revisimedia2.jpg, id=282, 722.7pt x 1606.0pt>
-File: revisi/Revisimedia2.jpg Graphic file (type jpg)
-<use revisi/Revisimedia2.jpg>
-Package pdftex.def Info: revisi/Revisimedia2.jpg  used on input line 524.
-(pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
-<revisi/Revisimedia.jpg, id=283, 722.7pt x 1606.0pt>
-File: revisi/Revisimedia.jpg Graphic file (type jpg)
-<use revisi/Revisimedia.jpg>
-Package pdftex.def Info: revisi/Revisimedia.jpg  used on input line 525.
-(pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[58 <./revisi/sebelum/sebelumF.jpg> <./revisi/sesudah/sesudahF.jpg> <./revisi/sesudah/sesudahG1.jpg> <./revisi/sesudah/sesudahG2.jpg> <./revisi/sesudah/sesudahG3.jpg>]
-<revisi/Landingpage1.jpg, id=287, 722.7pt x 1606.0pt>
-File: revisi/Landingpage1.jpg Graphic file (type jpg)
-<use revisi/Landingpage1.jpg>
-Package pdftex.def Info: revisi/Landingpage1.jpg  used on input line 547.
-(pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
-<revisi/Landingpage2.jpg, id=288, 722.7pt x 1606.0pt>
-File: revisi/Landingpage2.jpg Graphic file (type jpg)
-<use revisi/Landingpage2.jpg>
-Package pdftex.def Info: revisi/Landingpage2.jpg  used on input line 548.
-(pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
-<revisi/Landingpage3.png, id=289, 1371.1225pt x 730.73pt>
-File: revisi/Landingpage3.png Graphic file (type png)
-<use revisi/Landingpage3.png>
-Package pdftex.def Info: revisi/Landingpage3.png  used on input line 556.
+Package pdftex.def Info: images/Arsitektur.png  used on input line 178.
+(pdftex.def)             Requested size: 358.50229pt x 240.86424pt.
+[34] [35 <./images/Arsitektur.png (PNG copy)>]
+<images2/supabase.png, id=195, 1371.1225pt x 730.73pt>
+File: images2/supabase.png Graphic file (type png)
+<use images2/supabase.png>
+Package pdftex.def Info: images2/supabase.png  used on input line 199.
 (pdftex.def)             Requested size: 398.3386pt x 212.28537pt.
-
-Overfull \hbox (24.00002pt too wide) in paragraph at lines 555--558
- [][] 
- []
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[59 <./revisi/Revisimedia2.jpg> <./revisi/Revisimedia.jpg>]
-File: revisi/sesudah/sesudahG1.jpg Graphic file (type jpg)
-<use revisi/sesudah/sesudahG1.jpg>
-Package pdftex.def Info: revisi/sesudah/sesudahG1.jpg  used on input line 566.
-(pdftex.def)             Requested size: 119.50279pt x 265.54219pt.
-File: revisi/sesudah/sesudahG2.jpg Graphic file (type jpg)
-<use revisi/sesudah/sesudahG2.jpg>
-Package pdftex.def Info: revisi/sesudah/sesudahG2.jpg  used on input line 567.
-(pdftex.def)             Requested size: 119.50279pt x 265.54219pt.
-File: revisi/sesudah/sesudahG3.jpg Graphic file (type jpg)
-<use revisi/sesudah/sesudahG3.jpg>
-Package pdftex.def Info: revisi/sesudah/sesudahG3.jpg  used on input line 568.
-(pdftex.def)             Requested size: 119.50279pt x 265.54219pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[60 <./revisi/Landingpage1.jpg> <./revisi/Landingpage2.jpg> <./revisi/Landingpage3.png>]
-<revisi/Menu.jpg, id=296, 722.7pt x 1606.0pt>
-File: revisi/Menu.jpg Graphic file (type jpg)
-<use revisi/Menu.jpg>
-Package pdftex.def Info: revisi/Menu.jpg  used on input line 578.
-(pdftex.def)             Requested size: 119.50279pt x 265.54219pt.
-<revisi/Menuvolume.jpg, id=297, 722.7pt x 1606.0pt>
-File: revisi/Menuvolume.jpg Graphic file (type jpg)
-<use revisi/Menuvolume.jpg>
-Package pdftex.def Info: revisi/Menuvolume.jpg  used on input line 579.
-(pdftex.def)             Requested size: 119.50279pt x 265.54219pt.
-<revisi/Menuluaspermukaan.jpg, id=298, 722.7pt x 1606.0pt>
-File: revisi/Menuluaspermukaan.jpg Graphic file (type jpg)
-<use revisi/Menuluaspermukaan.jpg>
-Package pdftex.def Info: revisi/Menuluaspermukaan.jpg  used on input line 580.
-(pdftex.def)             Requested size: 119.50279pt x 265.54219pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[61]
-<images/materi1.jpg, id=302, 722.7pt x 1606.0pt>
-File: images/materi1.jpg Graphic file (type jpg)
-<use images/materi1.jpg>
-Package pdftex.def Info: images/materi1.jpg  used on input line 590.
-(pdftex.def)             Requested size: 79.66649pt x 177.02812pt.
-<images/materi2.jpg, id=303, 722.7pt x 1606.0pt>
-File: images/materi2.jpg Graphic file (type jpg)
-<use images/materi2.jpg>
-Package pdftex.def Info: images/materi2.jpg  used on input line 591.
-(pdftex.def)             Requested size: 79.66649pt x 177.02812pt.
-<images/materi3.jpg, id=304, 722.7pt x 1606.0pt>
-File: images/materi3.jpg Graphic file (type jpg)
-<use images/materi3.jpg>
-Package pdftex.def Info: images/materi3.jpg  used on input line 592.
-(pdftex.def)             Requested size: 79.66649pt x 177.02812pt.
-<images/materi4.jpg, id=305, 722.7pt x 1606.0pt>
+<images2/github.png, id=196, 1371.1225pt x 730.73pt>
+File: images2/github.png Graphic file (type png)
+<use images2/github.png>
+Package pdftex.def Info: images2/github.png  used on input line 205.
+(pdftex.def)             Requested size: 398.3386pt x 212.28537pt.
+<images2/landingpage.jpg, id=197, 722.7pt x 1372.12625pt>
+File: images2/landingpage.jpg Graphic file (type jpg)
+<use images2/landingpage.jpg>
+Package pdftex.def Info: images2/landingpage.jpg  used on input line 213.
+(pdftex.def)             Requested size: 119.50279pt x 226.87262pt.
+<images2/tujuanpembelajaran.jpg, id=198, 722.7pt x 1374.13374pt>
+File: images2/tujuanpembelajaran.jpg Graphic file (type jpg)
+<use images2/tujuanpembelajaran.jpg>
+Package pdftex.def Info: images2/tujuanpembelajaran.jpg  used on input line 214.
+(pdftex.def)             Requested size: 119.50279pt x 227.20454pt.
+<images2/menu.jpg, id=199, 722.7pt x 1484.54625pt>
+File: images2/menu.jpg Graphic file (type jpg)
+<use images2/menu.jpg>
+Package pdftex.def Info: images2/menu.jpg  used on input line 215.
+(pdftex.def)             Requested size: 119.50279pt x 245.46057pt.
+ [36 <./images2/supabase.png> <./images2/github.png>]
+<images2/blender.png, id=203, 1371.1225pt x 730.73pt>
+File: images2/blender.png Graphic file (type png)
+<use images2/blender.png>
+Package pdftex.def Info: images2/blender.png  used on input line 224.
+(pdftex.def)             Requested size: 398.3386pt x 212.28537pt.
+<images2/kubus.png, id=204, 344.28625pt x 334.24875pt>
+File: images2/kubus.png Graphic file (type png)
+<use images2/kubus.png>
+Package pdftex.def Info: images2/kubus.png  used on input line 230.
+(pdftex.def)             Requested size: 119.50279pt x 116.01976pt.
+<images2/limas.png, id=205, 331.2375pt x 316.18124pt>
+File: images2/limas.png Graphic file (type png)
+<use images2/limas.png>
+Package pdftex.def Info: images2/limas.png  used on input line 231.
+(pdftex.def)             Requested size: 119.50279pt x 114.0712pt.
+<images2/jaringbalok.png, id=206, 478.78876pt x 376.40625pt>
+File: images2/jaringbalok.png Graphic file (type png)
+<use images2/jaringbalok.png>
+Package pdftex.def Info: images2/jaringbalok.png  used on input line 232.
+(pdftex.def)             Requested size: 119.50279pt x 93.94624pt.
+ [37 <./images2/landingpage.jpg> <./images2/tujuanpembelajaran.jpg> <./images2/menu.jpg>] [38 <./images2/blender.png> <./images2/kubus.png> <./images2/limas.png> <./images2/jaringbalok.png>]
+<images2/simulasi3d.jpg, id=213, 722.7pt x 1606.0pt>
+File: images2/simulasi3d.jpg Graphic file (type jpg)
+<use images2/simulasi3d.jpg>
+Package pdftex.def Info: images2/simulasi3d.jpg  used on input line 246.
+(pdftex.def)             Requested size: 139.42093pt x 309.82373pt.
+<images2/mywebar.png, id=214, 1371.1225pt x 730.73pt>
+File: images2/mywebar.png Graphic file (type png)
+<use images2/mywebar.png>
+Package pdftex.def Info: images2/mywebar.png  used on input line 255.
+(pdftex.def)             Requested size: 398.3386pt x 212.28537pt.
+<images/materi4.jpg, id=215, 722.7pt x 1606.0pt>
 File: images/materi4.jpg Graphic file (type jpg)
 <use images/materi4.jpg>
-Package pdftex.def Info: images/materi4.jpg  used on input line 593.
+Package pdftex.def Info: images/materi4.jpg  used on input line 261.
+(pdftex.def)             Requested size: 119.50279pt x 265.54219pt.
+ [39 <./images2/simulasi3d.jpg>] [40 <./images2/mywebar.png> <./images/materi4.jpg>]
+<images2/isiansingkat.jpg, id=223, 722.7pt x 1606.0pt>
+File: images2/isiansingkat.jpg Graphic file (type jpg)
+<use images2/isiansingkat.jpg>
+Package pdftex.def Info: images2/isiansingkat.jpg  used on input line 275.
+(pdftex.def)             Requested size: 119.50279pt x 265.54219pt.
+<images2/soalakhirbab.jpg, id=224, 722.7pt x 1606.0pt>
+File: images2/soalakhirbab.jpg Graphic file (type jpg)
+<use images2/soalakhirbab.jpg>
+Package pdftex.def Info: images2/soalakhirbab.jpg  used on input line 276.
+(pdftex.def)             Requested size: 119.50279pt x 265.54219pt.
+<images2/quizvolume.jpg, id=225, 722.7pt x 1606.0pt>
+File: images2/quizvolume.jpg Graphic file (type jpg)
+<use images2/quizvolume.jpg>
+Package pdftex.def Info: images2/quizvolume.jpg  used on input line 277.
+(pdftex.def)             Requested size: 119.50279pt x 265.54219pt.
+ [41 <./images2/isiansingkat.jpg> <./images2/soalakhirbab.jpg> <./images2/quizvolume.jpg>] [42] [43] [44] [45] [46] [47]
+<revisi/sebelum/sebelumA.jpg, id=248, 722.7pt x 1606.0pt>
+File: revisi/sebelum/sebelumA.jpg Graphic file (type jpg)
+<use revisi/sebelum/sebelumA.jpg>
+Package pdftex.def Info: revisi/sebelum/sebelumA.jpg  used on input line 515.
+(pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
+<revisi/sesudah/sesudahA.jpg, id=249, 722.7pt x 1606.0pt>
+File: revisi/sesudah/sesudahA.jpg Graphic file (type jpg)
+<use revisi/sesudah/sesudahA.jpg>
+Package pdftex.def Info: revisi/sesudah/sesudahA.jpg  used on input line 516.
+(pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
+<revisi/sebelum/sebelumB.jpg, id=250, 722.7pt x 1606.0pt>
+File: revisi/sebelum/sebelumB.jpg Graphic file (type jpg)
+<use revisi/sebelum/sebelumB.jpg>
+Package pdftex.def Info: revisi/sebelum/sebelumB.jpg  used on input line 525.
+(pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
+<revisi/sesudah/sesudahB.jpg, id=251, 722.7pt x 1606.0pt>
+File: revisi/sesudah/sesudahB.jpg Graphic file (type jpg)
+<use revisi/sesudah/sesudahB.jpg>
+Package pdftex.def Info: revisi/sesudah/sesudahB.jpg  used on input line 526.
+(pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
+ [48 <./revisi/sebelum/sebelumA.jpg> <./revisi/sesudah/sesudahA.jpg>]
+<revisi/sebelum/sebelumC.jpg, id=255, 722.7pt x 1606.0pt>
+File: revisi/sebelum/sebelumC.jpg Graphic file (type jpg)
+<use revisi/sebelum/sebelumC.jpg>
+Package pdftex.def Info: revisi/sebelum/sebelumC.jpg  used on input line 534.
+(pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
+<revisi/sesudah/sesudahC.jpg, id=256, 722.7pt x 1606.0pt>
+File: revisi/sesudah/sesudahC.jpg Graphic file (type jpg)
+<use revisi/sesudah/sesudahC.jpg>
+Package pdftex.def Info: revisi/sesudah/sesudahC.jpg  used on input line 535.
+(pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
+<revisi/sebelum/sebelumD.jpg, id=257, 722.7pt x 1606.0pt>
+File: revisi/sebelum/sebelumD.jpg Graphic file (type jpg)
+<use revisi/sebelum/sebelumD.jpg>
+Package pdftex.def Info: revisi/sebelum/sebelumD.jpg  used on input line 543.
+(pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
+<revisi/sesudah/sesudahD.jpg, id=258, 722.7pt x 1606.0pt>
+File: revisi/sesudah/sesudahD.jpg Graphic file (type jpg)
+<use revisi/sesudah/sesudahD.jpg>
+Package pdftex.def Info: revisi/sesudah/sesudahD.jpg  used on input line 544.
+(pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
+ [49 <./revisi/sebelum/sebelumB.jpg> <./revisi/sesudah/sesudahB.jpg> <./revisi/sebelum/sebelumC.jpg> <./revisi/sesudah/sesudahC.jpg>]
+<revisi/sebelum/sebelumE.jpg, id=262, 722.7pt x 1606.0pt>
+File: revisi/sebelum/sebelumE.jpg Graphic file (type jpg)
+<use revisi/sebelum/sebelumE.jpg>
+Package pdftex.def Info: revisi/sebelum/sebelumE.jpg  used on input line 552.
+(pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
+<revisi/sesudah/sesudahE.jpg, id=263, 722.7pt x 1606.0pt>
+File: revisi/sesudah/sesudahE.jpg Graphic file (type jpg)
+<use revisi/sesudah/sesudahE.jpg>
+Package pdftex.def Info: revisi/sesudah/sesudahE.jpg  used on input line 553.
+(pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
+<revisi/sebelum/sebelumF.jpg, id=264, 722.7pt x 1606.0pt>
+File: revisi/sebelum/sebelumF.jpg Graphic file (type jpg)
+<use revisi/sebelum/sebelumF.jpg>
+Package pdftex.def Info: revisi/sebelum/sebelumF.jpg  used on input line 561.
+(pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
+<revisi/sesudah/sesudahF.jpg, id=265, 722.7pt x 1606.0pt>
+File: revisi/sesudah/sesudahF.jpg Graphic file (type jpg)
+<use revisi/sesudah/sesudahF.jpg>
+Package pdftex.def Info: revisi/sesudah/sesudahF.jpg  used on input line 562.
+(pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
+ [50 <./revisi/sebelum/sebelumD.jpg> <./revisi/sesudah/sesudahD.jpg> <./revisi/sebelum/sebelumE.jpg> <./revisi/sesudah/sesudahE.jpg>]
+<revisi/sesudah/sesudahG1.jpg, id=269, 722.7pt x 1606.0pt>
+File: revisi/sesudah/sesudahG1.jpg Graphic file (type jpg)
+<use revisi/sesudah/sesudahG1.jpg>
+Package pdftex.def Info: revisi/sesudah/sesudahG1.jpg  used on input line 569.
+(pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
+<revisi/sesudah/sesudahG2.jpg, id=270, 722.7pt x 1606.0pt>
+File: revisi/sesudah/sesudahG2.jpg Graphic file (type jpg)
+<use revisi/sesudah/sesudahG2.jpg>
+Package pdftex.def Info: revisi/sesudah/sesudahG2.jpg  used on input line 570.
+(pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
+<revisi/sesudah/sesudahG3.jpg, id=271, 722.7pt x 1606.0pt>
+File: revisi/sesudah/sesudahG3.jpg Graphic file (type jpg)
+<use revisi/sesudah/sesudahG3.jpg>
+Package pdftex.def Info: revisi/sesudah/sesudahG3.jpg  used on input line 571.
+(pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
+<revisi/Revisimedia2.jpg, id=272, 722.7pt x 1606.0pt>
+File: revisi/Revisimedia2.jpg Graphic file (type jpg)
+<use revisi/Revisimedia2.jpg>
+Package pdftex.def Info: revisi/Revisimedia2.jpg  used on input line 582.
+(pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
+<revisi/Revisimedia.jpg, id=273, 722.7pt x 1606.0pt>
+File: revisi/Revisimedia.jpg Graphic file (type jpg)
+<use revisi/Revisimedia.jpg>
+Package pdftex.def Info: revisi/Revisimedia.jpg  used on input line 583.
+(pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
+ [51 <./revisi/sebelum/sebelumF.jpg> <./revisi/sesudah/sesudahF.jpg> <./revisi/sesudah/sesudahG1.jpg> <./revisi/sesudah/sesudahG2.jpg> <./revisi/sesudah/sesudahG3.jpg>]
+<revisi/Landingpage1.jpg, id=277, 722.7pt x 1606.0pt>
+File: revisi/Landingpage1.jpg Graphic file (type jpg)
+<use revisi/Landingpage1.jpg>
+Package pdftex.def Info: revisi/Landingpage1.jpg  used on input line 603.
+(pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
+<revisi/Landingpage2.jpg, id=278, 722.7pt x 1606.0pt>
+File: revisi/Landingpage2.jpg Graphic file (type jpg)
+<use revisi/Landingpage2.jpg>
+Package pdftex.def Info: revisi/Landingpage2.jpg  used on input line 604.
+(pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 598--607
+| \T1/ptm/m/n/12 (+20) Ha-la-man per-tama saat men-gak-ses https://medpemar.vercel.app.
+ []
+
+<revisi/Landingpage3.png, id=279, 1371.1225pt x 730.73pt>
+File: revisi/Landingpage3.png Graphic file (type png)
+<use revisi/Landingpage3.png>
+Package pdftex.def Info: revisi/Landingpage3.png  used on input line 611.
+(pdftex.def)             Requested size: 398.3386pt x 212.28537pt.
+
+Overfull \hbox (12.00002pt too wide) in paragraph at lines 610--613
+ [][] 
+ []
+
+[52 <./revisi/Revisimedia2.jpg> <./revisi/Revisimedia.jpg>]
+File: revisi/sesudah/sesudahG1.jpg Graphic file (type jpg)
+<use revisi/sesudah/sesudahG1.jpg>
+Package pdftex.def Info: revisi/sesudah/sesudahG1.jpg  used on input line 620.
+(pdftex.def)             Requested size: 119.50279pt x 265.54219pt.
+File: revisi/sesudah/sesudahG2.jpg Graphic file (type jpg)
+<use revisi/sesudah/sesudahG2.jpg>
+Package pdftex.def Info: revisi/sesudah/sesudahG2.jpg  used on input line 621.
+(pdftex.def)             Requested size: 119.50279pt x 265.54219pt.
+File: revisi/sesudah/sesudahG3.jpg Graphic file (type jpg)
+<use revisi/sesudah/sesudahG3.jpg>
+Package pdftex.def Info: revisi/sesudah/sesudahG3.jpg  used on input line 622.
+(pdftex.def)             Requested size: 119.50279pt x 265.54219pt.
+ [53 <./revisi/Landingpage1.jpg> <./revisi/Landingpage2.jpg> <./revisi/Landingpage3.png>]
+<revisi/Menu.jpg, id=287, 722.7pt x 1606.0pt>
+File: revisi/Menu.jpg Graphic file (type jpg)
+<use revisi/Menu.jpg>
+Package pdftex.def Info: revisi/Menu.jpg  used on input line 631.
+(pdftex.def)             Requested size: 119.50279pt x 265.54219pt.
+<revisi/Menuvolume.jpg, id=288, 722.7pt x 1606.0pt>
+File: revisi/Menuvolume.jpg Graphic file (type jpg)
+<use revisi/Menuvolume.jpg>
+Package pdftex.def Info: revisi/Menuvolume.jpg  used on input line 632.
+(pdftex.def)             Requested size: 119.50279pt x 265.54219pt.
+<revisi/Menuluaspermukaan.jpg, id=289, 722.7pt x 1606.0pt>
+File: revisi/Menuluaspermukaan.jpg Graphic file (type jpg)
+<use revisi/Menuluaspermukaan.jpg>
+Package pdftex.def Info: revisi/Menuluaspermukaan.jpg  used on input line 633.
+(pdftex.def)             Requested size: 119.50279pt x 265.54219pt.
+ [54]
+<images/materi1.jpg, id=293, 722.7pt x 1606.0pt>
+File: images/materi1.jpg Graphic file (type jpg)
+<use images/materi1.jpg>
+Package pdftex.def Info: images/materi1.jpg  used on input line 642.
 (pdftex.def)             Requested size: 79.66649pt x 177.02812pt.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[62 <./revisi/Menu.jpg> <./revisi/Menuvolume.jpg> <./revisi/Menuluaspermukaan.jpg>]
-<images/kuis1.jpg, id=309, 722.7pt x 1606.0pt>
+<images/materi2.jpg, id=294, 722.7pt x 1606.0pt>
+File: images/materi2.jpg Graphic file (type jpg)
+<use images/materi2.jpg>
+Package pdftex.def Info: images/materi2.jpg  used on input line 643.
+(pdftex.def)             Requested size: 79.66649pt x 177.02812pt.
+<images/materi3.jpg, id=295, 722.7pt x 1606.0pt>
+File: images/materi3.jpg Graphic file (type jpg)
+<use images/materi3.jpg>
+Package pdftex.def Info: images/materi3.jpg  used on input line 644.
+(pdftex.def)             Requested size: 79.66649pt x 177.02812pt.
+File: images/materi4.jpg Graphic file (type jpg)
+<use images/materi4.jpg>
+Package pdftex.def Info: images/materi4.jpg  used on input line 645.
+(pdftex.def)             Requested size: 79.66649pt x 177.02812pt.
+<images/kuis1.jpg, id=296, 722.7pt x 1606.0pt>
 File: images/kuis1.jpg Graphic file (type jpg)
 <use images/kuis1.jpg>
-Package pdftex.def Info: images/kuis1.jpg  used on input line 602.
+Package pdftex.def Info: images/kuis1.jpg  used on input line 654.
 (pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
-<images/kuis2.jpg, id=310, 722.7pt x 1606.0pt>
+<images/kuis2.jpg, id=297, 722.7pt x 1606.0pt>
 File: images/kuis2.jpg Graphic file (type jpg)
 <use images/kuis2.jpg>
-Package pdftex.def Info: images/kuis2.jpg  used on input line 603.
+Package pdftex.def Info: images/kuis2.jpg  used on input line 655.
 (pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
-<images/kuis3.jpg, id=311, 722.7pt x 1606.0pt>
+<images/kuis3.jpg, id=298, 722.7pt x 1606.0pt>
 File: images/kuis3.jpg Graphic file (type jpg)
 <use images/kuis3.jpg>
-Package pdftex.def Info: images/kuis3.jpg  used on input line 604.
+Package pdftex.def Info: images/kuis3.jpg  used on input line 656.
 (pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
-)
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[63 <./images/materi1.jpg> <./images/materi2.jpg> <./images/materi3.jpg> <./images/materi4.jpg> <./images/kuis1.jpg> <./images/kuis2.jpg> <./images/kuis3.jpg>] (./skripsi.bbl
-Overfull \hbox (81.52475pt too wide) in paragraph at lines 7--9
-\T1/ptm/b/n/12 URL: \T1/ptm/m/it/12 https://ejournal.warunayama.org/index.php/sindorocendikiapendidikan/article/view/10328 
- []
-
-[64
-
-]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[65]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[66]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[67])
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[68]
-Underfull \hbox (badness 2884) in paragraph at lines 249--249
-\T1/ptm/m/n/12 yang mem-buat pe-serta didik men-jadi
+ [55 <./revisi/Menu.jpg> <./revisi/Menuvolume.jpg> <./revisi/Menuluaspermukaan.jpg> <./images/materi1.jpg> <./images/materi2.jpg> <./images/materi3.jpg>]) (./bab/bab5_2.tex [56 <./images/kuis1.jpg> <./images/kuis2.jpg> <./images/kuis3.jpg>] [57] [58]) [59] (./skripsi.bbl
+Overfull \hbox (8.56596pt too wide) in paragraph at lines 23--25
+\T1/ptm/b/n/12 (-20) URL: \T1/ptm/m/it/12 (-20) https://www.wiley.com/en-us/E+Learning+and+the+Science+of+Instruction 
  []
 
 
-Underfull \hbox (badness 5431) in paragraph at lines 255--255
-[]|\T1/ptm/m/n/12 Saya menyukai pem-be-la-jaran den-gan
+Underfull \hbox (badness 10000) in paragraph at lines 27--29
+\T1/ptm/b/n/12 (+20) URL: \T1/ptm/m/it/12 (+20) https://www.packtpub.com/product/learning-three-js-third-
+ []
+
+[60
+
+] [61]) [62] (./bab/lampiran_skripsi.tex
+Underfull \hbox (badness 3148) in paragraph at lines 51--51
+[]|\T1/ptm/m/n/12 (+20) Saya menyukai pem-be-la-jaran den-gan
  []
 
 
-Overfull \hbox (37.02437pt too wide) in paragraph at lines 227--262
+Overfull \hbox (37.02437pt too wide) in paragraph at lines 23--58
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--262
+Underfull \hbox (badness 10000) in paragraph at lines 18--58
 
  []
 
+[63
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+] [64]
+Underfull \hbox (badness 1142) in paragraph at lines 82--85
+\T1/ptm/m/n/12 (+20) peneli-tian yang berjudul \T1/ptm/b/n/12 (+20) PENGEM-BAN-GAN ME-DIA PEM-BE-LA-JARAN
+ []
 
-[69] (./skripsi.aux)
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--99
+
+ []
+
+[65] [66] [67]) [68] (./skripsi.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 18784 strings out of 474222
- 375243 string characters out of 5748733
- 1939975 words of memory out of 5000000
- 40670 multiletter control sequences out of 15000+600000
- 612320 words of font info for 121 fonts, out of 8000000 for 9000
+ 21518 strings out of 474222
+ 418916 string characters out of 5748733
+ 1940975 words of memory out of 5000000
+ 42895 multiletter control sequences out of 15000+600000
+ 650903 words of font info for 401 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,17n,93p,1941b,827s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1200.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on skripsi.pdf (79 pages, 13309602 bytes).
+ 84i,17n,93p,1855b,753s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1200.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on skripsi.pdf (83 pages, 13884716 bytes).
 PDF statistics:
- 380 PDF objects out of 1000 (max. 8388607)
- 210 compressed objects within 3 object streams
+ 396 PDF objects out of 1000 (max. 8388607)
+ 224 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 283 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 98080 words of extra memory for PDF output out of 106986 (max. 10000000)
 

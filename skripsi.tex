@@ -2,6 +2,7 @@
 
 \usepackage[a4paper, left=4cm, right=3cm, top=4cm, bottom=3cm]{geometry}
 \usepackage{graphicx}
+\usepackage{eso-pic}
 \usepackage{mathptmx}
 \usepackage{setspace}
 \usepackage{enumitem}
@@ -9,6 +10,7 @@
 \usepackage{array}
 \usepackage{booktabs}
 \usepackage{caption}
+\usepackage[final]{microtype}
 \usepackage{float}
 \usepackage{amsmath}
 \usepackage{amssymb}
@@ -22,6 +24,7 @@
 \renewcommand{\bibname}{Daftar Pustaka}
 
 \usepackage{fancyhdr}
+\setlength{\headheight}{14.49998pt}
 \usepackage{lipsum}
 \renewcommand{\headrulewidth}{0pt}
 \renewcommand{\contentsname}{Daftar Isi}
@@ -42,143 +45,41 @@
 \usetikzlibrary{calc}
 \usetikzlibrary{shapes.geometric, arrows.meta, positioning}
 
+\newcommand{\pagewithlogobackground}{%
+  \AddToShipoutPictureBG*{%
+    \begin{tikzpicture}[remember picture,overlay]
+      \node[opacity=0.3,inner sep=0pt] at (current page.center) {\includegraphics[width=0.6\paperwidth,keepaspectratio]{logo/logo-uad-kuning.png}};
+    \end{tikzpicture}%
+  }
+}
+
+\newcommand{\clearlogobackground}{\ClearShipoutPictureBG}
+
 \tikzstyle{startstop} = [rectangle, rounded corners, minimum width=5cm, minimum height=1cm,text centered, draw=black, fill=blue!20]
 \tikzstyle{process} = [rectangle, minimum width=5cm, minimum height=1cm, text centered, draw=black, fill=green!20]
 \tikzstyle{arrow} = [thick,->,>=stealth]
 
 \begin{document}
+\sloppy
 \pagenumbering{roman}
 \setcounter{page}{1}
-\addcontentsline{toc}{chapter}{HALAMAN JUDUL}
-\begin{center}
-    {
-        \fontsize{14pt}{16pt}\selectfont
-        \textbf{PENGEMBANGAN MEDIA PEMBELAJARAN MATEMATIKA BERBASIS SIMULASI 3D MENGGUNAKAN REACT JS DAN BLENDER PADA MATERI BANGUN RUANG SISI DATAR}\\[1cm]
-        \textbf{SKRIPSI}\\[1cm]
-    
-
-        Diajukan kepada Fakultas Keguruan dan Ilmu Pendidikan Universitas Ahmad Dahlan untuk Memenuhi Persyaratan Memperoleh Gelar Sarjana Pendidikan\\[1cm]
-
-        \begin{figure}[H]
-            \centering
-            \includegraphics[width=0.3\textwidth]{images/logo-uad-hitam.png}
-        \end{figure}
-
-        Oleh
-
-        Toriq Afanudin
-
-        1900006105\\[1cm]
-
-        \textbf{PROGRAM STUDI PENDIDIKAN MATEMATIKA FAKULTAS KEGURUAN DAN ILMU PENDIDIKAN}\\
-        \textbf{UNIVERSITAS AHMAD DAHLAN}\\
-        \textbf{2026}
-    }
-\end{center}
+\input{bab/halaman_judul.tex}
+\thispagestyle{empty}
 \newpage
-\addcontentsline{toc}{chapter}{HALAMAN PERSETUJUAN}
-\begin{center}
-    {
-        \fontsize{16pt}{16pt}\selectfont
-        \textbf{SKRIPSI}\\[0.4cm]
-        \textbf{PENGEMBANGAN MEDIA PEMBELAJARAN MATEMATIKA BERBASIS SIMULASI 3D MENGGUNAKAN REACT JS DAN BLENDER PADA MATERI BANGUN RUANG SISI DATAR}\\[0.4cm]
-    }
-    {
-        \fontsize{14pt}{16pt}\selectfont
-        dipersiapkan dan disusun oleh\\[1cm]
-        Toriq Afanudin\\[1cm]
-        1900006105\\[1cm]
-    }
-    telah disetujui oleh\\
-    Dosen Pembimbing Skripsi\\
-    Program Studi Pendidikan Matematika\\
-    Fakultas Keguruan dan Ilmu Pendidikan\\
-    Universitas Ahmad Dahlan\\
-    dan dinyatakan telah memenuhi\\
-    syarat untuk diujikan\\[2cm]
-    {
-        \fontsize{14pt}{16pt}\selectfont
-        Dosen Pembimbing\\[2.5cm]
-        Dr. Puguh Wahyu Prasetyo, S.Si., M.Sc.\\
-        NIDN. 0422078801
-
-    }
-    
-\end{center}
+\pagewithlogobackground
+\input{bab/persetujuan.tex}
+\clearlogobackground
 \newpage
-\begin{center}
-    {
-        \fontsize{16pt}{16pt}\selectfont
-        \textbf{SKRIPSI}\\[0.4cm]
-        \textbf{PENGEMBANGAN MEDIA PEMBELAJARAN MATEMATIKA BERBASIS SIMULASI 3D MENGGUNAKAN REACT JS DAN BLENDER PADA MATERI BANGUN RUANG SISI DATAR}\\[0.4cm]
-    }
-    {
-        \fontsize{14pt}{16pt}\selectfont
-        dipersiapkan dan disusun oleh\\[0.7cm]
-        Toriq Afanudin 1900006105\\[0.7cm]
-    }
-    telah dipertahankan di depan\\
-    Panitia Penguji Skripsi Fakultas Keguruan dan Ilmu Pendidikan\\
-    Universitas Ahmad Dahlan pada tanggal \dotfill \\
-    Dan dinyatakan telah memenuhi persyaratan memperoleh\\
-    Gelar Sarjana Pendidikan\\[0.5cm]
-    {
-        \fontsize{16pt}{16pt}\selectfont
-        \textbf{SUSUNAN PANITIA UJIAN SKRIPSI}
-
-    }
-    
-\end{center}
-{\fontsize{14pt}{16pt}\selectfont
-\noindent
-\begin{tabularx}{\textwidth}{lX}
-\textbf{1. Ketua}      & \textbf{: Dr. Puguh Wahyu Prasetyo, S.Si., M.Sc. \dotfill} \\[0.5cm]
-\textbf{2. Penguji I}  & \textbf{: \dotfill} \\[0.5cm]
-\textbf{3. Penguji II} & \textbf{: \dotfill}
-\end{tabularx}
-
-\begin{flushright}
-\begin{minipage}{0.6\textwidth}
-\raggedright
-Yogyakarta, 15 Agustus 2025\\
-Fakultas Keguruan dan Ilmu Pendidikan\\
-Universitas Ahmad Dahlan\\
-Dekan,\\[2cm]
-Muhammad Sayuti, M.Pd., M.Ed., Ph.D.\\
-NIY. 60080551
-\end{minipage}
-\end{flushright}
-}
-
+\pagewithlogobackground
+\input{bab/pengesahan.tex}
+\clearlogobackground
 \newpage
-\begin{center}
-    \textbf{SURAT PERNYATAAN KEASLIAN}
-\end{center}
-
-Yang bertanda tangan di bawah ini:\\[0.5cm]
-\begin{tabular}{ll}
-    Nama & : Toriq Afanudin \\
-    NIM  & : 1900006105 \\
-    Program Studi & : Pendidikan Matematika\\
-    Fakultas & : Keguruan dan Ilmu Pendidikan\\
-    Universitas & : Universitas Ahmad Dahlan\\
-\end{tabular}
-\vspace{0.5cm}
-
-Menyatakan bahwa skripsi yang berjudul "PENGEMBANGAN MEDIA PEMBELAJARAN MATEMATIKA BERBASIS SIMULASI 3D MENGGUNAKAN REACT JS DAN BLENDER PADA MATERI BANGUN RUANG SISI DATAR" adalah benar-benar karya saya sendiri. Saya tidak melakukan penjiplakan atau pengambilan karya dari orang lain. Apabila di kemudian hari terbukti bahwa saya melakukan penjiplakan, saya bersedia menerima sanksi sesuai dengan ketentuan yang berlaku.
-
-\begin{flushright}
-\begin{minipage}{0.5\textwidth}
-\raggedright
-Yogyakarta, \hspace{2cm} 2025\\
-
-Toriq Afanudin\\
-1900006105
-\end{minipage}
-\end{flushright}
-
-
-
+\input{bab/pernyataan_keaslian.tex}
+\newpage
+\input{bab/kata_pengantar.tex}
+\newpage
+\thispagestyle{empty}
+\input{bab/halaman_motto.tex}
 \newpage
 \addcontentsline{toc}{chapter}{DAFTAR ISI}
 \tableofcontents
@@ -189,79 +90,26 @@ Toriq Afanudin\\
 % \addcontentsline{toc}{chapter}{DAFTAR TABEL}
 \listoftables
 \newpage
+\input{bab/abstrak.tex}
+\newpage
 \pagestyle{fancy}
 \fancyhf{}
 \fancyhead[R]{\thepage}
 \pagenumbering{arabic}
 \setcounter{page}{1}
-\input{bab/bab1.tex}
-\input{bab/bab2.tex}
-\input{bab/bab3.tex}
-\input{bab/bab4.tex}
+\input{bab/bab1_baru.tex}
+\input{bab/bab2_baru.tex}
+\input{bab/bab3_rewrite_total.tex}
+\input{bab/bab4_rapi.tex}
+\input{bab/bab5_2.tex}
 
 
 
 
 \newpage
 \bibliography{daftar-pustaka}
-\addcontentsline{toc}{chapter}{Daftar Pustaka}
+\addcontentsline{toc}{chapter}{DAFTAR PUSTAKA}
 
 \newpage
-Lampiran 1. Instrumen Angket Pra Penelitian Peserta Didik
-\begin{center}
-    \textbf{INSTRUMEN ANGKET PRA PENELITIAN PESERTA DIDIK}
-\end{center}
-\textbf{Petunjuk:}
-\begin{enumerate}
-    \item Isilah identitas kalian pada tempat yang telah disediakan.
-    \item Perhatikan setiap pertanyaan dengan cermat dan seksama.
-    \item Pilih jawaban yang sesuai dengan kepribadian anda.
-    \item Seluruh pertanyaan wajib diisi.
-    \item Hasil angket ini tidak mempengaruhi nilai dan dijaga kerahasiaannya.
-\end{enumerate}
-Identitas responden\\
-Nama:\\
-Kelas:\\
-\begin{table}[H]
-    \centering
-    \begin{tabular}{|c|p{7cm}|c|p{3cm}|}
-        \hline
-        \textbf{No} & \textbf{Aspek} & \textbf{Bentuk Jawaban} & \textbf{Keterangan} \\
-        \hline
-        1. & Apakah pelajaran matematika sulit? & Pilihan opsi & 
-        \begin{tabular}[t]{@{}l@{}}
-            - Ya\\
-            - Tidak
-        \end{tabular} \\
-        \hline
-        2. & Apakah materi bangun ruang sisi datar sulit dipahami? & Pilihan opsi & 
-        \begin{tabular}[t]{@{}l@{}}
-            - Ya\\
-            - Tidak
-        \end{tabular} \\
-        \hline
-        3. & Saya lebih tertarik dengan pembelajaran praktik, daripada hanya dijelaskan oleh guru. & Pilihan opsi &
-        \begin{tabular}[t]{@{}l@{}}
-            - Ya\\
-            - Tidak
-        \end{tabular} \\
-        \hline
-        4. & Saya menyukai pendekatan pembelajaran yang membuat peserta didik menjadi lebih aktif. & Pilihan opsi &
-        \begin{tabular}[t]{@{}l@{}}
-            - Ya\\
-            - Tidak
-        \end{tabular} \\
-        \hline
-        5. & Saya menyukai pembelajaran dengan menggunakan teknologi & Pilihan opsi &
-        \begin{tabular}[t]{@{}l@{}}
-            - Ya\\
-            - Tidak
-        \end{tabular} \\
-        \hline
-    \end{tabular}
-\end{table}
-
-
-
-
+\input{bab/lampiran_skripsi.tex}
 \end{document}

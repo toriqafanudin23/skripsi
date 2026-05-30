@@ -3,44 +3,44 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: skripsi.aux
 The style file: agsm.bst
 Database file #1: daftar-pustaka.bib
-You've used 36 entries,
+You've used 24 entries,
             2909 wiz_defined-function locations,
-            861 strings with 11720 characters,
-and the built_in function-call counts, 165670 in all, are:
-= -- 26989
-> -- 2169
-< -- 3
-+ -- 12879
-- -- 662
-* -- 14275
-:= -- 32860
-add.period$ -- 40
-call.type$ -- 36
-change.case$ -- 501
-chr.to.int$ -- 36
-cite$ -- 36
-duplicate$ -- 726
-empty$ -- 1322
-format.name$ -- 766
-if$ -- 29923
+            783 strings with 8696 characters,
+and the built_in function-call counts, 60030 in all, are:
+= -- 9491
+> -- 718
+< -- 1
++ -- 4275
+- -- 211
+* -- 4787
+:= -- 12852
+add.period$ -- 26
+call.type$ -- 24
+change.case$ -- 320
+chr.to.int$ -- 24
+cite$ -- 24
+duplicate$ -- 360
+empty$ -- 668
+format.name$ -- 281
+if$ -- 10624
 int.to.chr$ -- 5
 int.to.str$ -- 0
-missing$ -- 39
-newline$ -- 124
-num.names$ -- 382
-pop$ -- 186
+missing$ -- 29
+newline$ -- 96
+num.names$ -- 242
+pop$ -- 156
 preamble$ -- 1
-purify$ -- 540
+purify$ -- 360
 quote$ -- 0
-skip$ -- 674
+skip$ -- 231
 stack$ -- 0
-substring$ -- 38303
-swap$ -- 222
-text.length$ -- 507
+substring$ -- 12948
+swap$ -- 32
+text.length$ -- 337
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 136
+type$ -- 72
 warning$ -- 0
-while$ -- 831
+while$ -- 512
 width$ -- 0
-write$ -- 497
+write$ -- 323
