@@ -1,9 +1,10 @@
 \contentsline {chapter}{HALAMAN JUDUL}{i}{}%
 \contentsline {chapter}{HALAMAN PERSETUJUAN}{ii}{}%
-\contentsline {chapter}{SURAT PERNYATAAN KEASLIAN}{v}{}%
-\contentsline {chapter}{KATA PENGANTAR}{vi}{}%
-\contentsline {chapter}{DAFTAR ISI}{ix}{}%
-\contentsline {chapter}{ABSTRAK}{xiv}{}%
+\contentsline {chapter}{SURAT PERNYATAAN KEASLIAN}{iv}{}%
+\contentsline {chapter}{KATA PENGANTAR}{v}{}%
+\contentsline {chapter}{HALAMAN MOTTO}{vii}{}%
+\contentsline {chapter}{DAFTAR ISI}{viii}{}%
+\contentsline {chapter}{ABSTRAK}{xiii}{}%
 \contentsline {chapter}{BAB I. PENDAHULUAN}{1}{}%
 \contentsline {section}{A. Latar Belakang}{1}{}%
 \contentsline {section}{B. Identifikasi Masalah}{3}{}%
@@ -18,20 +19,20 @@
 \contentsline {section}{A. Landasan Teori}{9}{}%
 \contentsline {section}{B. Kajian Penelitian yang Relevan}{11}{}%
 \contentsline {section}{C. Kerangka Berpikir}{13}{}%
-\contentsline {chapter}{BAB III. METODE PENELITIAN}{15}{}%
-\contentsline {section}{A. Model Pengembangan}{15}{}%
-\contentsline {section}{B. Prosedur Pengembangan}{16}{}%
-\contentsline {section}{C. Uji Coba Produk}{19}{}%
-\contentsline {chapter}{BAB IV. HASIL DAN PEMBAHASAN}{27}{}%
-\contentsline {section}{A. Data Uji Coba}{27}{}%
-\contentsline {section}{B. Analisis Data}{45}{}%
-\contentsline {section}{C. Revisi Produk}{49}{}%
-\contentsline {section}{D. Kajian Produk Akhir}{53}{}%
-\contentsline {chapter}{BAB V. KESIMPULAN DAN SARAN}{58}{}%
-\contentsline {section}{A. Kesimpulan}{58}{}%
-\contentsline {section}{B. Saran}{59}{}%
-\contentsline {chapter}{DAFTAR PUSTAKA}{65}{}%
-\contentsline {chapter}{LAMPIRAN}{66}{}%
-\contentsline {section}{Lampiran 1. Instrumen Angket Pra Penelitian Peserta Didik}{66}{}%
-\contentsline {section}{Lampiran 2. Revisi Ahli Materi}{68}{}%
-\contentsline {section}{Lampiran 3. Glosarium Istilah IT}{70}{}%
+\contentsline {chapter}{BAB III. METODE PENELITIAN}{16}{}%
+\contentsline {section}{A. Model Pengembangan}{16}{}%
+\contentsline {section}{B. Prosedur Pengembangan}{17}{}%
+\contentsline {section}{C. Uji Coba Produk}{20}{}%
+\contentsline {chapter}{BAB IV. HASIL DAN PEMBAHASAN}{28}{}%
+\contentsline {section}{A. Data Uji Coba}{28}{}%
+\contentsline {section}{B. Analisis Data}{46}{}%
+\contentsline {section}{C. Revisi Produk}{50}{}%
+\contentsline {section}{D. Kajian Produk Akhir}{54}{}%
+\contentsline {chapter}{BAB V. KESIMPULAN DAN SARAN}{59}{}%
+\contentsline {section}{A. Kesimpulan}{59}{}%
+\contentsline {section}{B. Saran}{60}{}%
+\contentsline {chapter}{DAFTAR PUSTAKA}{66}{}%
+\contentsline {chapter}{LAMPIRAN}{67}{}%
+\contentsline {section}{Lampiran 1. Instrumen Angket Pra Penelitian Peserta Didik}{67}{}%
+\contentsline {section}{Lampiran 2. Revisi Ahli Materi}{69}{}%
+\contentsline {section}{Lampiran 3. Glosarium Istilah IT}{71}{}%
