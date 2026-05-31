@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.3.20)  31 MAY 2026 06:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.3.20)  31 MAY 2026 07:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -672,13 +672,13 @@ Package microtype Info: Loading generic protrusion settings for font family
 
  [13
 
-] (./bab/abstrak.tex [14] [15]) (./bab/bab1_baru.tex [1]
-Underfull \hbox (badness 10000) in paragraph at lines 33--34
+] (./bab/abstrak.tex [14] [15]) (./bab/bab1_baru.tex [1] [2]
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
 
  []
 
-[2]
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 60.
+[3]
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 68.
  (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
@@ -686,23 +686,23 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmtt' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- [3] [4] [5] [6]) (./bab/bab2_baru.tex [7] [8] [9] [10] [11] [12]) (./bab/bab3_rewrite_total.tex [13]
+ [4] [5] [6] [7]) (./bab/bab2_baru.tex [8] [9] [10] [11] [12] [13]) (./bab/bab3_rewrite_total.tex [14]
 Underfull \hbox (badness 10000) in paragraph at lines 19--20
 
  []
 
-[14]
-<images2/addie.png, id=110, 575.14874pt x 296.10625pt>
+[15]
+<images2/addie.png, id=113, 575.14874pt x 296.10625pt>
 File: images2/addie.png Graphic file (type png)
 <use images2/addie.png>
 Package pdftex.def Info: images2/addie.png  used on input line 27.
 (pdftex.def)             Requested size: 318.67209pt x 164.06529pt.
- [15 <./images2/addie.png>] [16] [17] [18] [19] [20]
+ [16 <./images2/addie.png>] [17] [18] [19] [20] [21]
 Overfull \hbox (7.75839pt too wide) in paragraph at lines 118--140
  [][] 
  []
 
-[21]
+[22]
 Underfull \hbox (badness 7832) in paragraph at lines 159--159
 []|\T1/ptm/m/n/12 (+20) Kualitas perangkat
  []
@@ -712,240 +712,240 @@ Overfull \hbox (50.43753pt too wide) in paragraph at lines 147--162
  [][] 
  []
 
-[22] [23] [24]
+[23] [24] [25]
 Overfull \hbox (66.16231pt too wide) in paragraph at lines 232--240
 []$ 
  []
 
-) (./bab/bab4_rapi.tex [25] [26] [27]
+) (./bab/bab4_rapi.tex [26] [27] [28]
 Underfull \hbox (badness 1199) in paragraph at lines 64--65
 []| \T1/ptm/m/n/12 (+20) SMP Muham-madiyah 9 Yo-gyakarta men-er-ap-kan Kuriku-lum
  []
 
-[28]
-<images/bagan2.png, id=159, 1760.5775pt x 900.36375pt>
+[29]
+<images/bagan2.png, id=162, 1760.5775pt x 900.36375pt>
 File: images/bagan2.png Graphic file (type png)
 <use images/bagan2.png>
 Package pdftex.def Info: images/bagan2.png  used on input line 93.
 (pdftex.def)             Requested size: 318.67209pt x 162.96521pt.
- [29]
-<images/landingpage2.png, id=163, 1471.4975pt x 722.7pt>
+ [30]
+<images/landingpage2.png, id=166, 1471.4975pt x 722.7pt>
 File: images/landingpage2.png Graphic file (type png)
 <use images/landingpage2.png>
 Package pdftex.def Info: images/landingpage2.png  used on input line 107.
 (pdftex.def)             Requested size: 318.67209pt x 156.50227pt.
-<images/pendahuluan2.png, id=164, 1485.55pt x 722.7pt>
+<images/pendahuluan2.png, id=167, 1485.55pt x 722.7pt>
 File: images/pendahuluan2.png Graphic file (type png)
 <use images/pendahuluan2.png>
 Package pdftex.def Info: images/pendahuluan2.png  used on input line 113.
 (pdftex.def)             Requested size: 318.67209pt x 155.02458pt.
- [30 <./images/bagan2.png (PNG copy)>]
-<images/menu2.png, id=168, 1359.0775pt x 786.94pt>
+ [31 <./images/bagan2.png (PNG copy)>]
+<images/menu2.png, id=171, 1359.0775pt x 786.94pt>
 File: images/menu2.png Graphic file (type png)
 <use images/menu2.png>
 Package pdftex.def Info: images/menu2.png  used on input line 119.
 (pdftex.def)             Requested size: 318.67209pt x 184.51065pt.
-<images/quiz2.png, id=169, 1282.7925pt x 819.06pt>
+<images/quiz2.png, id=172, 1282.7925pt x 819.06pt>
 File: images/quiz2.png Graphic file (type png)
 <use images/quiz2.png>
 Package pdftex.def Info: images/quiz2.png  used on input line 125.
 (pdftex.def)             Requested size: 318.67209pt x 203.46472pt.
- [31 <./images/landingpage2.png> <./images/pendahuluan2.png> <./images/menu2.png>]
-<images/Flow.png, id=176, 1541.76pt x 1027.84pt>
+ [32 <./images/landingpage2.png> <./images/pendahuluan2.png> <./images/menu2.png>]
+<images/Flow.png, id=179, 1541.76pt x 1027.84pt>
 File: images/Flow.png Graphic file (type png)
 <use images/Flow.png>
 Package pdftex.def Info: images/Flow.png  used on input line 132.
 (pdftex.def)             Requested size: 318.67209pt x 212.43375pt.
-<images/mocksimulasi3d.png, id=177, 899.36pt x 1188.44pt>
+<images/mocksimulasi3d.png, id=180, 899.36pt x 1188.44pt>
 File: images/mocksimulasi3d.png Graphic file (type png)
 <use images/mocksimulasi3d.png>
 Package pdftex.def Info: images/mocksimulasi3d.png  used on input line 139.
 (pdftex.def)             Requested size: 199.1693pt x 263.18034pt.
- [32 <./images/quiz2.png> <./images/Flow.png (PNG copy)>] [33 <./images/mocksimulasi3d.png>]
+ [33 <./images/quiz2.png> <./images/Flow.png (PNG copy)>] [34 <./images/mocksimulasi3d.png>]
 Underfull \hbox (badness 1024) in paragraph at lines 173--174
 []\T1/ptm/m/it/12 (+20) Continuous De-ploy-ment\T1/ptm/m/n/12 (+20) : se-tiap pe-ruba-han pada ca-bang utama
  []
 
-<images/Arsitektur.png, id=186, 1535.7375pt x 1031.855pt>
+<images/Arsitektur.png, id=190, 1535.7375pt x 1031.855pt>
 File: images/Arsitektur.png Graphic file (type png)
 <use images/Arsitektur.png>
 Package pdftex.def Info: images/Arsitektur.png  used on input line 178.
 (pdftex.def)             Requested size: 358.50229pt x 240.86424pt.
-[34] [35 <./images/Arsitektur.png (PNG copy)>]
-<images2/supabase.png, id=195, 1371.1225pt x 730.73pt>
+[35] [36 <./images/Arsitektur.png (PNG copy)>]
+<images2/supabase.png, id=198, 1371.1225pt x 730.73pt>
 File: images2/supabase.png Graphic file (type png)
 <use images2/supabase.png>
 Package pdftex.def Info: images2/supabase.png  used on input line 199.
 (pdftex.def)             Requested size: 398.3386pt x 212.28537pt.
-<images2/github.png, id=196, 1371.1225pt x 730.73pt>
+<images2/github.png, id=199, 1371.1225pt x 730.73pt>
 File: images2/github.png Graphic file (type png)
 <use images2/github.png>
 Package pdftex.def Info: images2/github.png  used on input line 205.
 (pdftex.def)             Requested size: 398.3386pt x 212.28537pt.
-<images2/landingpage.jpg, id=197, 722.7pt x 1372.12625pt>
+<images2/landingpage.jpg, id=200, 722.7pt x 1372.12625pt>
 File: images2/landingpage.jpg Graphic file (type jpg)
 <use images2/landingpage.jpg>
 Package pdftex.def Info: images2/landingpage.jpg  used on input line 213.
 (pdftex.def)             Requested size: 119.50279pt x 226.87262pt.
-<images2/tujuanpembelajaran.jpg, id=198, 722.7pt x 1374.13374pt>
+<images2/tujuanpembelajaran.jpg, id=201, 722.7pt x 1374.13374pt>
 File: images2/tujuanpembelajaran.jpg Graphic file (type jpg)
 <use images2/tujuanpembelajaran.jpg>
 Package pdftex.def Info: images2/tujuanpembelajaran.jpg  used on input line 214.
 (pdftex.def)             Requested size: 119.50279pt x 227.20454pt.
-<images2/menu.jpg, id=199, 722.7pt x 1484.54625pt>
+<images2/menu.jpg, id=202, 722.7pt x 1484.54625pt>
 File: images2/menu.jpg Graphic file (type jpg)
 <use images2/menu.jpg>
 Package pdftex.def Info: images2/menu.jpg  used on input line 215.
 (pdftex.def)             Requested size: 119.50279pt x 245.46057pt.
- [36 <./images2/supabase.png> <./images2/github.png>]
-<images2/blender.png, id=203, 1371.1225pt x 730.73pt>
+ [37 <./images2/supabase.png> <./images2/github.png>]
+<images2/blender.png, id=206, 1371.1225pt x 730.73pt>
 File: images2/blender.png Graphic file (type png)
 <use images2/blender.png>
 Package pdftex.def Info: images2/blender.png  used on input line 224.
 (pdftex.def)             Requested size: 398.3386pt x 212.28537pt.
-<images2/kubus.png, id=204, 344.28625pt x 334.24875pt>
+<images2/kubus.png, id=207, 344.28625pt x 334.24875pt>
 File: images2/kubus.png Graphic file (type png)
 <use images2/kubus.png>
 Package pdftex.def Info: images2/kubus.png  used on input line 230.
 (pdftex.def)             Requested size: 119.50279pt x 116.01976pt.
-<images2/limas.png, id=205, 331.2375pt x 316.18124pt>
+<images2/limas.png, id=208, 331.2375pt x 316.18124pt>
 File: images2/limas.png Graphic file (type png)
 <use images2/limas.png>
 Package pdftex.def Info: images2/limas.png  used on input line 231.
 (pdftex.def)             Requested size: 119.50279pt x 114.0712pt.
-<images2/jaringbalok.png, id=206, 478.78876pt x 376.40625pt>
+<images2/jaringbalok.png, id=209, 478.78876pt x 376.40625pt>
 File: images2/jaringbalok.png Graphic file (type png)
 <use images2/jaringbalok.png>
 Package pdftex.def Info: images2/jaringbalok.png  used on input line 232.
 (pdftex.def)             Requested size: 119.50279pt x 93.94624pt.
- [37 <./images2/landingpage.jpg> <./images2/tujuanpembelajaran.jpg> <./images2/menu.jpg>] [38 <./images2/blender.png> <./images2/kubus.png> <./images2/limas.png> <./images2/jaringbalok.png>]
-<images2/simulasi3d.jpg, id=213, 722.7pt x 1606.0pt>
+ [38 <./images2/landingpage.jpg> <./images2/tujuanpembelajaran.jpg> <./images2/menu.jpg>] [39 <./images2/blender.png> <./images2/kubus.png> <./images2/limas.png> <./images2/jaringbalok.png>]
+<images2/simulasi3d.jpg, id=216, 722.7pt x 1606.0pt>
 File: images2/simulasi3d.jpg Graphic file (type jpg)
 <use images2/simulasi3d.jpg>
 Package pdftex.def Info: images2/simulasi3d.jpg  used on input line 246.
 (pdftex.def)             Requested size: 139.42093pt x 309.82373pt.
-<images2/mywebar.png, id=214, 1371.1225pt x 730.73pt>
+<images2/mywebar.png, id=217, 1371.1225pt x 730.73pt>
 File: images2/mywebar.png Graphic file (type png)
 <use images2/mywebar.png>
 Package pdftex.def Info: images2/mywebar.png  used on input line 255.
 (pdftex.def)             Requested size: 398.3386pt x 212.28537pt.
-<images/materi4.jpg, id=215, 722.7pt x 1606.0pt>
+<images/materi4.jpg, id=218, 722.7pt x 1606.0pt>
 File: images/materi4.jpg Graphic file (type jpg)
 <use images/materi4.jpg>
 Package pdftex.def Info: images/materi4.jpg  used on input line 261.
 (pdftex.def)             Requested size: 119.50279pt x 265.54219pt.
- [39 <./images2/simulasi3d.jpg>] [40 <./images2/mywebar.png> <./images/materi4.jpg>]
-<images2/isiansingkat.jpg, id=223, 722.7pt x 1606.0pt>
+ [40 <./images2/simulasi3d.jpg>] [41 <./images2/mywebar.png> <./images/materi4.jpg>]
+<images2/isiansingkat.jpg, id=226, 722.7pt x 1606.0pt>
 File: images2/isiansingkat.jpg Graphic file (type jpg)
 <use images2/isiansingkat.jpg>
 Package pdftex.def Info: images2/isiansingkat.jpg  used on input line 275.
 (pdftex.def)             Requested size: 119.50279pt x 265.54219pt.
-<images2/soalakhirbab.jpg, id=224, 722.7pt x 1606.0pt>
+<images2/soalakhirbab.jpg, id=227, 722.7pt x 1606.0pt>
 File: images2/soalakhirbab.jpg Graphic file (type jpg)
 <use images2/soalakhirbab.jpg>
 Package pdftex.def Info: images2/soalakhirbab.jpg  used on input line 276.
 (pdftex.def)             Requested size: 119.50279pt x 265.54219pt.
-<images2/quizvolume.jpg, id=225, 722.7pt x 1606.0pt>
+<images2/quizvolume.jpg, id=228, 722.7pt x 1606.0pt>
 File: images2/quizvolume.jpg Graphic file (type jpg)
 <use images2/quizvolume.jpg>
 Package pdftex.def Info: images2/quizvolume.jpg  used on input line 277.
 (pdftex.def)             Requested size: 119.50279pt x 265.54219pt.
- [41 <./images2/isiansingkat.jpg> <./images2/soalakhirbab.jpg> <./images2/quizvolume.jpg>] [42] [43] [44] [45] [46] [47]
-<revisi/sebelum/sebelumA.jpg, id=248, 722.7pt x 1606.0pt>
+ [42 <./images2/isiansingkat.jpg> <./images2/soalakhirbab.jpg> <./images2/quizvolume.jpg>] [43] [44] [45] [46] [47] [48]
+<revisi/sebelum/sebelumA.jpg, id=251, 722.7pt x 1606.0pt>
 File: revisi/sebelum/sebelumA.jpg Graphic file (type jpg)
 <use revisi/sebelum/sebelumA.jpg>
 Package pdftex.def Info: revisi/sebelum/sebelumA.jpg  used on input line 515.
 (pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
-<revisi/sesudah/sesudahA.jpg, id=249, 722.7pt x 1606.0pt>
+<revisi/sesudah/sesudahA.jpg, id=252, 722.7pt x 1606.0pt>
 File: revisi/sesudah/sesudahA.jpg Graphic file (type jpg)
 <use revisi/sesudah/sesudahA.jpg>
 Package pdftex.def Info: revisi/sesudah/sesudahA.jpg  used on input line 516.
 (pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
-<revisi/sebelum/sebelumB.jpg, id=250, 722.7pt x 1606.0pt>
+<revisi/sebelum/sebelumB.jpg, id=253, 722.7pt x 1606.0pt>
 File: revisi/sebelum/sebelumB.jpg Graphic file (type jpg)
 <use revisi/sebelum/sebelumB.jpg>
 Package pdftex.def Info: revisi/sebelum/sebelumB.jpg  used on input line 525.
 (pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
-<revisi/sesudah/sesudahB.jpg, id=251, 722.7pt x 1606.0pt>
+<revisi/sesudah/sesudahB.jpg, id=254, 722.7pt x 1606.0pt>
 File: revisi/sesudah/sesudahB.jpg Graphic file (type jpg)
 <use revisi/sesudah/sesudahB.jpg>
 Package pdftex.def Info: revisi/sesudah/sesudahB.jpg  used on input line 526.
 (pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
- [48 <./revisi/sebelum/sebelumA.jpg> <./revisi/sesudah/sesudahA.jpg>]
-<revisi/sebelum/sebelumC.jpg, id=255, 722.7pt x 1606.0pt>
+ [49 <./revisi/sebelum/sebelumA.jpg> <./revisi/sesudah/sesudahA.jpg>]
+<revisi/sebelum/sebelumC.jpg, id=258, 722.7pt x 1606.0pt>
 File: revisi/sebelum/sebelumC.jpg Graphic file (type jpg)
 <use revisi/sebelum/sebelumC.jpg>
 Package pdftex.def Info: revisi/sebelum/sebelumC.jpg  used on input line 534.
 (pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
-<revisi/sesudah/sesudahC.jpg, id=256, 722.7pt x 1606.0pt>
+<revisi/sesudah/sesudahC.jpg, id=259, 722.7pt x 1606.0pt>
 File: revisi/sesudah/sesudahC.jpg Graphic file (type jpg)
 <use revisi/sesudah/sesudahC.jpg>
 Package pdftex.def Info: revisi/sesudah/sesudahC.jpg  used on input line 535.
 (pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
-<revisi/sebelum/sebelumD.jpg, id=257, 722.7pt x 1606.0pt>
+<revisi/sebelum/sebelumD.jpg, id=260, 722.7pt x 1606.0pt>
 File: revisi/sebelum/sebelumD.jpg Graphic file (type jpg)
 <use revisi/sebelum/sebelumD.jpg>
 Package pdftex.def Info: revisi/sebelum/sebelumD.jpg  used on input line 543.
 (pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
-<revisi/sesudah/sesudahD.jpg, id=258, 722.7pt x 1606.0pt>
+<revisi/sesudah/sesudahD.jpg, id=261, 722.7pt x 1606.0pt>
 File: revisi/sesudah/sesudahD.jpg Graphic file (type jpg)
 <use revisi/sesudah/sesudahD.jpg>
 Package pdftex.def Info: revisi/sesudah/sesudahD.jpg  used on input line 544.
 (pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
- [49 <./revisi/sebelum/sebelumB.jpg> <./revisi/sesudah/sesudahB.jpg> <./revisi/sebelum/sebelumC.jpg> <./revisi/sesudah/sesudahC.jpg>]
-<revisi/sebelum/sebelumE.jpg, id=262, 722.7pt x 1606.0pt>
+ [50 <./revisi/sebelum/sebelumB.jpg> <./revisi/sesudah/sesudahB.jpg> <./revisi/sebelum/sebelumC.jpg> <./revisi/sesudah/sesudahC.jpg>]
+<revisi/sebelum/sebelumE.jpg, id=265, 722.7pt x 1606.0pt>
 File: revisi/sebelum/sebelumE.jpg Graphic file (type jpg)
 <use revisi/sebelum/sebelumE.jpg>
 Package pdftex.def Info: revisi/sebelum/sebelumE.jpg  used on input line 552.
 (pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
-<revisi/sesudah/sesudahE.jpg, id=263, 722.7pt x 1606.0pt>
+<revisi/sesudah/sesudahE.jpg, id=266, 722.7pt x 1606.0pt>
 File: revisi/sesudah/sesudahE.jpg Graphic file (type jpg)
 <use revisi/sesudah/sesudahE.jpg>
 Package pdftex.def Info: revisi/sesudah/sesudahE.jpg  used on input line 553.
 (pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
-<revisi/sebelum/sebelumF.jpg, id=264, 722.7pt x 1606.0pt>
+<revisi/sebelum/sebelumF.jpg, id=267, 722.7pt x 1606.0pt>
 File: revisi/sebelum/sebelumF.jpg Graphic file (type jpg)
 <use revisi/sebelum/sebelumF.jpg>
 Package pdftex.def Info: revisi/sebelum/sebelumF.jpg  used on input line 561.
 (pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
-<revisi/sesudah/sesudahF.jpg, id=265, 722.7pt x 1606.0pt>
+<revisi/sesudah/sesudahF.jpg, id=268, 722.7pt x 1606.0pt>
 File: revisi/sesudah/sesudahF.jpg Graphic file (type jpg)
 <use revisi/sesudah/sesudahF.jpg>
 Package pdftex.def Info: revisi/sesudah/sesudahF.jpg  used on input line 562.
 (pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
- [50 <./revisi/sebelum/sebelumD.jpg> <./revisi/sesudah/sesudahD.jpg> <./revisi/sebelum/sebelumE.jpg> <./revisi/sesudah/sesudahE.jpg>]
-<revisi/sesudah/sesudahG1.jpg, id=269, 722.7pt x 1606.0pt>
+ [51 <./revisi/sebelum/sebelumD.jpg> <./revisi/sesudah/sesudahD.jpg> <./revisi/sebelum/sebelumE.jpg> <./revisi/sesudah/sesudahE.jpg>]
+<revisi/sesudah/sesudahG1.jpg, id=272, 722.7pt x 1606.0pt>
 File: revisi/sesudah/sesudahG1.jpg Graphic file (type jpg)
 <use revisi/sesudah/sesudahG1.jpg>
 Package pdftex.def Info: revisi/sesudah/sesudahG1.jpg  used on input line 569.
 (pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
-<revisi/sesudah/sesudahG2.jpg, id=270, 722.7pt x 1606.0pt>
+<revisi/sesudah/sesudahG2.jpg, id=273, 722.7pt x 1606.0pt>
 File: revisi/sesudah/sesudahG2.jpg Graphic file (type jpg)
 <use revisi/sesudah/sesudahG2.jpg>
 Package pdftex.def Info: revisi/sesudah/sesudahG2.jpg  used on input line 570.
 (pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
-<revisi/sesudah/sesudahG3.jpg, id=271, 722.7pt x 1606.0pt>
+<revisi/sesudah/sesudahG3.jpg, id=274, 722.7pt x 1606.0pt>
 File: revisi/sesudah/sesudahG3.jpg Graphic file (type jpg)
 <use revisi/sesudah/sesudahG3.jpg>
 Package pdftex.def Info: revisi/sesudah/sesudahG3.jpg  used on input line 571.
 (pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
-<revisi/Revisimedia2.jpg, id=272, 722.7pt x 1606.0pt>
+<revisi/Revisimedia2.jpg, id=275, 722.7pt x 1606.0pt>
 File: revisi/Revisimedia2.jpg Graphic file (type jpg)
 <use revisi/Revisimedia2.jpg>
 Package pdftex.def Info: revisi/Revisimedia2.jpg  used on input line 582.
 (pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
-<revisi/Revisimedia.jpg, id=273, 722.7pt x 1606.0pt>
+<revisi/Revisimedia.jpg, id=276, 722.7pt x 1606.0pt>
 File: revisi/Revisimedia.jpg Graphic file (type jpg)
 <use revisi/Revisimedia.jpg>
 Package pdftex.def Info: revisi/Revisimedia.jpg  used on input line 583.
 (pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
- [51 <./revisi/sebelum/sebelumF.jpg> <./revisi/sesudah/sesudahF.jpg> <./revisi/sesudah/sesudahG1.jpg> <./revisi/sesudah/sesudahG2.jpg> <./revisi/sesudah/sesudahG3.jpg>]
-<revisi/Landingpage1.jpg, id=277, 722.7pt x 1606.0pt>
+ [52 <./revisi/sebelum/sebelumF.jpg> <./revisi/sesudah/sesudahF.jpg> <./revisi/sesudah/sesudahG1.jpg> <./revisi/sesudah/sesudahG2.jpg> <./revisi/sesudah/sesudahG3.jpg>]
+<revisi/Landingpage1.jpg, id=281, 722.7pt x 1606.0pt>
 File: revisi/Landingpage1.jpg Graphic file (type jpg)
 <use revisi/Landingpage1.jpg>
 Package pdftex.def Info: revisi/Landingpage1.jpg  used on input line 603.
 (pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
-<revisi/Landingpage2.jpg, id=278, 722.7pt x 1606.0pt>
+<revisi/Landingpage2.jpg, id=282, 722.7pt x 1606.0pt>
 File: revisi/Landingpage2.jpg Graphic file (type jpg)
 <use revisi/Landingpage2.jpg>
 Package pdftex.def Info: revisi/Landingpage2.jpg  used on input line 604.
@@ -955,7 +955,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 598--607
 | \T1/ptm/m/n/12 (+20) Ha-la-man per-tama saat men-gak-ses https://medpemar.vercel.app.
  []
 
-<revisi/Landingpage3.png, id=279, 1371.1225pt x 730.73pt>
+<revisi/Landingpage3.png, id=283, 1371.1225pt x 730.73pt>
 File: revisi/Landingpage3.png Graphic file (type png)
 <use revisi/Landingpage3.png>
 Package pdftex.def Info: revisi/Landingpage3.png  used on input line 611.
@@ -965,7 +965,7 @@ Overfull \hbox (12.00002pt too wide) in paragraph at lines 610--613
  [][] 
  []
 
-[52 <./revisi/Revisimedia2.jpg> <./revisi/Revisimedia.jpg>]
+[53 <./revisi/Revisimedia2.jpg> <./revisi/Revisimedia.jpg>]
 File: revisi/sesudah/sesudahG1.jpg Graphic file (type jpg)
 <use revisi/sesudah/sesudahG1.jpg>
 Package pdftex.def Info: revisi/sesudah/sesudahG1.jpg  used on input line 620.
@@ -978,34 +978,34 @@ File: revisi/sesudah/sesudahG3.jpg Graphic file (type jpg)
 <use revisi/sesudah/sesudahG3.jpg>
 Package pdftex.def Info: revisi/sesudah/sesudahG3.jpg  used on input line 622.
 (pdftex.def)             Requested size: 119.50279pt x 265.54219pt.
- [53 <./revisi/Landingpage1.jpg> <./revisi/Landingpage2.jpg> <./revisi/Landingpage3.png>]
-<revisi/Menu.jpg, id=287, 722.7pt x 1606.0pt>
+ [54 <./revisi/Landingpage1.jpg> <./revisi/Landingpage2.jpg> <./revisi/Landingpage3.png>]
+<revisi/Menu.jpg, id=290, 722.7pt x 1606.0pt>
 File: revisi/Menu.jpg Graphic file (type jpg)
 <use revisi/Menu.jpg>
 Package pdftex.def Info: revisi/Menu.jpg  used on input line 631.
 (pdftex.def)             Requested size: 119.50279pt x 265.54219pt.
-<revisi/Menuvolume.jpg, id=288, 722.7pt x 1606.0pt>
+<revisi/Menuvolume.jpg, id=291, 722.7pt x 1606.0pt>
 File: revisi/Menuvolume.jpg Graphic file (type jpg)
 <use revisi/Menuvolume.jpg>
 Package pdftex.def Info: revisi/Menuvolume.jpg  used on input line 632.
 (pdftex.def)             Requested size: 119.50279pt x 265.54219pt.
-<revisi/Menuluaspermukaan.jpg, id=289, 722.7pt x 1606.0pt>
+<revisi/Menuluaspermukaan.jpg, id=292, 722.7pt x 1606.0pt>
 File: revisi/Menuluaspermukaan.jpg Graphic file (type jpg)
 <use revisi/Menuluaspermukaan.jpg>
 Package pdftex.def Info: revisi/Menuluaspermukaan.jpg  used on input line 633.
 (pdftex.def)             Requested size: 119.50279pt x 265.54219pt.
- [54]
-<images/materi1.jpg, id=293, 722.7pt x 1606.0pt>
+ [55]
+<images/materi1.jpg, id=296, 722.7pt x 1606.0pt>
 File: images/materi1.jpg Graphic file (type jpg)
 <use images/materi1.jpg>
 Package pdftex.def Info: images/materi1.jpg  used on input line 642.
 (pdftex.def)             Requested size: 79.66649pt x 177.02812pt.
-<images/materi2.jpg, id=294, 722.7pt x 1606.0pt>
+<images/materi2.jpg, id=297, 722.7pt x 1606.0pt>
 File: images/materi2.jpg Graphic file (type jpg)
 <use images/materi2.jpg>
 Package pdftex.def Info: images/materi2.jpg  used on input line 643.
 (pdftex.def)             Requested size: 79.66649pt x 177.02812pt.
-<images/materi3.jpg, id=295, 722.7pt x 1606.0pt>
+<images/materi3.jpg, id=298, 722.7pt x 1606.0pt>
 File: images/materi3.jpg Graphic file (type jpg)
 <use images/materi3.jpg>
 Package pdftex.def Info: images/materi3.jpg  used on input line 644.
@@ -1014,34 +1014,34 @@ File: images/materi4.jpg Graphic file (type jpg)
 <use images/materi4.jpg>
 Package pdftex.def Info: images/materi4.jpg  used on input line 645.
 (pdftex.def)             Requested size: 79.66649pt x 177.02812pt.
-<images/kuis1.jpg, id=296, 722.7pt x 1606.0pt>
+<images/kuis1.jpg, id=299, 722.7pt x 1606.0pt>
 File: images/kuis1.jpg Graphic file (type jpg)
 <use images/kuis1.jpg>
 Package pdftex.def Info: images/kuis1.jpg  used on input line 654.
 (pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
-<images/kuis2.jpg, id=297, 722.7pt x 1606.0pt>
+<images/kuis2.jpg, id=300, 722.7pt x 1606.0pt>
 File: images/kuis2.jpg Graphic file (type jpg)
 <use images/kuis2.jpg>
 Package pdftex.def Info: images/kuis2.jpg  used on input line 655.
 (pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
-<images/kuis3.jpg, id=298, 722.7pt x 1606.0pt>
+<images/kuis3.jpg, id=301, 722.7pt x 1606.0pt>
 File: images/kuis3.jpg Graphic file (type jpg)
 <use images/kuis3.jpg>
 Package pdftex.def Info: images/kuis3.jpg  used on input line 656.
 (pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
- [55 <./revisi/Menu.jpg> <./revisi/Menuvolume.jpg> <./revisi/Menuluaspermukaan.jpg> <./images/materi1.jpg> <./images/materi2.jpg> <./images/materi3.jpg>]) (./bab/bab5_2.tex [56 <./images/kuis1.jpg> <./images/kuis2.jpg> <./images/kuis3.jpg>] [57] [58]) [59] (./skripsi.bbl
-Overfull \hbox (8.56596pt too wide) in paragraph at lines 23--25
+ [56 <./revisi/Menu.jpg> <./revisi/Menuvolume.jpg> <./revisi/Menuluaspermukaan.jpg> <./images/materi1.jpg> <./images/materi2.jpg> <./images/materi3.jpg>]) (./bab/bab5_2.tex [57 <./images/kuis1.jpg> <./images/kuis2.jpg> <./images/kuis3.jpg>] [58] [59]) [60] (./skripsi.bbl
+Overfull \hbox (8.56596pt too wide) in paragraph at lines 27--29
 \T1/ptm/b/n/12 (-20) URL: \T1/ptm/m/it/12 (-20) https://www.wiley.com/en-us/E+Learning+and+the+Science+of+Instruction 
  []
 
+[61
 
-Underfull \hbox (badness 10000) in paragraph at lines 27--29
+]
+Underfull \hbox (badness 10000) in paragraph at lines 31--33
 \T1/ptm/b/n/12 (+20) URL: \T1/ptm/m/it/12 (+20) https://www.packtpub.com/product/learning-three-js-third-
  []
 
-[60
-
-] [61]) [62] (./bab/lampiran_skripsi.tex
+[62] [63] [64]) [65] (./bab/lampiran_skripsi.tex
 Underfull \hbox (badness 3148) in paragraph at lines 51--51
 []|\T1/ptm/m/n/12 (+20) Saya menyukai pem-be-la-jaran den-gan
  []
@@ -1056,9 +1056,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--58
 
  []
 
-[63
+[66
 
-] [64]
+] [67]
 Underfull \hbox (badness 1142) in paragraph at lines 82--85
 \T1/ptm/m/n/12 (+20) peneli-tian yang berjudul \T1/ptm/b/n/12 (+20) PENGEM-BAN-GAN ME-DIA PEM-BE-LA-JARAN
  []
@@ -1068,25 +1068,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 98--99
 
  []
 
-[65] [66] [67]) [68] (./skripsi.aux)
+[68] [69] [70]) [71] (./skripsi.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 21518 strings out of 474222
- 418916 string characters out of 5748733
+ 21539 strings out of 474222
+ 419306 string characters out of 5748733
  1940975 words of memory out of 5000000
- 42895 multiletter control sequences out of 15000+600000
+ 42916 multiletter control sequences out of 15000+600000
  650903 words of font info for 401 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,17n,93p,1855b,753s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1200.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on skripsi.pdf (83 pages, 13884716 bytes).
+Output written on skripsi.pdf (86 pages, 13889369 bytes).
 PDF statistics:
- 396 PDF objects out of 1000 (max. 8388607)
- 224 compressed objects within 3 object streams
+ 406 PDF objects out of 1000 (max. 8388607)
+ 231 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
  98080 words of extra memory for PDF output out of 106986 (max. 10000000)
 
