@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex skripsi"] 1780191775.38352 "skripsi.aux" "skripsi.bbl" "skripsi" 1780193051.65401 0
-  "./daftar-pustaka.bib" 1780184409.79164 21048 27d982d794fb8ff5a16fd36176eccf49 ""
+["bibtex skripsi"] 1780215581.46752 "skripsi.aux" "skripsi.bbl" "skripsi" 1780215581.78439 0
+  "./daftar-pustaka.bib" 1780215581.07426 21048 27d982d794fb8ff5a16fd36176eccf49 ""
   "/usr/share/texlive/texmf-dist/bibtex/bst/harvard/agsm.bst" 1136766823 25549 e3d0f1ab4ae55e777f7352db30e2c6f7 ""
-  "skripsi.aux" 1780193050.49797 13349 6e7eaf014e19586d63e9ff5ff55da6e0 "pdflatex"
+  "skripsi.aux" 1780215529.25761 13359 24e5c855cd531a5e2d44c19c363fce52 "pdflatex"
   (generated)
   "skripsi.bbl"
   "skripsi.blg"
   (rewritten before read)
-["pdflatex"] 1780193045.14721 "/home/avan/Documents/skripsi/skripsi.tex" "skripsi.pdf" "skripsi" 1780193051.65449 0
+["pdflatex"] 1780215523.24061 "/home/avan/Documents/skripsi/skripsi.tex" "skripsi.pdf" "skripsi" 1780215581.7846 0
   "/etc/texmf/web2c/texmf.cnf" 1773961202.99024 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/avan/Documents/skripsi/skripsi.tex" 1780182069.94679 2957 c8f10ab24d93c0f908cd59af89a71e5a ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -187,7 +187,7 @@
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1773961428 8213560 800ea01fdaf387dbd9e9c7169172bf1b ""
   "bab/abstrak.tex" 1780185361.09836 3915 87aa0b0de363b69a52595319d86d9daf ""
   "bab/bab1_baru.tex" 1780185577.10719 14529 b3b6d92edc9d468a3a729bc1877bb0fe ""
-  "bab/bab2_baru.tex" 1780186665.28012 12673 201728e03e0042a0fb99ae8204dbb31f ""
+  "bab/bab2_baru.tex" 1780215407.87366 12679 c2edac5f170c278c1dd676c781610ca0 ""
   "bab/bab3_rewrite_total.tex" 1780185887.07083 20928 26fd916c2bd0e15a35bcb42e5cfbfac1 ""
   "bab/bab4_rapi.tex" 1780193044.53883 38890 4328b38707fa1f5681222fa8b64eea79 ""
   "bab/bab5_2.tex" 1780184633.75384 5391 e6f5465a97f140b7a378fb44b5789fb5 ""
@@ -254,12 +254,12 @@
   "revisi/sesudah/sesudahG1.jpg" 1778028012 308904 107990cfbed6dd8187ff54c6aa199983 ""
   "revisi/sesudah/sesudahG2.jpg" 1778028010 303273 3fac5870640c2a4b56b327eef123386e ""
   "revisi/sesudah/sesudahG3.jpg" 1778028010 262776 0bd23c50955a7a1365b553320ad3894d ""
-  "skripsi.aux" 1780193050.49797 13349 6e7eaf014e19586d63e9ff5ff55da6e0 "pdflatex"
-  "skripsi.bbl" 1780191775.67387 9747 eedeb59c5867367c9290812c1e485dae "bibtex skripsi"
-  "skripsi.lof" 1780193050.50096 2349 708e39c53f27788a2c64bfcda19cbf9d "pdflatex"
-  "skripsi.lot" 1780193050.50096 1454 d7a88887e8358581cde40e297c12f062 "pdflatex"
+  "skripsi.aux" 1780215529.25761 13359 24e5c855cd531a5e2d44c19c363fce52 "pdflatex"
+  "skripsi.bbl" 1780215581.71259 9747 eedeb59c5867367c9290812c1e485dae "bibtex skripsi"
+  "skripsi.lof" 1780215529.26161 2349 708e39c53f27788a2c64bfcda19cbf9d "pdflatex"
+  "skripsi.lot" 1780215529.26161 1454 d7a88887e8358581cde40e297c12f062 "pdflatex"
   "skripsi.tex" 1780182069.94679 2957 c8f10ab24d93c0f908cd59af89a71e5a ""
-  "skripsi.toc" 1780193050.50096 2079 9308571cf9cdcf7a32a3aa339c97341e "pdflatex"
+  "skripsi.toc" 1780215529.26161 2077 69d21d3bea50970c3cb4c22d9b046bca "pdflatex"
   (generated)
   "skripsi.aux"
   "skripsi.lof"
