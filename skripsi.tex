@@ -9,6 +9,7 @@
 \usepackage{multirow}
 \usepackage{array}
 \usepackage{booktabs}
+\usepackage{longtable}
 \usepackage{caption}
 \usepackage[final]{microtype}
 \usepackage{float}
@@ -87,10 +88,10 @@
 \addcontentsline{toc}{chapter}{DAFTAR ISI}
 \tableofcontents
 \newpage
-% \addcontentsline{toc}{chapter}{DAFTAR GAMBAR}
+\addcontentsline{toc}{chapter}{DAFTAR GAMBAR}
 \listoffigures
 \newpage
-% \addcontentsline{toc}{chapter}{DAFTAR TABEL}
+\addcontentsline{toc}{chapter}{DAFTAR TABEL}
 \listoftables
 \newpage
 \input{bab/abstrak.tex}
@@ -100,11 +101,11 @@
 \fancyhead[R]{\thepage}
 \pagenumbering{arabic}
 \setcounter{page}{1}
-\input{bab/bab1_baru.tex}
-\input{bab/bab2_baru.tex}
-\input{bab/bab3_rewrite_total.tex}
-\input{bab/bab4_rapi.tex}
-\input{bab/bab5_2.tex}
+\input{bab/bab1.tex}
+\input{bab/bab2.tex}
+\input{bab/bab3.tex}
+\input{bab/bab4.tex}
+\input{bab/bab5.tex}
 
 
 

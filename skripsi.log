@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.3.20)  31 MAY 2026 22:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2026.3.20)  2 JUN 2026 01:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -160,117 +160,138 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@thisruleclass=\count270
 \@lastruleclass=\count271
 \@thisrulewidth=\dimen169
+) (/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2023-11-01 v4.19 Multi-page Table package (DPC)
+\LTleft=\skip55
+\LTright=\skip56
+\LTpre=\skip57
+\LTpost=\skip58
+\LTchunksize=\count272
+\LTcapwidth=\dimen170
+\LT@head=\box54
+\LT@firsthead=\box55
+\LT@foot=\box56
+\LT@lastfoot=\box57
+\LT@gbox=\box58
+\LT@cols=\count273
+\LT@rows=\count274
+\c@LT@tables=\count275
+\c@LT@chunks=\count276
+\LT@p@ftn=\toks21
 ) (/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
  (/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
-\caption@tempdima=\dimen170
-\captionmargin=\dimen171
-\caption@leftmargin=\dimen172
-\caption@rightmargin=\dimen173
-\caption@width=\dimen174
-\caption@indent=\dimen175
-\caption@parindent=\dimen176
-\caption@hangindent=\dimen177
+\caption@tempdima=\dimen171
+\captionmargin=\dimen172
+\caption@leftmargin=\dimen173
+\caption@rightmargin=\dimen174
+\caption@width=\dimen175
+\caption@indent=\dimen176
+\caption@parindent=\dimen177
+\caption@hangindent=\dimen178
 Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count272
-\c@continuedfloat=\count273
-) (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
+\c@caption@flags=\count277
+\c@continuedfloat=\count278
+Package caption Info: longtable package is loaded.
+ (/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+)) (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2023/03/13 v3.1a Micro-typographical refinements (RS)
  (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count274
+\etb@tempcnta=\count279
 )
-\MT@toks=\toks21
-\MT@tempbox=\box54
-\MT@count=\count275
+\MT@toks=\toks22
+\MT@tempbox=\box59
+\MT@count=\count280
 LaTeX Info: Redefining \noprotrusionifhmode on input line 1059.
 LaTeX Info: Redefining \leftprotrusion on input line 1060.
-\MT@prot@toks=\toks22
+\MT@prot@toks=\toks23
 LaTeX Info: Redefining \rightprotrusion on input line 1078.
 LaTeX Info: Redefining \textls on input line 1368.
-\MT@outer@kern=\dimen178
+\MT@outer@kern=\dimen179
 LaTeX Info: Redefining \textmicrotypecontext on input line 1988.
-\MT@listname@count=\count276
+\MT@listname@count=\count281
  (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype-pdftex.def
 File: microtype-pdftex.def 2023/03/13 v3.1a Definitions specific to pdftex (RS)
 LaTeX Info: Redefining \lsstyle on input line 902.
 LaTeX Info: Redefining \lslig on input line 902.
-\MT@outer@space=\skip55
+\MT@outer@space=\skip59
 )
 Package microtype Info: Loading configuration file microtype.cfg.
  (/usr/share/texlive/texmf-dist/tex/latex/microtype/microtype.cfg
 File: microtype.cfg 2023/03/13 v3.1a microtype main configuration file (RS)
 )) (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count277
-\float@exts=\toks23
-\float@box=\box55
-\@float@everytoks=\toks24
-\@floatcapt=\box56
+\c@float@type=\count282
+\float@exts=\toks24
+\float@box=\box60
+\@float@everytoks=\toks25
+\@floatcapt=\box61
 ) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2023/05/13 v2.17o AMS math features
-\@mathmargin=\skip56
+\@mathmargin=\skip60
 
 For additional information on amsmath, use the `?' option.
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2021/08/26 v2.01 AMS text
  (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks25
-\ex@=\dimen179
+\@emptytoks=\toks26
+\ex@=\dimen180
 )) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen180
+\pmbraise@=\dimen181
 ) (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
-\inf@bad=\count278
+\inf@bad=\count283
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count279
-\leftroot@=\count280
+\uproot@=\count284
+\leftroot@=\count285
 LaTeX Info: Redefining \overline on input line 399.
 LaTeX Info: Redefining \colon on input line 410.
-\classnum@=\count281
-\DOTSCASE@=\count282
+\classnum@=\count286
+\DOTSCASE@=\count287
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
-\Mathstrutbox@=\box57
-\strutbox@=\box58
+\Mathstrutbox@=\box62
+\strutbox@=\box63
 LaTeX Info: Redefining \big on input line 722.
 LaTeX Info: Redefining \Big on input line 723.
 LaTeX Info: Redefining \bigg on input line 724.
 LaTeX Info: Redefining \Bigg on input line 725.
-\big@size=\dimen181
+\big@size=\dimen182
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count283
+\macc@depth=\count288
 LaTeX Info: Redefining \bmod on input line 905.
 LaTeX Info: Redefining \pmod on input line 910.
 LaTeX Info: Redefining \smash on input line 940.
 LaTeX Info: Redefining \relbar on input line 970.
 LaTeX Info: Redefining \Relbar on input line 971.
-\c@MaxMatrixCols=\count284
+\c@MaxMatrixCols=\count289
 \dotsspace@=\muskip16
-\c@parentequation=\count285
-\dspbrk@lvl=\count286
-\tag@help=\toks26
-\row@=\count287
-\column@=\count288
-\maxfields@=\count289
-\andhelp@=\toks27
-\eqnshift@=\dimen182
-\alignsep@=\dimen183
-\tagshift@=\dimen184
-\tagwidth@=\dimen185
-\totwidth@=\dimen186
-\lineht@=\dimen187
-\@envbody=\toks28
-\multlinegap=\skip57
-\multlinetaggap=\skip58
-\mathdisplay@stack=\toks29
+\c@parentequation=\count290
+\dspbrk@lvl=\count291
+\tag@help=\toks27
+\row@=\count292
+\column@=\count293
+\maxfields@=\count294
+\andhelp@=\toks28
+\eqnshift@=\dimen183
+\alignsep@=\dimen184
+\tagshift@=\dimen185
+\tagwidth@=\dimen186
+\totwidth@=\dimen187
+\lineht@=\dimen188
+\@envbody=\toks29
+\multlinegap=\skip61
+\multlinetaggap=\skip62
+\mathdisplay@stack=\toks30
 LaTeX Info: Redefining \[ on input line 2953.
 LaTeX Info: Redefining \] on input line 2954.
 ) (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
@@ -283,12 +304,12 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )) (/usr/share/texlive/texmf-dist/tex/latex/changepage/changepage.sty
 Package: changepage 2009/10/20 v1.0c check page and change page layout
-\c@cp@cntr=\count290
-\cp@tempcnt=\count291
+\c@cp@cntr=\count295
+\cp@tempcnt=\count296
 ) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
-\inpenc@prehook=\toks30
-\inpenc@posthook=\toks31
+\inpenc@prehook=\toks31
+\inpenc@posthook=\toks32
 ) (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 LaTeX Font Info:    Trying to load font information for T1+ptm on input line 112.
@@ -296,80 +317,80 @@ LaTeX Font Info:    Trying to load font information for T1+ptm on input line 112
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )) (/usr/share/texlive/texmf-dist/tex/latex/natbib/natbib.sty
 Package: natbib 2010/09/13 8.31b (PWD, AO)
-\bibhang=\skip59
-\bibsep=\skip60
+\bibhang=\skip63
+\bibsep=\skip64
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count292
+\c@NAT@ctr=\count297
 ) (/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
 Package: tabularx 2023/07/08 v2.11c `tabularx' package (DPC)
-\TX@col@width=\dimen188
-\TX@old@table=\dimen189
-\TX@old@col=\dimen190
-\TX@target=\dimen191
-\TX@delta=\dimen192
-\TX@cols=\count293
-\TX@ftn=\toks32
+\TX@col@width=\dimen189
+\TX@old@table=\dimen190
+\TX@old@col=\dimen191
+\TX@target=\dimen192
+\TX@delta=\dimen193
+\TX@cols=\count298
+\TX@ftn=\toks33
 ) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
-\f@nch@headwidth=\skip61
-\f@nch@O@elh=\skip62
-\f@nch@O@erh=\skip63
-\f@nch@O@olh=\skip64
-\f@nch@O@orh=\skip65
-\f@nch@O@elf=\skip66
-\f@nch@O@erf=\skip67
-\f@nch@O@olf=\skip68
-\f@nch@O@orf=\skip69
+\f@nch@headwidth=\skip65
+\f@nch@O@elh=\skip66
+\f@nch@O@erh=\skip67
+\f@nch@O@olh=\skip68
+\f@nch@O@orh=\skip69
+\f@nch@O@elf=\skip70
+\f@nch@O@erf=\skip71
+\f@nch@O@olf=\skip72
+\f@nch@O@orf=\skip73
 ) (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty (/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2024-01-22 L3 programming layer (loader) 
  (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count294
-\l__pdf_internal_box=\box59
+\l__color_backend_stack_int=\count299
+\l__pdf_internal_box=\box64
 ))
 Package: l3keys2e 2023-10-10 LaTeX2e option processing using LaTeX3 keys
 )
 Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
-\g__lipsum_par_int=\count295
-\l__lipsum_a_int=\count296
-\l__lipsum_b_int=\count297
+\g__lipsum_par_int=\count300
+\l__lipsum_a_int=\count301
+\l__lipsum_b_int=\count302
  (/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)) (/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
 Package: pdfpages 2024/01/21 v0.5y Insert pages of external PDF documents (AM)
  (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 ) (/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count298
-\calc@Bcount=\count299
-\calc@Adimen=\dimen193
-\calc@Bdimen=\dimen194
-\calc@Askip=\skip70
-\calc@Bskip=\skip71
+\calc@Acount=\count303
+\calc@Bcount=\count304
+\calc@Adimen=\dimen194
+\calc@Bdimen=\dimen195
+\calc@Askip=\skip74
+\calc@Bskip=\skip75
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count300
-\calc@Cskip=\skip72
+\calc@Ccount=\count305
+\calc@Cskip=\skip76
 )
-\AM@pagewidth=\dimen195
-\AM@pageheight=\dimen196
-\AM@fboxrule=\dimen197
+\AM@pagewidth=\dimen196
+\AM@pageheight=\dimen197
+\AM@fboxrule=\dimen198
  (/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def
 File: pppdftex.def 2024/01/21 v0.5y Pdfpages driver for pdfTeX (AM)
 )
-\pdfpages@includegraphics@status=\count301
-\AM@pagebox=\box60
-\AM@global@opts=\toks33
-\AM@pagecnt=\count302
-\AM@toc@title=\toks34
-\AM@lof@heading=\toks35
-\c@AM@survey=\count303
-\AM@templatesizebox=\box61
+\pdfpages@includegraphics@status=\count306
+\AM@pagebox=\box65
+\AM@global@opts=\toks34
+\AM@pagecnt=\count307
+\AM@toc@title=\toks35
+\AM@lof@heading=\toks36
+\c@AM@survey=\count308
+\AM@templatesizebox=\box66
 ) (/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
-\pgfutil@everybye=\toks36
-\pgfutil@tempdima=\dimen198
-\pgfutil@tempdimb=\dimen199
+\pgfutil@everybye=\toks37
+\pgfutil@tempdima=\dimen199
+\pgfutil@tempdimb=\dimen256
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
-\pgfutil@abb=\box62
+\pgfutil@abb=\box67
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (/usr/share/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex)
 Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
 ))
@@ -377,31 +398,31 @@ Package: pgf 2023-01-15 v3.1.10 (3.1.10)
  (/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
 Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
  (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks37
-\pgfkeys@temptoks=\toks38
+\pgfkeys@pathtoks=\toks38
+\pgfkeys@temptoks=\toks39
  (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.code.tex
-\pgfkeys@tmptoks=\toks39
+\pgfkeys@tmptoks=\toks40
 ))
-\pgf@x=\dimen256
-\pgf@y=\dimen257
-\pgf@xa=\dimen258
-\pgf@ya=\dimen259
-\pgf@xb=\dimen260
-\pgf@yb=\dimen261
-\pgf@xc=\dimen262
-\pgf@yc=\dimen263
-\pgf@xd=\dimen264
-\pgf@yd=\dimen265
+\pgf@x=\dimen257
+\pgf@y=\dimen258
+\pgf@xa=\dimen259
+\pgf@ya=\dimen260
+\pgf@xb=\dimen261
+\pgf@yb=\dimen262
+\pgf@xc=\dimen263
+\pgf@yc=\dimen264
+\pgf@xd=\dimen265
+\pgf@yd=\dimen266
 \w@pgf@writea=\write3
 \r@pgf@reada=\read2
-\c@pgf@counta=\count304
-\c@pgf@countb=\count305
-\c@pgf@countc=\count306
-\c@pgf@countd=\count307
-\t@pgf@toka=\toks40
-\t@pgf@tokb=\toks41
-\t@pgf@tokc=\toks42
-\pgf@sys@id@count=\count308
+\c@pgf@counta=\count309
+\c@pgf@countb=\count310
+\c@pgf@countc=\count311
+\c@pgf@countd=\count312
+\t@pgf@toka=\toks41
+\t@pgf@tokb=\toks42
+\t@pgf@tokc=\toks43
+\pgf@sys@id@count=\count313
  (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
 )
@@ -412,59 +433,59 @@ File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
 File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
 ))) (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfsyssoftpath@smallbuffer@items=\count309
-\pgfsyssoftpath@bigbuffer@items=\count310
+\pgfsyssoftpath@smallbuffer@items=\count314
+\pgfsyssoftpath@bigbuffer@items=\count315
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
 Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
  (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen266
-\pgfmath@count=\count311
-\pgfmath@box=\box63
-\pgfmath@toks=\toks43
-\pgfmath@stack@operand=\toks44
-\pgfmath@stack@operation=\toks45
+\pgfmath@dimen=\dimen267
+\pgfmath@count=\count316
+\pgfmath@box=\box68
+\pgfmath@toks=\toks44
+\pgfmath@stack@operand=\toks45
+\pgfmath@stack@operation=\toks46
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count312
+\c@pgfmathroundto@lastzeros=\count317
 )) (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@picminx=\dimen267
-\pgf@picmaxx=\dimen268
-\pgf@picminy=\dimen269
-\pgf@picmaxy=\dimen270
-\pgf@pathminx=\dimen271
-\pgf@pathmaxx=\dimen272
-\pgf@pathminy=\dimen273
-\pgf@pathmaxy=\dimen274
-\pgf@xx=\dimen275
-\pgf@xy=\dimen276
-\pgf@yx=\dimen277
-\pgf@yy=\dimen278
-\pgf@zx=\dimen279
-\pgf@zy=\dimen280
+\pgf@picminx=\dimen268
+\pgf@picmaxx=\dimen269
+\pgf@picminy=\dimen270
+\pgf@picmaxy=\dimen271
+\pgf@pathminx=\dimen272
+\pgf@pathmaxx=\dimen273
+\pgf@pathminy=\dimen274
+\pgf@pathmaxy=\dimen275
+\pgf@xx=\dimen276
+\pgf@xy=\dimen277
+\pgf@yx=\dimen278
+\pgf@yy=\dimen279
+\pgf@zx=\dimen280
+\pgf@zy=\dimen281
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
 File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@path@lastx=\dimen281
-\pgf@path@lasty=\dimen282
+\pgf@path@lastx=\dimen282
+\pgf@path@lasty=\dimen283
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
 File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@shorten@end@additional=\dimen283
-\pgf@shorten@start@additional=\dimen284
+\pgf@shorten@end@additional=\dimen284
+\pgf@shorten@start@additional=\dimen285
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfpic=\box64
-\pgf@hbox=\box65
-\pgf@layerbox@main=\box66
-\pgf@picture@serial@count=\count313
+\pgfpic=\box69
+\pgf@hbox=\box70
+\pgf@layerbox@main=\box71
+\pgf@picture@serial@count=\count318
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgflinewidth=\dimen285
+\pgflinewidth=\dimen286
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
 File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@pt@x=\dimen286
-\pgf@pt@y=\dimen287
-\pgf@pt@temp=\dimen288
+\pgf@pt@x=\dimen287
+\pgf@pt@y=\dimen288
+\pgf@pt@temp=\dimen289
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
@@ -473,17 +494,17 @@ File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
 File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
 File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfarrowsep=\dimen289
+\pgfarrowsep=\dimen290
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@max=\dimen290
-\pgf@sys@shading@range@num=\count314
-\pgf@shadingcount=\count315
+\pgf@max=\dimen291
+\pgf@sys@shading@range@num=\count319
+\pgf@shadingcount=\count320
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
 File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfexternal@startupbox=\box67
+\pgfexternal@startupbox=\box72
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
 File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
@@ -494,51 +515,51 @@ File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
 File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfnodeparttextbox=\box68
+\pgfnodeparttextbox=\box73
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
 File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
 Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
-\pgf@nodesepstart=\dimen291
-\pgf@nodesepend=\dimen292
+\pgf@nodesepstart=\dimen292
+\pgf@nodesepend=\dimen293
 ) (/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
 Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
 )) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
 Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
-\pgffor@iter=\dimen293
-\pgffor@skip=\dimen294
-\pgffor@stack=\toks46
-\pgffor@toks=\toks47
+\pgffor@iter=\dimen294
+\pgffor@skip=\dimen295
+\pgffor@stack=\toks47
+\pgffor@toks=\toks48
 )) (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
 Package: tikz 2023-01-15 v3.1.10 (3.1.10)
  (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@plot@mark@count=\count316
-\pgfplotmarksize=\dimen295
+\pgf@plot@mark@count=\count321
+\pgfplotmarksize=\dimen296
 )
-\tikz@lastx=\dimen296
-\tikz@lasty=\dimen297
-\tikz@lastxsaved=\dimen298
-\tikz@lastysaved=\dimen299
-\tikz@lastmovetox=\dimen300
-\tikz@lastmovetoy=\dimen301
-\tikzleveldistance=\dimen302
-\tikzsiblingdistance=\dimen303
-\tikz@figbox=\box69
-\tikz@figbox@bg=\box70
-\tikz@tempbox=\box71
-\tikz@tempbox@bg=\box72
-\tikztreelevel=\count317
-\tikznumberofchildren=\count318
-\tikznumberofcurrentchild=\count319
-\tikz@fig@count=\count320
+\tikz@lastx=\dimen297
+\tikz@lasty=\dimen298
+\tikz@lastxsaved=\dimen299
+\tikz@lastysaved=\dimen300
+\tikz@lastmovetox=\dimen301
+\tikz@lastmovetoy=\dimen302
+\tikzleveldistance=\dimen303
+\tikzsiblingdistance=\dimen304
+\tikz@figbox=\box74
+\tikz@figbox@bg=\box75
+\tikz@tempbox=\box76
+\tikz@tempbox@bg=\box77
+\tikztreelevel=\count322
+\tikznumberofchildren=\count323
+\tikznumberofcurrentchild=\count324
+\tikz@fig@count=\count325
  (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfmatrixcurrentrow=\count321
-\pgfmatrixcurrentcolumn=\count322
-\pgf@matrix@numberofcolumns=\count323
+\pgfmatrixcurrentrow=\count326
+\pgfmatrixcurrentcolumn=\count327
+\pgf@matrix@numberofcolumns=\count328
 )
-\tikz@expandcount=\count324
+\tikz@expandcount=\count329
  (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))) (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.code.tex
@@ -549,29 +570,29 @@ File: tikzlibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
 File: pgflibraryshapes.geometric.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )) (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.meta.code.tex
 File: pgflibraryarrows.meta.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfarrowinset=\dimen304
-\pgfarrowlength=\dimen305
-\pgfarrowwidth=\dimen306
-\pgfarrowlinewidth=\dimen307
+\pgfarrowinset=\dimen305
+\pgfarrowlength=\dimen306
+\pgfarrowwidth=\dimen307
+\pgfarrowlinewidth=\dimen308
 ) (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypositioning.code.tex
 File: tikzlibrarypositioning.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (./skripsi.aux)
 \openout1 = `skripsi.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -609,17 +630,17 @@ LaTeX Font Info:    ... okay on input line 63.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count325
-\scratchdimen=\dimen308
-\scratchbox=\box73
-\nofMPsegments=\count326
-\nofMParguments=\count327
-\everyMPshowfont=\toks48
-\MPscratchCnt=\count328
-\MPscratchDim=\dimen309
-\MPnumerator=\count329
-\makeMPintoPDFobject=\count330
-\everyMPtoPDFconversion=\toks49
+\scratchcounter=\count330
+\scratchdimen=\dimen309
+\scratchbox=\box78
+\nofMPsegments=\count331
+\nofMParguments=\count332
+\everyMPshowfont=\toks49
+\MPscratchCnt=\count333
+\MPscratchDim=\dimen310
+\MPnumerator=\count334
+\makeMPintoPDFobject=\count335
+\everyMPtoPDFconversion=\toks50
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -628,23 +649,23 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: changepage package is loaded.
-\caption@adjustwidth@hsize=\dimen310
-\caption@adjustwidth@linewidth=\dimen311
+\caption@adjustwidth@hsize=\dimen311
+\caption@adjustwidth@linewidth=\dimen312
 Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Info: Redefining \microtypecontext on input line 63.
-Package microtype Info: Applying patch `item' on input line 63.
-Package microtype Info: Applying patch `toc' on input line 63.
-Package microtype Info: Applying patch `eqnum' on input line 63.
-Package microtype Info: Applying patch `footnote' on input line 63.
-Package microtype Info: Applying patch `verbatim' on input line 63.
+LaTeX Info: Redefining \microtypecontext on input line 64.
+Package microtype Info: Applying patch `item' on input line 64.
+Package microtype Info: Applying patch `toc' on input line 64.
+Package microtype Info: Applying patch `eqnum' on input line 64.
+Package microtype Info: Applying patch `footnote' on input line 64.
+Package microtype Info: Applying patch `verbatim' on input line 64.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 63.
+LaTeX Info: Redefining \showhyphens on input line 64.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -670,12 +691,12 @@ Package pdftex.def Info: images/logo-uad-hitam.png  used on input line 32.
 <logo/logo-uad-kuning.png, id=14, 120.45pt x 120.45pt>
 File: logo/logo-uad-kuning.png Graphic file (type png)
 <use logo/logo-uad-kuning.png>
-Package pdftex.def Info: logo/logo-uad-kuning.png  used on input line 73.
+Package pdftex.def Info: logo/logo-uad-kuning.png  used on input line 74.
 (pdftex.def)             Requested size: 358.50836pt x 358.5444pt.
  [2 <./logo/logo-uad-kuning.png>] (./bab/pengesahan.tex (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlztmcm.fd) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsztmcm.fd) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxztmcm.fd) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd) (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg) (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg))
 File: logo/logo-uad-kuning.png Graphic file (type png)
 <use logo/logo-uad-kuning.png>
-Package pdftex.def Info: logo/logo-uad-kuning.png  used on input line 77.
+Package pdftex.def Info: logo/logo-uad-kuning.png  used on input line 78.
 (pdftex.def)             Requested size: 358.50836pt x 358.5444pt.
  [3] (./bab/pernyataan_keaslian.tex) [4] (./bab/kata_pengantar.tex [5]) [6] (./bab/halaman_motto.tex) [7] (./skripsi.toc [8
 
@@ -695,13 +716,13 @@ Package pdftex.def Info: logo/logo-uad-kuning.png  used on input line 77.
 
  [12
 
-] (./bab/abstrak.tex [13] [14]) (./bab/bab1_baru.tex [1] [2]
-Underfull \hbox (badness 10000) in paragraph at lines 41--42
+] (./bab/abstrak.tex [13] [14]) (./bab/bab1.tex [1] [2] [3]
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
 
  []
 
-[3]
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 68.
+[4]
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 70.
  (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
@@ -709,13 +730,13 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmtt' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- [4{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}] [5] [6] [7]) (./bab/bab2_baru.tex [8] [9] [10] [11] [12] [13]
+ [5{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}] [6] [7]) (./bab/bab2.tex [8] [9] [10] [11] [12] [13]
 <images2/kerangkaberpikir.png, id=102, 1153.30875pt x 1374.13374pt>
 File: images2/kerangkaberpikir.png Graphic file (type png)
 <use images2/kerangkaberpikir.png>
 Package pdftex.def Info: images2/kerangkaberpikir.png  used on input line 80.
 (pdftex.def)             Requested size: 398.3386pt x 474.60085pt.
-) (./bab/bab3_rewrite_total.tex [14] [15 <./images2/kerangkaberpikir.png (PNG copy)>]
+) (./bab/bab3.tex [14] [15 <./images2/kerangkaberpikir.png (PNG copy)>]
 Underfull \hbox (badness 10000) in paragraph at lines 19--20
 
  []
@@ -746,7 +767,7 @@ Overfull \hbox (66.16231pt too wide) in paragraph at lines 232--240
 []$ 
  []
 
-) (./bab/bab4_rapi.tex [27] [28] [29]
+) (./bab/bab4.tex [27] [28] [29]
 Underfull \hbox (badness 1199) in paragraph at lines 64--65
 []| \T1/ptm/m/n/12 (+20) SMP Muham-madiyah 9 Yo-gyakarta men-er-ap-kan Kuriku-lum
  []
@@ -855,212 +876,229 @@ Package pdftex.def Info: images2/jaringbalok.png  used on input line 232.
 File: images2/simulasi3d.jpg Graphic file (type jpg)
 <use images2/simulasi3d.jpg>
 Package pdftex.def Info: images2/simulasi3d.jpg  used on input line 246.
-(pdftex.def)             Requested size: 139.42093pt x 309.82373pt.
-<images2/mywebar.png, id=211, 1371.1225pt x 730.73pt>
+(pdftex.def)             Requested size: 119.50279pt x 265.54219pt.
+<images2/materi2.jpg, id=211, 722.7pt x 1606.0pt>
+File: images2/materi2.jpg Graphic file (type jpg)
+<use images2/materi2.jpg>
+Package pdftex.def Info: images2/materi2.jpg  used on input line 247.
+(pdftex.def)             Requested size: 119.50279pt x 265.54219pt.
+<images2/materi3.jpg, id=212, 722.7pt x 1606.0pt>
+File: images2/materi3.jpg Graphic file (type jpg)
+<use images2/materi3.jpg>
+Package pdftex.def Info: images2/materi3.jpg  used on input line 248.
+(pdftex.def)             Requested size: 119.50279pt x 265.54219pt.
+<images2/mywebar.png, id=213, 1371.1225pt x 730.73pt>
 File: images2/mywebar.png Graphic file (type png)
 <use images2/mywebar.png>
-Package pdftex.def Info: images2/mywebar.png  used on input line 255.
+Package pdftex.def Info: images2/mywebar.png  used on input line 257.
 (pdftex.def)             Requested size: 398.3386pt x 212.28537pt.
- [41 <./images2/simulasi3d.jpg>]
-<images/materi4.jpg, id=216, 722.7pt x 1606.0pt>
-File: images/materi4.jpg Graphic file (type jpg)
-<use images/materi4.jpg>
-Package pdftex.def Info: images/materi4.jpg  used on input line 261.
+<images2/ar1.jpg, id=214, 722.7pt x 1606.0pt>
+File: images2/ar1.jpg Graphic file (type jpg)
+<use images2/ar1.jpg>
+Package pdftex.def Info: images2/ar1.jpg  used on input line 263.
 (pdftex.def)             Requested size: 119.50279pt x 265.54219pt.
- [42 <./images2/mywebar.png> <./images/materi4.jpg>]
-<images2/isiansingkat.jpg, id=220, 722.7pt x 1606.0pt>
+<images2/ar2.jpg, id=215, 722.7pt x 1606.0pt>
+File: images2/ar2.jpg Graphic file (type jpg)
+<use images2/ar2.jpg>
+Package pdftex.def Info: images2/ar2.jpg  used on input line 264.
+(pdftex.def)             Requested size: 119.50279pt x 265.54219pt.
+<images2/ar3.jpg, id=216, 722.7pt x 1606.0pt>
+File: images2/ar3.jpg Graphic file (type jpg)
+<use images2/ar3.jpg>
+Package pdftex.def Info: images2/ar3.jpg  used on input line 265.
+(pdftex.def)             Requested size: 119.50279pt x 265.54219pt.
+ [41 <./images2/simulasi3d.jpg> <./images2/materi2.jpg> <./images2/materi3.jpg>] [42 <./images2/mywebar.png> <./images2/ar1.jpg> <./images2/ar2.jpg> <./images2/ar3.jpg>]
+<images2/isiansingkat.jpg, id=224, 722.7pt x 1606.0pt>
 File: images2/isiansingkat.jpg Graphic file (type jpg)
 <use images2/isiansingkat.jpg>
-Package pdftex.def Info: images2/isiansingkat.jpg  used on input line 275.
+Package pdftex.def Info: images2/isiansingkat.jpg  used on input line 279.
 (pdftex.def)             Requested size: 119.50279pt x 265.54219pt.
-<images2/soalakhirbab.jpg, id=221, 722.7pt x 1606.0pt>
+<images2/soalakhirbab.jpg, id=225, 722.7pt x 1606.0pt>
 File: images2/soalakhirbab.jpg Graphic file (type jpg)
 <use images2/soalakhirbab.jpg>
-Package pdftex.def Info: images2/soalakhirbab.jpg  used on input line 276.
+Package pdftex.def Info: images2/soalakhirbab.jpg  used on input line 280.
 (pdftex.def)             Requested size: 119.50279pt x 265.54219pt.
-<images2/quizvolume.jpg, id=222, 722.7pt x 1606.0pt>
+<images2/quizvolume.jpg, id=226, 722.7pt x 1606.0pt>
 File: images2/quizvolume.jpg Graphic file (type jpg)
 <use images2/quizvolume.jpg>
-Package pdftex.def Info: images2/quizvolume.jpg  used on input line 277.
+Package pdftex.def Info: images2/quizvolume.jpg  used on input line 281.
 (pdftex.def)             Requested size: 119.50279pt x 265.54219pt.
  [43 <./images2/isiansingkat.jpg> <./images2/soalakhirbab.jpg> <./images2/quizvolume.jpg>] [44] [45] [46] [47] [48] [49]
-<revisi/sebelum/sebelumA.jpg, id=245, 722.7pt x 1606.0pt>
+<revisi/sebelum/sebelumA.jpg, id=249, 722.7pt x 1606.0pt>
 File: revisi/sebelum/sebelumA.jpg Graphic file (type jpg)
 <use revisi/sebelum/sebelumA.jpg>
-Package pdftex.def Info: revisi/sebelum/sebelumA.jpg  used on input line 515.
+Package pdftex.def Info: revisi/sebelum/sebelumA.jpg  used on input line 519.
 (pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
-<revisi/sesudah/sesudahA.jpg, id=246, 722.7pt x 1606.0pt>
+<revisi/sesudah/sesudahA.jpg, id=250, 722.7pt x 1606.0pt>
 File: revisi/sesudah/sesudahA.jpg Graphic file (type jpg)
 <use revisi/sesudah/sesudahA.jpg>
-Package pdftex.def Info: revisi/sesudah/sesudahA.jpg  used on input line 516.
+Package pdftex.def Info: revisi/sesudah/sesudahA.jpg  used on input line 520.
 (pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
-<revisi/sebelum/sebelumB.jpg, id=247, 722.7pt x 1606.0pt>
+<revisi/sebelum/sebelumB.jpg, id=251, 722.7pt x 1606.0pt>
 File: revisi/sebelum/sebelumB.jpg Graphic file (type jpg)
 <use revisi/sebelum/sebelumB.jpg>
-Package pdftex.def Info: revisi/sebelum/sebelumB.jpg  used on input line 525.
+Package pdftex.def Info: revisi/sebelum/sebelumB.jpg  used on input line 529.
 (pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
-<revisi/sesudah/sesudahB.jpg, id=248, 722.7pt x 1606.0pt>
+<revisi/sesudah/sesudahB.jpg, id=252, 722.7pt x 1606.0pt>
 File: revisi/sesudah/sesudahB.jpg Graphic file (type jpg)
 <use revisi/sesudah/sesudahB.jpg>
-Package pdftex.def Info: revisi/sesudah/sesudahB.jpg  used on input line 526.
+Package pdftex.def Info: revisi/sesudah/sesudahB.jpg  used on input line 530.
 (pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
  [50 <./revisi/sebelum/sebelumA.jpg> <./revisi/sesudah/sesudahA.jpg>]
-<revisi/sebelum/sebelumC.jpg, id=252, 722.7pt x 1606.0pt>
+<revisi/sebelum/sebelumC.jpg, id=256, 722.7pt x 1606.0pt>
 File: revisi/sebelum/sebelumC.jpg Graphic file (type jpg)
 <use revisi/sebelum/sebelumC.jpg>
-Package pdftex.def Info: revisi/sebelum/sebelumC.jpg  used on input line 534.
+Package pdftex.def Info: revisi/sebelum/sebelumC.jpg  used on input line 538.
 (pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
-<revisi/sesudah/sesudahC.jpg, id=253, 722.7pt x 1606.0pt>
+<revisi/sesudah/sesudahC.jpg, id=257, 722.7pt x 1606.0pt>
 File: revisi/sesudah/sesudahC.jpg Graphic file (type jpg)
 <use revisi/sesudah/sesudahC.jpg>
-Package pdftex.def Info: revisi/sesudah/sesudahC.jpg  used on input line 535.
+Package pdftex.def Info: revisi/sesudah/sesudahC.jpg  used on input line 539.
 (pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
-<revisi/sebelum/sebelumD.jpg, id=254, 722.7pt x 1606.0pt>
+<revisi/sebelum/sebelumD.jpg, id=258, 722.7pt x 1606.0pt>
 File: revisi/sebelum/sebelumD.jpg Graphic file (type jpg)
 <use revisi/sebelum/sebelumD.jpg>
-Package pdftex.def Info: revisi/sebelum/sebelumD.jpg  used on input line 543.
+Package pdftex.def Info: revisi/sebelum/sebelumD.jpg  used on input line 547.
 (pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
-<revisi/sesudah/sesudahD.jpg, id=255, 722.7pt x 1606.0pt>
+<revisi/sesudah/sesudahD.jpg, id=259, 722.7pt x 1606.0pt>
 File: revisi/sesudah/sesudahD.jpg Graphic file (type jpg)
 <use revisi/sesudah/sesudahD.jpg>
-Package pdftex.def Info: revisi/sesudah/sesudahD.jpg  used on input line 544.
+Package pdftex.def Info: revisi/sesudah/sesudahD.jpg  used on input line 548.
 (pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
  [51 <./revisi/sebelum/sebelumB.jpg> <./revisi/sesudah/sesudahB.jpg> <./revisi/sebelum/sebelumC.jpg> <./revisi/sesudah/sesudahC.jpg>]
-<revisi/sebelum/sebelumE.jpg, id=259, 722.7pt x 1606.0pt>
+<revisi/sebelum/sebelumE.jpg, id=263, 722.7pt x 1606.0pt>
 File: revisi/sebelum/sebelumE.jpg Graphic file (type jpg)
 <use revisi/sebelum/sebelumE.jpg>
-Package pdftex.def Info: revisi/sebelum/sebelumE.jpg  used on input line 552.
+Package pdftex.def Info: revisi/sebelum/sebelumE.jpg  used on input line 556.
 (pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
-<revisi/sesudah/sesudahE.jpg, id=260, 722.7pt x 1606.0pt>
+<revisi/sesudah/sesudahE.jpg, id=264, 722.7pt x 1606.0pt>
 File: revisi/sesudah/sesudahE.jpg Graphic file (type jpg)
 <use revisi/sesudah/sesudahE.jpg>
-Package pdftex.def Info: revisi/sesudah/sesudahE.jpg  used on input line 553.
+Package pdftex.def Info: revisi/sesudah/sesudahE.jpg  used on input line 557.
 (pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
-<revisi/sebelum/sebelumF.jpg, id=261, 722.7pt x 1606.0pt>
+<revisi/sebelum/sebelumF.jpg, id=265, 722.7pt x 1606.0pt>
 File: revisi/sebelum/sebelumF.jpg Graphic file (type jpg)
 <use revisi/sebelum/sebelumF.jpg>
-Package pdftex.def Info: revisi/sebelum/sebelumF.jpg  used on input line 561.
+Package pdftex.def Info: revisi/sebelum/sebelumF.jpg  used on input line 565.
 (pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
-<revisi/sesudah/sesudahF.jpg, id=262, 722.7pt x 1606.0pt>
+<revisi/sesudah/sesudahF.jpg, id=266, 722.7pt x 1606.0pt>
 File: revisi/sesudah/sesudahF.jpg Graphic file (type jpg)
 <use revisi/sesudah/sesudahF.jpg>
-Package pdftex.def Info: revisi/sesudah/sesudahF.jpg  used on input line 562.
+Package pdftex.def Info: revisi/sesudah/sesudahF.jpg  used on input line 566.
 (pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
  [52 <./revisi/sebelum/sebelumD.jpg> <./revisi/sesudah/sesudahD.jpg> <./revisi/sebelum/sebelumE.jpg> <./revisi/sesudah/sesudahE.jpg>]
-<revisi/sesudah/sesudahG1.jpg, id=266, 722.7pt x 1606.0pt>
+<revisi/sesudah/sesudahG1.jpg, id=270, 722.7pt x 1606.0pt>
 File: revisi/sesudah/sesudahG1.jpg Graphic file (type jpg)
 <use revisi/sesudah/sesudahG1.jpg>
-Package pdftex.def Info: revisi/sesudah/sesudahG1.jpg  used on input line 569.
+Package pdftex.def Info: revisi/sesudah/sesudahG1.jpg  used on input line 573.
 (pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
-<revisi/sesudah/sesudahG2.jpg, id=267, 722.7pt x 1606.0pt>
+<revisi/sesudah/sesudahG2.jpg, id=271, 722.7pt x 1606.0pt>
 File: revisi/sesudah/sesudahG2.jpg Graphic file (type jpg)
 <use revisi/sesudah/sesudahG2.jpg>
-Package pdftex.def Info: revisi/sesudah/sesudahG2.jpg  used on input line 570.
+Package pdftex.def Info: revisi/sesudah/sesudahG2.jpg  used on input line 574.
 (pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
-<revisi/sesudah/sesudahG3.jpg, id=268, 722.7pt x 1606.0pt>
+<revisi/sesudah/sesudahG3.jpg, id=272, 722.7pt x 1606.0pt>
 File: revisi/sesudah/sesudahG3.jpg Graphic file (type jpg)
 <use revisi/sesudah/sesudahG3.jpg>
-Package pdftex.def Info: revisi/sesudah/sesudahG3.jpg  used on input line 571.
+Package pdftex.def Info: revisi/sesudah/sesudahG3.jpg  used on input line 575.
 (pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
-<revisi/Revisimedia2.jpg, id=269, 722.7pt x 1606.0pt>
+<revisi/Revisimedia2.jpg, id=273, 722.7pt x 1606.0pt>
 File: revisi/Revisimedia2.jpg Graphic file (type jpg)
 <use revisi/Revisimedia2.jpg>
-Package pdftex.def Info: revisi/Revisimedia2.jpg  used on input line 582.
+Package pdftex.def Info: revisi/Revisimedia2.jpg  used on input line 586.
 (pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
-<revisi/Revisimedia.jpg, id=270, 722.7pt x 1606.0pt>
+<revisi/Revisimedia.jpg, id=274, 722.7pt x 1606.0pt>
 File: revisi/Revisimedia.jpg Graphic file (type jpg)
 <use revisi/Revisimedia.jpg>
-Package pdftex.def Info: revisi/Revisimedia.jpg  used on input line 583.
+Package pdftex.def Info: revisi/Revisimedia.jpg  used on input line 587.
 (pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
  [53 <./revisi/sebelum/sebelumF.jpg> <./revisi/sesudah/sesudahF.jpg> <./revisi/sesudah/sesudahG1.jpg> <./revisi/sesudah/sesudahG2.jpg> <./revisi/sesudah/sesudahG3.jpg>]
-<revisi/Landingpage1.jpg, id=275, 722.7pt x 1606.0pt>
+<revisi/Landingpage1.jpg, id=279, 722.7pt x 1606.0pt>
 File: revisi/Landingpage1.jpg Graphic file (type jpg)
 <use revisi/Landingpage1.jpg>
-Package pdftex.def Info: revisi/Landingpage1.jpg  used on input line 603.
+Package pdftex.def Info: revisi/Landingpage1.jpg  used on input line 607.
 (pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
-<revisi/Landingpage2.jpg, id=276, 722.7pt x 1606.0pt>
+<revisi/Landingpage2.jpg, id=280, 722.7pt x 1606.0pt>
 File: revisi/Landingpage2.jpg Graphic file (type jpg)
 <use revisi/Landingpage2.jpg>
-Package pdftex.def Info: revisi/Landingpage2.jpg  used on input line 604.
+Package pdftex.def Info: revisi/Landingpage2.jpg  used on input line 608.
 (pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 598--607
+Underfull \hbox (badness 10000) in paragraph at lines 602--611
 | \T1/ptm/m/n/12 (+20) Ha-la-man per-tama saat men-gak-ses https://medpemar.vercel.app.
  []
 
-<revisi/Landingpage3.png, id=277, 1371.1225pt x 730.73pt>
+<revisi/Landingpage3.png, id=281, 1371.1225pt x 730.73pt>
 File: revisi/Landingpage3.png Graphic file (type png)
 <use revisi/Landingpage3.png>
-Package pdftex.def Info: revisi/Landingpage3.png  used on input line 611.
+Package pdftex.def Info: revisi/Landingpage3.png  used on input line 615.
 (pdftex.def)             Requested size: 398.3386pt x 212.28537pt.
 
-Overfull \hbox (12.00002pt too wide) in paragraph at lines 610--613
+Overfull \hbox (12.00002pt too wide) in paragraph at lines 614--617
  [][] 
  []
 
 [54 <./revisi/Revisimedia2.jpg> <./revisi/Revisimedia.jpg>]
 File: revisi/sesudah/sesudahG1.jpg Graphic file (type jpg)
 <use revisi/sesudah/sesudahG1.jpg>
-Package pdftex.def Info: revisi/sesudah/sesudahG1.jpg  used on input line 620.
+Package pdftex.def Info: revisi/sesudah/sesudahG1.jpg  used on input line 624.
 (pdftex.def)             Requested size: 119.50279pt x 265.54219pt.
 File: revisi/sesudah/sesudahG2.jpg Graphic file (type jpg)
 <use revisi/sesudah/sesudahG2.jpg>
-Package pdftex.def Info: revisi/sesudah/sesudahG2.jpg  used on input line 621.
+Package pdftex.def Info: revisi/sesudah/sesudahG2.jpg  used on input line 625.
 (pdftex.def)             Requested size: 119.50279pt x 265.54219pt.
 File: revisi/sesudah/sesudahG3.jpg Graphic file (type jpg)
 <use revisi/sesudah/sesudahG3.jpg>
-Package pdftex.def Info: revisi/sesudah/sesudahG3.jpg  used on input line 622.
+Package pdftex.def Info: revisi/sesudah/sesudahG3.jpg  used on input line 626.
 (pdftex.def)             Requested size: 119.50279pt x 265.54219pt.
  [55 <./revisi/Landingpage1.jpg> <./revisi/Landingpage2.jpg> <./revisi/Landingpage3.png>]
-<revisi/Menu.jpg, id=284, 722.7pt x 1606.0pt>
+<revisi/Menu.jpg, id=288, 722.7pt x 1606.0pt>
 File: revisi/Menu.jpg Graphic file (type jpg)
 <use revisi/Menu.jpg>
-Package pdftex.def Info: revisi/Menu.jpg  used on input line 631.
+Package pdftex.def Info: revisi/Menu.jpg  used on input line 635.
 (pdftex.def)             Requested size: 119.50279pt x 265.54219pt.
-<revisi/Menuvolume.jpg, id=285, 722.7pt x 1606.0pt>
+<revisi/Menuvolume.jpg, id=289, 722.7pt x 1606.0pt>
 File: revisi/Menuvolume.jpg Graphic file (type jpg)
 <use revisi/Menuvolume.jpg>
-Package pdftex.def Info: revisi/Menuvolume.jpg  used on input line 632.
+Package pdftex.def Info: revisi/Menuvolume.jpg  used on input line 636.
 (pdftex.def)             Requested size: 119.50279pt x 265.54219pt.
-<revisi/Menuluaspermukaan.jpg, id=286, 722.7pt x 1606.0pt>
+<revisi/Menuluaspermukaan.jpg, id=290, 722.7pt x 1606.0pt>
 File: revisi/Menuluaspermukaan.jpg Graphic file (type jpg)
 <use revisi/Menuluaspermukaan.jpg>
-Package pdftex.def Info: revisi/Menuluaspermukaan.jpg  used on input line 633.
+Package pdftex.def Info: revisi/Menuluaspermukaan.jpg  used on input line 637.
 (pdftex.def)             Requested size: 119.50279pt x 265.54219pt.
  [56]
-<images2/materi1.jpg, id=290, 722.7pt x 1606.0pt>
+<images2/materi1.jpg, id=294, 722.7pt x 1606.0pt>
 File: images2/materi1.jpg Graphic file (type jpg)
 <use images2/materi1.jpg>
-Package pdftex.def Info: images2/materi1.jpg  used on input line 642.
+Package pdftex.def Info: images2/materi1.jpg  used on input line 646.
 (pdftex.def)             Requested size: 119.50279pt x 265.54219pt.
-<images2/materi2.jpg, id=291, 722.7pt x 1606.0pt>
 File: images2/materi2.jpg Graphic file (type jpg)
 <use images2/materi2.jpg>
-Package pdftex.def Info: images2/materi2.jpg  used on input line 643.
+Package pdftex.def Info: images2/materi2.jpg  used on input line 647.
 (pdftex.def)             Requested size: 119.50279pt x 265.54219pt.
-<images2/materi3.jpg, id=292, 722.7pt x 1606.0pt>
 File: images2/materi3.jpg Graphic file (type jpg)
 <use images2/materi3.jpg>
-Package pdftex.def Info: images2/materi3.jpg  used on input line 644.
+Package pdftex.def Info: images2/materi3.jpg  used on input line 648.
 (pdftex.def)             Requested size: 119.50279pt x 265.54219pt.
  [57 <./revisi/Menu.jpg> <./revisi/Menuvolume.jpg> <./revisi/Menuluaspermukaan.jpg>]
 File: images2/quizvolume.jpg Graphic file (type jpg)
 <use images2/quizvolume.jpg>
-Package pdftex.def Info: images2/quizvolume.jpg  used on input line 653.
+Package pdftex.def Info: images2/quizvolume.jpg  used on input line 657.
 (pdftex.def)             Requested size: 99.58464pt x 221.28516pt.
-) (./bab/bab5_2.tex [58 <./images2/materi1.jpg> <./images2/materi2.jpg> <./images2/materi3.jpg>] [59] [60]) [61] (./skripsi.bbl
-Overfull \hbox (8.56596pt too wide) in paragraph at lines 27--29
+) (./bab/bab5.tex [58 <./images2/materi1.jpg>] [59] [60]) [61] (./skripsi.bbl
+Overfull \hbox (8.56596pt too wide) in paragraph at lines 26--28
 \T1/ptm/b/n/12 (-20) URL: \T1/ptm/m/it/12 (-20) https://www.wiley.com/en-us/E+Learning+and+the+Science+of+Instruction 
  []
 
 [62
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 31--33
+Underfull \hbox (badness 10000) in paragraph at lines 33--35
 \T1/ptm/b/n/12 (+20) URL: \T1/ptm/m/it/12 (+20) https://www.packtpub.com/product/learning-three-js-third-
  []
 
-[63] [64] [65]) [66] (./bab/lampiran_skripsi.tex
+[63] [64]) [65] (./bab/lampiran_skripsi.tex
 *geometry* verbose mode - [ newgeometry ] result:
 * driver: pdftex
 * paper: a4paper
@@ -1093,11 +1131,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 31--33
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
- [67
+ [66
 
 
 ]
-<lampiran/surat-izin-kesmp.pdf, id=328, 614.295pt x 939.51pt>
+<lampiran/surat-izin-kesmp.pdf, id=327, 614.295pt x 939.51pt>
 File: lampiran/surat-izin-kesmp.pdf Graphic file (type pdf)
 <use lampiran/surat-izin-kesmp.pdf>
 Package pdftex.def Info: lampiran/surat-izin-kesmp.pdf  used on input line 9.
@@ -1106,7 +1144,7 @@ File: lampiran/surat-izin-kesmp.pdf Graphic file (type pdf)
 <use lampiran/surat-izin-kesmp.pdf>
 Package pdftex.def Info: lampiran/surat-izin-kesmp.pdf  used on input line 9.
 (pdftex.def)             Requested size: 614.29349pt x 939.5077pt.
-<lampiran/surat-izin-kesmp.pdf, id=331, page=1, 614.295pt x 939.51pt>
+<lampiran/surat-izin-kesmp.pdf, id=330, page=1, 614.295pt x 939.51pt>
 File: lampiran/surat-izin-kesmp.pdf Graphic file (type pdf)
 <use lampiran/surat-izin-kesmp.pdf, page 1>
 Package pdftex.def Info: lampiran/surat-izin-kesmp.pdf , page1 used on input line 9.
@@ -1127,120 +1165,120 @@ File: lampiran/surat-izin-kesmp.pdf Graphic file (type pdf)
 <use lampiran/surat-izin-kesmp.pdf, page 1>
 Package pdftex.def Info: lampiran/surat-izin-kesmp.pdf , page1 used on input line 9.
 (pdftex.def)             Requested size: 552.82289pt x 845.49385pt.
- [68
+ [67
 
  <./lampiran/surat-izin-kesmp.pdf>]
-<lampiran/surat-pdm.pdf, id=370, 610.8622pt x 937.88393pt>
+<lampiran/surat-pdm.pdf, id=369, 610.8622pt x 937.88393pt>
 File: lampiran/surat-pdm.pdf Graphic file (type pdf)
 <use lampiran/surat-pdm.pdf>
-Package pdftex.def Info: lampiran/surat-pdm.pdf  used on input line 13.
+Package pdftex.def Info: lampiran/surat-pdm.pdf  used on input line 12.
 (pdftex.def)             Requested size: 610.8607pt x 937.88164pt.
 File: lampiran/surat-pdm.pdf Graphic file (type pdf)
 <use lampiran/surat-pdm.pdf>
-Package pdftex.def Info: lampiran/surat-pdm.pdf  used on input line 13.
+Package pdftex.def Info: lampiran/surat-pdm.pdf  used on input line 12.
 (pdftex.def)             Requested size: 610.8607pt x 937.88164pt.
-<lampiran/surat-pdm.pdf, id=373, page=1, 610.8622pt x 937.88393pt>
+<lampiran/surat-pdm.pdf, id=372, page=1, 610.8622pt x 937.88393pt>
 File: lampiran/surat-pdm.pdf Graphic file (type pdf)
 <use lampiran/surat-pdm.pdf, page 1>
-Package pdftex.def Info: lampiran/surat-pdm.pdf , page1 used on input line 13.
+Package pdftex.def Info: lampiran/surat-pdm.pdf , page1 used on input line 12.
 (pdftex.def)             Requested size: 610.8607pt x 937.88164pt.
 File: lampiran/surat-pdm.pdf Graphic file (type pdf)
 <use lampiran/surat-pdm.pdf, page 1>
-Package pdftex.def Info: lampiran/surat-pdm.pdf , page1 used on input line 13.
+Package pdftex.def Info: lampiran/surat-pdm.pdf , page1 used on input line 12.
 (pdftex.def)             Requested size: 550.90805pt x 845.83368pt.
 File: lampiran/surat-pdm.pdf Graphic file (type pdf)
 <use lampiran/surat-pdm.pdf, page 1>
-Package pdftex.def Info: lampiran/surat-pdm.pdf , page1 used on input line 13.
+Package pdftex.def Info: lampiran/surat-pdm.pdf , page1 used on input line 12.
 (pdftex.def)             Requested size: 550.90805pt x 845.83368pt.
 File: lampiran/surat-pdm.pdf Graphic file (type pdf)
 <use lampiran/surat-pdm.pdf, page 1>
-Package pdftex.def Info: lampiran/surat-pdm.pdf , page1 used on input line 13.
+Package pdftex.def Info: lampiran/surat-pdm.pdf , page1 used on input line 12.
 (pdftex.def)             Requested size: 550.90805pt x 845.83368pt.
 File: lampiran/surat-pdm.pdf Graphic file (type pdf)
 <use lampiran/surat-pdm.pdf, page 1>
-Package pdftex.def Info: lampiran/surat-pdm.pdf , page1 used on input line 13.
+Package pdftex.def Info: lampiran/surat-pdm.pdf , page1 used on input line 12.
 (pdftex.def)             Requested size: 550.90805pt x 845.83368pt.
- [69
+ [68
 
  <./lampiran/surat-pdm.pdf>]
-<lampiran/ahli-materi-pakbowo.pdf, id=380, 597.432pt x 844.83629pt>
+<lampiran/ahli-materi-pakbowo.pdf, id=379, 597.432pt x 844.83629pt>
 File: lampiran/ahli-materi-pakbowo.pdf Graphic file (type pdf)
 <use lampiran/ahli-materi-pakbowo.pdf>
-Package pdftex.def Info: lampiran/ahli-materi-pakbowo.pdf  used on input line 17.
+Package pdftex.def Info: lampiran/ahli-materi-pakbowo.pdf  used on input line 16.
 (pdftex.def)             Requested size: 597.43054pt x 844.83423pt.
 File: lampiran/ahli-materi-pakbowo.pdf Graphic file (type pdf)
 <use lampiran/ahli-materi-pakbowo.pdf>
-Package pdftex.def Info: lampiran/ahli-materi-pakbowo.pdf  used on input line 17.
+Package pdftex.def Info: lampiran/ahli-materi-pakbowo.pdf  used on input line 16.
 (pdftex.def)             Requested size: 597.43054pt x 844.83423pt.
-<lampiran/ahli-materi-pakbowo.pdf, id=383, page=1, 597.432pt x 844.83629pt>
+<lampiran/ahli-materi-pakbowo.pdf, id=382, page=1, 597.432pt x 844.83629pt>
 File: lampiran/ahli-materi-pakbowo.pdf Graphic file (type pdf)
 <use lampiran/ahli-materi-pakbowo.pdf, page 1>
-Package pdftex.def Info: lampiran/ahli-materi-pakbowo.pdf , page1 used on input line 17.
+Package pdftex.def Info: lampiran/ahli-materi-pakbowo.pdf , page1 used on input line 16.
 (pdftex.def)             Requested size: 597.43054pt x 844.83423pt.
 File: lampiran/ahli-materi-pakbowo.pdf Graphic file (type pdf)
 <use lampiran/ahli-materi-pakbowo.pdf, page 1>
-Package pdftex.def Info: lampiran/ahli-materi-pakbowo.pdf , page1 used on input line 17.
+Package pdftex.def Info: lampiran/ahli-materi-pakbowo.pdf , page1 used on input line 16.
 (pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
 File: lampiran/ahli-materi-pakbowo.pdf Graphic file (type pdf)
 <use lampiran/ahli-materi-pakbowo.pdf, page 1>
-Package pdftex.def Info: lampiran/ahli-materi-pakbowo.pdf , page1 used on input line 17.
+Package pdftex.def Info: lampiran/ahli-materi-pakbowo.pdf , page1 used on input line 16.
 (pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
 File: lampiran/ahli-materi-pakbowo.pdf Graphic file (type pdf)
 <use lampiran/ahli-materi-pakbowo.pdf, page 1>
-Package pdftex.def Info: lampiran/ahli-materi-pakbowo.pdf , page1 used on input line 17.
+Package pdftex.def Info: lampiran/ahli-materi-pakbowo.pdf , page1 used on input line 16.
 (pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
 File: lampiran/ahli-materi-pakbowo.pdf Graphic file (type pdf)
 <use lampiran/ahli-materi-pakbowo.pdf, page 1>
-Package pdftex.def Info: lampiran/ahli-materi-pakbowo.pdf , page1 used on input line 17.
+Package pdftex.def Info: lampiran/ahli-materi-pakbowo.pdf , page1 used on input line 16.
+(pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
+ [69
+
+ <./lampiran/ahli-materi-pakbowo.pdf>]
+<lampiran/ahli-materi-pakbowo.pdf, id=390, page=2, 597.432pt x 844.83629pt>
+File: lampiran/ahli-materi-pakbowo.pdf Graphic file (type pdf)
+<use lampiran/ahli-materi-pakbowo.pdf, page 2>
+Package pdftex.def Info: lampiran/ahli-materi-pakbowo.pdf , page2 used on input line 16.
+(pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
+File: lampiran/ahli-materi-pakbowo.pdf Graphic file (type pdf)
+<use lampiran/ahli-materi-pakbowo.pdf, page 2>
+Package pdftex.def Info: lampiran/ahli-materi-pakbowo.pdf , page2 used on input line 16.
+(pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
+File: lampiran/ahli-materi-pakbowo.pdf Graphic file (type pdf)
+<use lampiran/ahli-materi-pakbowo.pdf, page 2>
+Package pdftex.def Info: lampiran/ahli-materi-pakbowo.pdf , page2 used on input line 16.
 (pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
  [70
 
  <./lampiran/ahli-materi-pakbowo.pdf>]
-<lampiran/ahli-materi-pakbowo.pdf, id=391, page=2, 597.432pt x 844.83629pt>
+<lampiran/ahli-materi-pakbowo.pdf, id=397, page=3, 597.432pt x 844.83629pt>
 File: lampiran/ahli-materi-pakbowo.pdf Graphic file (type pdf)
-<use lampiran/ahli-materi-pakbowo.pdf, page 2>
-Package pdftex.def Info: lampiran/ahli-materi-pakbowo.pdf , page2 used on input line 17.
+<use lampiran/ahli-materi-pakbowo.pdf, page 3>
+Package pdftex.def Info: lampiran/ahli-materi-pakbowo.pdf , page3 used on input line 16.
 (pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
 File: lampiran/ahli-materi-pakbowo.pdf Graphic file (type pdf)
-<use lampiran/ahli-materi-pakbowo.pdf, page 2>
-Package pdftex.def Info: lampiran/ahli-materi-pakbowo.pdf , page2 used on input line 17.
+<use lampiran/ahli-materi-pakbowo.pdf, page 3>
+Package pdftex.def Info: lampiran/ahli-materi-pakbowo.pdf , page3 used on input line 16.
 (pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
 File: lampiran/ahli-materi-pakbowo.pdf Graphic file (type pdf)
-<use lampiran/ahli-materi-pakbowo.pdf, page 2>
-Package pdftex.def Info: lampiran/ahli-materi-pakbowo.pdf , page2 used on input line 17.
+<use lampiran/ahli-materi-pakbowo.pdf, page 3>
+Package pdftex.def Info: lampiran/ahli-materi-pakbowo.pdf , page3 used on input line 16.
 (pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
  [71
 
  <./lampiran/ahli-materi-pakbowo.pdf>]
-<lampiran/ahli-materi-pakbowo.pdf, id=399, page=3, 597.432pt x 844.83629pt>
-File: lampiran/ahli-materi-pakbowo.pdf Graphic file (type pdf)
-<use lampiran/ahli-materi-pakbowo.pdf, page 3>
-Package pdftex.def Info: lampiran/ahli-materi-pakbowo.pdf , page3 used on input line 17.
-(pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
-File: lampiran/ahli-materi-pakbowo.pdf Graphic file (type pdf)
-<use lampiran/ahli-materi-pakbowo.pdf, page 3>
-Package pdftex.def Info: lampiran/ahli-materi-pakbowo.pdf , page3 used on input line 17.
-(pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
-File: lampiran/ahli-materi-pakbowo.pdf Graphic file (type pdf)
-<use lampiran/ahli-materi-pakbowo.pdf, page 3>
-Package pdftex.def Info: lampiran/ahli-materi-pakbowo.pdf , page3 used on input line 17.
-(pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
- [72
-
- <./lampiran/ahli-materi-pakbowo.pdf>]
 
 pdfTeX warning: pdflatex (file ./lampiran/ahli-materi-burima.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<lampiran/ahli-materi-burima.pdf, id=406, 597.50786pt x 845.04686pt>
+<lampiran/ahli-materi-burima.pdf, id=405, 597.50786pt x 845.04686pt>
 File: lampiran/ahli-materi-burima.pdf Graphic file (type pdf)
 <use lampiran/ahli-materi-burima.pdf>
-Package pdftex.def Info: lampiran/ahli-materi-burima.pdf  used on input line 21.
+Package pdftex.def Info: lampiran/ahli-materi-burima.pdf  used on input line 19.
 (pdftex.def)             Requested size: 597.5064pt x 845.0448pt.
 
 
 pdfTeX warning: pdflatex (file ./lampiran/ahli-materi-burima.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 File: lampiran/ahli-materi-burima.pdf Graphic file (type pdf)
 <use lampiran/ahli-materi-burima.pdf>
-Package pdftex.def Info: lampiran/ahli-materi-burima.pdf  used on input line 21.
+Package pdftex.def Info: lampiran/ahli-materi-burima.pdf  used on input line 19.
 (pdftex.def)             Requested size: 597.5064pt x 845.0448pt.
 
 
@@ -1248,144 +1286,144 @@ pdfTeX warning: pdflatex (file ./lampiran/ahli-materi-burima.pdf): PDF inclusion
 
 
 pdfTeX warning: pdflatex (file ./lampiran/ahli-materi-burima.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<lampiran/ahli-materi-burima.pdf, id=409, page=1, 597.50786pt x 845.04686pt>
+<lampiran/ahli-materi-burima.pdf, id=408, page=1, 597.50786pt x 845.04686pt>
 File: lampiran/ahli-materi-burima.pdf Graphic file (type pdf)
 <use lampiran/ahli-materi-burima.pdf, page 1>
-Package pdftex.def Info: lampiran/ahli-materi-burima.pdf , page1 used on input line 21.
+Package pdftex.def Info: lampiran/ahli-materi-burima.pdf , page1 used on input line 19.
 (pdftex.def)             Requested size: 597.5064pt x 845.0448pt.
 File: lampiran/ahli-materi-burima.pdf Graphic file (type pdf)
 <use lampiran/ahli-materi-burima.pdf, page 1>
-Package pdftex.def Info: lampiran/ahli-materi-burima.pdf , page1 used on input line 21.
+Package pdftex.def Info: lampiran/ahli-materi-burima.pdf , page1 used on input line 19.
 (pdftex.def)             Requested size: 597.53374pt x 845.08348pt.
 File: lampiran/ahli-materi-burima.pdf Graphic file (type pdf)
 <use lampiran/ahli-materi-burima.pdf, page 1>
-Package pdftex.def Info: lampiran/ahli-materi-burima.pdf , page1 used on input line 21.
+Package pdftex.def Info: lampiran/ahli-materi-burima.pdf , page1 used on input line 19.
 (pdftex.def)             Requested size: 597.53374pt x 845.08348pt.
 File: lampiran/ahli-materi-burima.pdf Graphic file (type pdf)
 <use lampiran/ahli-materi-burima.pdf, page 1>
-Package pdftex.def Info: lampiran/ahli-materi-burima.pdf , page1 used on input line 21.
+Package pdftex.def Info: lampiran/ahli-materi-burima.pdf , page1 used on input line 19.
 (pdftex.def)             Requested size: 597.53374pt x 845.08348pt.
 File: lampiran/ahli-materi-burima.pdf Graphic file (type pdf)
 <use lampiran/ahli-materi-burima.pdf, page 1>
-Package pdftex.def Info: lampiran/ahli-materi-burima.pdf , page1 used on input line 21.
+Package pdftex.def Info: lampiran/ahli-materi-burima.pdf , page1 used on input line 19.
+(pdftex.def)             Requested size: 597.53374pt x 845.08348pt.
+[72
+
+ <./lampiran/ahli-materi-burima.pdf>]
+
+pdfTeX warning: pdflatex (file ./lampiran/ahli-materi-burima.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
+<lampiran/ahli-materi-burima.pdf, id=433, page=2, 597.50786pt x 845.04686pt>
+File: lampiran/ahli-materi-burima.pdf Graphic file (type pdf)
+<use lampiran/ahli-materi-burima.pdf, page 2>
+Package pdftex.def Info: lampiran/ahli-materi-burima.pdf , page2 used on input line 19.
+(pdftex.def)             Requested size: 597.53374pt x 845.08348pt.
+File: lampiran/ahli-materi-burima.pdf Graphic file (type pdf)
+<use lampiran/ahli-materi-burima.pdf, page 2>
+Package pdftex.def Info: lampiran/ahli-materi-burima.pdf , page2 used on input line 19.
+(pdftex.def)             Requested size: 597.53374pt x 845.08348pt.
+File: lampiran/ahli-materi-burima.pdf Graphic file (type pdf)
+<use lampiran/ahli-materi-burima.pdf, page 2>
+Package pdftex.def Info: lampiran/ahli-materi-burima.pdf , page2 used on input line 19.
 (pdftex.def)             Requested size: 597.53374pt x 845.08348pt.
 [73
 
  <./lampiran/ahli-materi-burima.pdf>]
 
 pdfTeX warning: pdflatex (file ./lampiran/ahli-materi-burima.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<lampiran/ahli-materi-burima.pdf, id=434, page=2, 597.50786pt x 845.04686pt>
+<lampiran/ahli-materi-burima.pdf, id=442, page=3, 597.50786pt x 845.04686pt>
 File: lampiran/ahli-materi-burima.pdf Graphic file (type pdf)
-<use lampiran/ahli-materi-burima.pdf, page 2>
-Package pdftex.def Info: lampiran/ahli-materi-burima.pdf , page2 used on input line 21.
+<use lampiran/ahli-materi-burima.pdf, page 3>
+Package pdftex.def Info: lampiran/ahli-materi-burima.pdf , page3 used on input line 19.
 (pdftex.def)             Requested size: 597.53374pt x 845.08348pt.
 File: lampiran/ahli-materi-burima.pdf Graphic file (type pdf)
-<use lampiran/ahli-materi-burima.pdf, page 2>
-Package pdftex.def Info: lampiran/ahli-materi-burima.pdf , page2 used on input line 21.
+<use lampiran/ahli-materi-burima.pdf, page 3>
+Package pdftex.def Info: lampiran/ahli-materi-burima.pdf , page3 used on input line 19.
 (pdftex.def)             Requested size: 597.53374pt x 845.08348pt.
 File: lampiran/ahli-materi-burima.pdf Graphic file (type pdf)
-<use lampiran/ahli-materi-burima.pdf, page 2>
-Package pdftex.def Info: lampiran/ahli-materi-burima.pdf , page2 used on input line 21.
+<use lampiran/ahli-materi-burima.pdf, page 3>
+Package pdftex.def Info: lampiran/ahli-materi-burima.pdf , page3 used on input line 19.
 (pdftex.def)             Requested size: 597.53374pt x 845.08348pt.
 [74
 
  <./lampiran/ahli-materi-burima.pdf>]
-
-pdfTeX warning: pdflatex (file ./lampiran/ahli-materi-burima.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<lampiran/ahli-materi-burima.pdf, id=443, page=3, 597.50786pt x 845.04686pt>
-File: lampiran/ahli-materi-burima.pdf Graphic file (type pdf)
-<use lampiran/ahli-materi-burima.pdf, page 3>
-Package pdftex.def Info: lampiran/ahli-materi-burima.pdf , page3 used on input line 21.
-(pdftex.def)             Requested size: 597.53374pt x 845.08348pt.
-File: lampiran/ahli-materi-burima.pdf Graphic file (type pdf)
-<use lampiran/ahli-materi-burima.pdf, page 3>
-Package pdftex.def Info: lampiran/ahli-materi-burima.pdf , page3 used on input line 21.
-(pdftex.def)             Requested size: 597.53374pt x 845.08348pt.
-File: lampiran/ahli-materi-burima.pdf Graphic file (type pdf)
-<use lampiran/ahli-materi-burima.pdf, page 3>
-Package pdftex.def Info: lampiran/ahli-materi-burima.pdf , page3 used on input line 21.
-(pdftex.def)             Requested size: 597.53374pt x 845.08348pt.
-[75
-
- <./lampiran/ahli-materi-burima.pdf>]
-<lampiran/ahli-media-pakbowo.pdf, id=454, 597.432pt x 844.83629pt>
+<lampiran/ahli-media-pakbowo.pdf, id=453, 597.432pt x 844.83629pt>
 File: lampiran/ahli-media-pakbowo.pdf Graphic file (type pdf)
 <use lampiran/ahli-media-pakbowo.pdf>
-Package pdftex.def Info: lampiran/ahli-media-pakbowo.pdf  used on input line 25.
+Package pdftex.def Info: lampiran/ahli-media-pakbowo.pdf  used on input line 22.
 (pdftex.def)             Requested size: 597.43054pt x 844.83423pt.
 File: lampiran/ahli-media-pakbowo.pdf Graphic file (type pdf)
 <use lampiran/ahli-media-pakbowo.pdf>
-Package pdftex.def Info: lampiran/ahli-media-pakbowo.pdf  used on input line 25.
+Package pdftex.def Info: lampiran/ahli-media-pakbowo.pdf  used on input line 22.
 (pdftex.def)             Requested size: 597.43054pt x 844.83423pt.
-<lampiran/ahli-media-pakbowo.pdf, id=457, page=1, 597.432pt x 844.83629pt>
+<lampiran/ahli-media-pakbowo.pdf, id=456, page=1, 597.432pt x 844.83629pt>
 File: lampiran/ahli-media-pakbowo.pdf Graphic file (type pdf)
 <use lampiran/ahli-media-pakbowo.pdf, page 1>
-Package pdftex.def Info: lampiran/ahli-media-pakbowo.pdf , page1 used on input line 25.
+Package pdftex.def Info: lampiran/ahli-media-pakbowo.pdf , page1 used on input line 22.
 (pdftex.def)             Requested size: 597.43054pt x 844.83423pt.
 File: lampiran/ahli-media-pakbowo.pdf Graphic file (type pdf)
 <use lampiran/ahli-media-pakbowo.pdf, page 1>
-Package pdftex.def Info: lampiran/ahli-media-pakbowo.pdf , page1 used on input line 25.
+Package pdftex.def Info: lampiran/ahli-media-pakbowo.pdf , page1 used on input line 22.
 (pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
 File: lampiran/ahli-media-pakbowo.pdf Graphic file (type pdf)
 <use lampiran/ahli-media-pakbowo.pdf, page 1>
-Package pdftex.def Info: lampiran/ahli-media-pakbowo.pdf , page1 used on input line 25.
+Package pdftex.def Info: lampiran/ahli-media-pakbowo.pdf , page1 used on input line 22.
 (pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
 File: lampiran/ahli-media-pakbowo.pdf Graphic file (type pdf)
 <use lampiran/ahli-media-pakbowo.pdf, page 1>
-Package pdftex.def Info: lampiran/ahli-media-pakbowo.pdf , page1 used on input line 25.
+Package pdftex.def Info: lampiran/ahli-media-pakbowo.pdf , page1 used on input line 22.
 (pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
 File: lampiran/ahli-media-pakbowo.pdf Graphic file (type pdf)
 <use lampiran/ahli-media-pakbowo.pdf, page 1>
-Package pdftex.def Info: lampiran/ahli-media-pakbowo.pdf , page1 used on input line 25.
+Package pdftex.def Info: lampiran/ahli-media-pakbowo.pdf , page1 used on input line 22.
+(pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
+ [75
+
+ <./lampiran/ahli-media-pakbowo.pdf>]
+<lampiran/ahli-media-pakbowo.pdf, id=465, page=2, 597.432pt x 844.83629pt>
+File: lampiran/ahli-media-pakbowo.pdf Graphic file (type pdf)
+<use lampiran/ahli-media-pakbowo.pdf, page 2>
+Package pdftex.def Info: lampiran/ahli-media-pakbowo.pdf , page2 used on input line 22.
+(pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
+File: lampiran/ahli-media-pakbowo.pdf Graphic file (type pdf)
+<use lampiran/ahli-media-pakbowo.pdf, page 2>
+Package pdftex.def Info: lampiran/ahli-media-pakbowo.pdf , page2 used on input line 22.
+(pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
+File: lampiran/ahli-media-pakbowo.pdf Graphic file (type pdf)
+<use lampiran/ahli-media-pakbowo.pdf, page 2>
+Package pdftex.def Info: lampiran/ahli-media-pakbowo.pdf , page2 used on input line 22.
 (pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
  [76
 
  <./lampiran/ahli-media-pakbowo.pdf>]
-<lampiran/ahli-media-pakbowo.pdf, id=466, page=2, 597.432pt x 844.83629pt>
+<lampiran/ahli-media-pakbowo.pdf, id=472, page=3, 597.432pt x 844.83629pt>
 File: lampiran/ahli-media-pakbowo.pdf Graphic file (type pdf)
-<use lampiran/ahli-media-pakbowo.pdf, page 2>
-Package pdftex.def Info: lampiran/ahli-media-pakbowo.pdf , page2 used on input line 25.
+<use lampiran/ahli-media-pakbowo.pdf, page 3>
+Package pdftex.def Info: lampiran/ahli-media-pakbowo.pdf , page3 used on input line 22.
 (pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
 File: lampiran/ahli-media-pakbowo.pdf Graphic file (type pdf)
-<use lampiran/ahli-media-pakbowo.pdf, page 2>
-Package pdftex.def Info: lampiran/ahli-media-pakbowo.pdf , page2 used on input line 25.
+<use lampiran/ahli-media-pakbowo.pdf, page 3>
+Package pdftex.def Info: lampiran/ahli-media-pakbowo.pdf , page3 used on input line 22.
 (pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
 File: lampiran/ahli-media-pakbowo.pdf Graphic file (type pdf)
-<use lampiran/ahli-media-pakbowo.pdf, page 2>
-Package pdftex.def Info: lampiran/ahli-media-pakbowo.pdf , page2 used on input line 25.
+<use lampiran/ahli-media-pakbowo.pdf, page 3>
+Package pdftex.def Info: lampiran/ahli-media-pakbowo.pdf , page3 used on input line 22.
 (pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
  [77
 
  <./lampiran/ahli-media-pakbowo.pdf>]
-<lampiran/ahli-media-pakbowo.pdf, id=474, page=3, 597.432pt x 844.83629pt>
-File: lampiran/ahli-media-pakbowo.pdf Graphic file (type pdf)
-<use lampiran/ahli-media-pakbowo.pdf, page 3>
-Package pdftex.def Info: lampiran/ahli-media-pakbowo.pdf , page3 used on input line 25.
-(pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
-File: lampiran/ahli-media-pakbowo.pdf Graphic file (type pdf)
-<use lampiran/ahli-media-pakbowo.pdf, page 3>
-Package pdftex.def Info: lampiran/ahli-media-pakbowo.pdf , page3 used on input line 25.
-(pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
-File: lampiran/ahli-media-pakbowo.pdf Graphic file (type pdf)
-<use lampiran/ahli-media-pakbowo.pdf, page 3>
-Package pdftex.def Info: lampiran/ahli-media-pakbowo.pdf , page3 used on input line 25.
-(pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
- [78
-
- <./lampiran/ahli-media-pakbowo.pdf>]
 
 pdfTeX warning: pdflatex (file ./lampiran/ahli-media-pakanggit.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<lampiran/ahli-media-pakanggit.pdf, id=481, 614.295pt x 794.97pt>
+<lampiran/ahli-media-pakanggit.pdf, id=480, 614.295pt x 794.97pt>
 File: lampiran/ahli-media-pakanggit.pdf Graphic file (type pdf)
 <use lampiran/ahli-media-pakanggit.pdf>
-Package pdftex.def Info: lampiran/ahli-media-pakanggit.pdf  used on input line 29.
+Package pdftex.def Info: lampiran/ahli-media-pakanggit.pdf  used on input line 25.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
 
 pdfTeX warning: pdflatex (file ./lampiran/ahli-media-pakanggit.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
 File: lampiran/ahli-media-pakanggit.pdf Graphic file (type pdf)
 <use lampiran/ahli-media-pakanggit.pdf>
-Package pdftex.def Info: lampiran/ahli-media-pakanggit.pdf  used on input line 29.
+Package pdftex.def Info: lampiran/ahli-media-pakanggit.pdf  used on input line 25.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
 
@@ -1393,281 +1431,286 @@ pdfTeX warning: pdflatex (file ./lampiran/ahli-media-pakanggit.pdf): PDF inclusi
 
 
 pdfTeX warning: pdflatex (file ./lampiran/ahli-media-pakanggit.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<lampiran/ahli-media-pakanggit.pdf, id=484, page=1, 614.295pt x 794.97pt>
+<lampiran/ahli-media-pakanggit.pdf, id=483, page=1, 614.295pt x 794.97pt>
 File: lampiran/ahli-media-pakanggit.pdf Graphic file (type pdf)
 <use lampiran/ahli-media-pakanggit.pdf, page 1>
-Package pdftex.def Info: lampiran/ahli-media-pakanggit.pdf , page1 used on input line 29.
+Package pdftex.def Info: lampiran/ahli-media-pakanggit.pdf , page1 used on input line 25.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 File: lampiran/ahli-media-pakanggit.pdf Graphic file (type pdf)
 <use lampiran/ahli-media-pakanggit.pdf, page 1>
-Package pdftex.def Info: lampiran/ahli-media-pakanggit.pdf , page1 used on input line 29.
+Package pdftex.def Info: lampiran/ahli-media-pakanggit.pdf , page1 used on input line 25.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: lampiran/ahli-media-pakanggit.pdf Graphic file (type pdf)
 <use lampiran/ahli-media-pakanggit.pdf, page 1>
-Package pdftex.def Info: lampiran/ahli-media-pakanggit.pdf , page1 used on input line 29.
+Package pdftex.def Info: lampiran/ahli-media-pakanggit.pdf , page1 used on input line 25.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: lampiran/ahli-media-pakanggit.pdf Graphic file (type pdf)
 <use lampiran/ahli-media-pakanggit.pdf, page 1>
-Package pdftex.def Info: lampiran/ahli-media-pakanggit.pdf , page1 used on input line 29.
+Package pdftex.def Info: lampiran/ahli-media-pakanggit.pdf , page1 used on input line 25.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: lampiran/ahli-media-pakanggit.pdf Graphic file (type pdf)
 <use lampiran/ahli-media-pakanggit.pdf, page 1>
-Package pdftex.def Info: lampiran/ahli-media-pakanggit.pdf , page1 used on input line 29.
+Package pdftex.def Info: lampiran/ahli-media-pakanggit.pdf , page1 used on input line 25.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+[78
+
+ <./lampiran/ahli-media-pakanggit.pdf>]
+
+pdfTeX warning: pdflatex (file ./lampiran/ahli-media-pakanggit.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
+<lampiran/ahli-media-pakanggit.pdf, id=513, page=2, 614.295pt x 794.97pt>
+File: lampiran/ahli-media-pakanggit.pdf Graphic file (type pdf)
+<use lampiran/ahli-media-pakanggit.pdf, page 2>
+Package pdftex.def Info: lampiran/ahli-media-pakanggit.pdf , page2 used on input line 25.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: lampiran/ahli-media-pakanggit.pdf Graphic file (type pdf)
+<use lampiran/ahli-media-pakanggit.pdf, page 2>
+Package pdftex.def Info: lampiran/ahli-media-pakanggit.pdf , page2 used on input line 25.
+(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
+File: lampiran/ahli-media-pakanggit.pdf Graphic file (type pdf)
+<use lampiran/ahli-media-pakanggit.pdf, page 2>
+Package pdftex.def Info: lampiran/ahli-media-pakanggit.pdf , page2 used on input line 25.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 [79
 
  <./lampiran/ahli-media-pakanggit.pdf>]
 
 pdfTeX warning: pdflatex (file ./lampiran/ahli-media-pakanggit.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<lampiran/ahli-media-pakanggit.pdf, id=514, page=2, 614.295pt x 794.97pt>
+<lampiran/ahli-media-pakanggit.pdf, id=527, page=3, 614.295pt x 794.97pt>
 File: lampiran/ahli-media-pakanggit.pdf Graphic file (type pdf)
-<use lampiran/ahli-media-pakanggit.pdf, page 2>
-Package pdftex.def Info: lampiran/ahli-media-pakanggit.pdf , page2 used on input line 29.
+<use lampiran/ahli-media-pakanggit.pdf, page 3>
+Package pdftex.def Info: lampiran/ahli-media-pakanggit.pdf , page3 used on input line 25.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: lampiran/ahli-media-pakanggit.pdf Graphic file (type pdf)
-<use lampiran/ahli-media-pakanggit.pdf, page 2>
-Package pdftex.def Info: lampiran/ahli-media-pakanggit.pdf , page2 used on input line 29.
+<use lampiran/ahli-media-pakanggit.pdf, page 3>
+Package pdftex.def Info: lampiran/ahli-media-pakanggit.pdf , page3 used on input line 25.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: lampiran/ahli-media-pakanggit.pdf Graphic file (type pdf)
-<use lampiran/ahli-media-pakanggit.pdf, page 2>
-Package pdftex.def Info: lampiran/ahli-media-pakanggit.pdf , page2 used on input line 29.
+<use lampiran/ahli-media-pakanggit.pdf, page 3>
+Package pdftex.def Info: lampiran/ahli-media-pakanggit.pdf , page3 used on input line 25.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 [80
 
  <./lampiran/ahli-media-pakanggit.pdf>]
 
 pdfTeX warning: pdflatex (file ./lampiran/ahli-media-pakanggit.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<lampiran/ahli-media-pakanggit.pdf, id=528, page=3, 614.295pt x 794.97pt>
+<lampiran/ahli-media-pakanggit.pdf, id=542, page=4, 614.295pt x 794.97pt>
 File: lampiran/ahli-media-pakanggit.pdf Graphic file (type pdf)
-<use lampiran/ahli-media-pakanggit.pdf, page 3>
-Package pdftex.def Info: lampiran/ahli-media-pakanggit.pdf , page3 used on input line 29.
+<use lampiran/ahli-media-pakanggit.pdf, page 4>
+Package pdftex.def Info: lampiran/ahli-media-pakanggit.pdf , page4 used on input line 25.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: lampiran/ahli-media-pakanggit.pdf Graphic file (type pdf)
-<use lampiran/ahli-media-pakanggit.pdf, page 3>
-Package pdftex.def Info: lampiran/ahli-media-pakanggit.pdf , page3 used on input line 29.
+<use lampiran/ahli-media-pakanggit.pdf, page 4>
+Package pdftex.def Info: lampiran/ahli-media-pakanggit.pdf , page4 used on input line 25.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: lampiran/ahli-media-pakanggit.pdf Graphic file (type pdf)
-<use lampiran/ahli-media-pakanggit.pdf, page 3>
-Package pdftex.def Info: lampiran/ahli-media-pakanggit.pdf , page3 used on input line 29.
+<use lampiran/ahli-media-pakanggit.pdf, page 4>
+Package pdftex.def Info: lampiran/ahli-media-pakanggit.pdf , page4 used on input line 25.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 [81
 
  <./lampiran/ahli-media-pakanggit.pdf>]
 
 pdfTeX warning: pdflatex (file ./lampiran/ahli-media-pakanggit.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<lampiran/ahli-media-pakanggit.pdf, id=543, page=4, 614.295pt x 794.97pt>
+<lampiran/ahli-media-pakanggit.pdf, id=565, page=5, 614.295pt x 794.97pt>
 File: lampiran/ahli-media-pakanggit.pdf Graphic file (type pdf)
-<use lampiran/ahli-media-pakanggit.pdf, page 4>
-Package pdftex.def Info: lampiran/ahli-media-pakanggit.pdf , page4 used on input line 29.
+<use lampiran/ahli-media-pakanggit.pdf, page 5>
+Package pdftex.def Info: lampiran/ahli-media-pakanggit.pdf , page5 used on input line 25.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: lampiran/ahli-media-pakanggit.pdf Graphic file (type pdf)
-<use lampiran/ahli-media-pakanggit.pdf, page 4>
-Package pdftex.def Info: lampiran/ahli-media-pakanggit.pdf , page4 used on input line 29.
+<use lampiran/ahli-media-pakanggit.pdf, page 5>
+Package pdftex.def Info: lampiran/ahli-media-pakanggit.pdf , page5 used on input line 25.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 File: lampiran/ahli-media-pakanggit.pdf Graphic file (type pdf)
-<use lampiran/ahli-media-pakanggit.pdf, page 4>
-Package pdftex.def Info: lampiran/ahli-media-pakanggit.pdf , page4 used on input line 29.
+<use lampiran/ahli-media-pakanggit.pdf, page 5>
+Package pdftex.def Info: lampiran/ahli-media-pakanggit.pdf , page5 used on input line 25.
 (pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
 [82
 
  <./lampiran/ahli-media-pakanggit.pdf>]
-
-pdfTeX warning: pdflatex (file ./lampiran/ahli-media-pakanggit.pdf): PDF inclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<lampiran/ahli-media-pakanggit.pdf, id=566, page=5, 614.295pt x 794.97pt>
-File: lampiran/ahli-media-pakanggit.pdf Graphic file (type pdf)
-<use lampiran/ahli-media-pakanggit.pdf, page 5>
-Package pdftex.def Info: lampiran/ahli-media-pakanggit.pdf , page5 used on input line 29.
-(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
-File: lampiran/ahli-media-pakanggit.pdf Graphic file (type pdf)
-<use lampiran/ahli-media-pakanggit.pdf, page 5>
-Package pdftex.def Info: lampiran/ahli-media-pakanggit.pdf , page5 used on input line 29.
-(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
-File: lampiran/ahli-media-pakanggit.pdf Graphic file (type pdf)
-<use lampiran/ahli-media-pakanggit.pdf, page 5>
-Package pdftex.def Info: lampiran/ahli-media-pakanggit.pdf , page5 used on input line 29.
-(pdftex.def)             Requested size: 597.78697pt x 773.60669pt.
-[83
-
- <./lampiran/ahli-media-pakanggit.pdf>]
-<lampiran/respons-peserta-didik.pdf, id=575, 597.432pt x 844.83629pt>
+<lampiran/respons-peserta-didik.pdf, id=573, 597.432pt x 844.83629pt>
 File: lampiran/respons-peserta-didik.pdf Graphic file (type pdf)
 <use lampiran/respons-peserta-didik.pdf>
-Package pdftex.def Info: lampiran/respons-peserta-didik.pdf  used on input line 33.
+Package pdftex.def Info: lampiran/respons-peserta-didik.pdf  used on input line 29.
 (pdftex.def)             Requested size: 597.43054pt x 844.83423pt.
 File: lampiran/respons-peserta-didik.pdf Graphic file (type pdf)
 <use lampiran/respons-peserta-didik.pdf>
-Package pdftex.def Info: lampiran/respons-peserta-didik.pdf  used on input line 33.
+Package pdftex.def Info: lampiran/respons-peserta-didik.pdf  used on input line 29.
 (pdftex.def)             Requested size: 597.43054pt x 844.83423pt.
-<lampiran/respons-peserta-didik.pdf, id=578, page=1, 597.432pt x 844.83629pt>
+<lampiran/respons-peserta-didik.pdf, id=576, page=1, 597.432pt x 844.83629pt>
 File: lampiran/respons-peserta-didik.pdf Graphic file (type pdf)
 <use lampiran/respons-peserta-didik.pdf, page 1>
-Package pdftex.def Info: lampiran/respons-peserta-didik.pdf , page1 used on input line 33.
+Package pdftex.def Info: lampiran/respons-peserta-didik.pdf , page1 used on input line 29.
 (pdftex.def)             Requested size: 597.43054pt x 844.83423pt.
 File: lampiran/respons-peserta-didik.pdf Graphic file (type pdf)
 <use lampiran/respons-peserta-didik.pdf, page 1>
-Package pdftex.def Info: lampiran/respons-peserta-didik.pdf , page1 used on input line 33.
+Package pdftex.def Info: lampiran/respons-peserta-didik.pdf , page1 used on input line 29.
 (pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
 File: lampiran/respons-peserta-didik.pdf Graphic file (type pdf)
 <use lampiran/respons-peserta-didik.pdf, page 1>
-Package pdftex.def Info: lampiran/respons-peserta-didik.pdf , page1 used on input line 33.
+Package pdftex.def Info: lampiran/respons-peserta-didik.pdf , page1 used on input line 29.
 (pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
 File: lampiran/respons-peserta-didik.pdf Graphic file (type pdf)
 <use lampiran/respons-peserta-didik.pdf, page 1>
-Package pdftex.def Info: lampiran/respons-peserta-didik.pdf , page1 used on input line 33.
+Package pdftex.def Info: lampiran/respons-peserta-didik.pdf , page1 used on input line 29.
 (pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
 File: lampiran/respons-peserta-didik.pdf Graphic file (type pdf)
 <use lampiran/respons-peserta-didik.pdf, page 1>
-Package pdftex.def Info: lampiran/respons-peserta-didik.pdf , page1 used on input line 33.
+Package pdftex.def Info: lampiran/respons-peserta-didik.pdf , page1 used on input line 29.
+(pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
+ [83
+
+ <./lampiran/respons-peserta-didik.pdf>]
+<lampiran/respons-peserta-didik.pdf, id=584, page=2, 597.432pt x 844.83629pt>
+File: lampiran/respons-peserta-didik.pdf Graphic file (type pdf)
+<use lampiran/respons-peserta-didik.pdf, page 2>
+Package pdftex.def Info: lampiran/respons-peserta-didik.pdf , page2 used on input line 29.
+(pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
+File: lampiran/respons-peserta-didik.pdf Graphic file (type pdf)
+<use lampiran/respons-peserta-didik.pdf, page 2>
+Package pdftex.def Info: lampiran/respons-peserta-didik.pdf , page2 used on input line 29.
+(pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
+File: lampiran/respons-peserta-didik.pdf Graphic file (type pdf)
+<use lampiran/respons-peserta-didik.pdf, page 2>
+Package pdftex.def Info: lampiran/respons-peserta-didik.pdf , page2 used on input line 29.
 (pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
  [84
 
  <./lampiran/respons-peserta-didik.pdf>]
-<lampiran/respons-peserta-didik.pdf, id=585, page=2, 597.432pt x 844.83629pt>
+<lampiran/respons-peserta-didik.pdf, id=590, page=3, 597.432pt x 844.83629pt>
 File: lampiran/respons-peserta-didik.pdf Graphic file (type pdf)
-<use lampiran/respons-peserta-didik.pdf, page 2>
-Package pdftex.def Info: lampiran/respons-peserta-didik.pdf , page2 used on input line 33.
+<use lampiran/respons-peserta-didik.pdf, page 3>
+Package pdftex.def Info: lampiran/respons-peserta-didik.pdf , page3 used on input line 29.
 (pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
 File: lampiran/respons-peserta-didik.pdf Graphic file (type pdf)
-<use lampiran/respons-peserta-didik.pdf, page 2>
-Package pdftex.def Info: lampiran/respons-peserta-didik.pdf , page2 used on input line 33.
+<use lampiran/respons-peserta-didik.pdf, page 3>
+Package pdftex.def Info: lampiran/respons-peserta-didik.pdf , page3 used on input line 29.
 (pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
 File: lampiran/respons-peserta-didik.pdf Graphic file (type pdf)
-<use lampiran/respons-peserta-didik.pdf, page 2>
-Package pdftex.def Info: lampiran/respons-peserta-didik.pdf , page2 used on input line 33.
+<use lampiran/respons-peserta-didik.pdf, page 3>
+Package pdftex.def Info: lampiran/respons-peserta-didik.pdf , page3 used on input line 29.
 (pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
  [85
 
  <./lampiran/respons-peserta-didik.pdf>]
-<lampiran/respons-peserta-didik.pdf, id=591, page=3, 597.432pt x 844.83629pt>
+<lampiran/respons-peserta-didik.pdf, id=596, page=4, 597.432pt x 844.83629pt>
 File: lampiran/respons-peserta-didik.pdf Graphic file (type pdf)
-<use lampiran/respons-peserta-didik.pdf, page 3>
-Package pdftex.def Info: lampiran/respons-peserta-didik.pdf , page3 used on input line 33.
+<use lampiran/respons-peserta-didik.pdf, page 4>
+Package pdftex.def Info: lampiran/respons-peserta-didik.pdf , page4 used on input line 29.
 (pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
 File: lampiran/respons-peserta-didik.pdf Graphic file (type pdf)
-<use lampiran/respons-peserta-didik.pdf, page 3>
-Package pdftex.def Info: lampiran/respons-peserta-didik.pdf , page3 used on input line 33.
+<use lampiran/respons-peserta-didik.pdf, page 4>
+Package pdftex.def Info: lampiran/respons-peserta-didik.pdf , page4 used on input line 29.
 (pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
 File: lampiran/respons-peserta-didik.pdf Graphic file (type pdf)
-<use lampiran/respons-peserta-didik.pdf, page 3>
-Package pdftex.def Info: lampiran/respons-peserta-didik.pdf , page3 used on input line 33.
+<use lampiran/respons-peserta-didik.pdf, page 4>
+Package pdftex.def Info: lampiran/respons-peserta-didik.pdf , page4 used on input line 29.
 (pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
  [86
 
  <./lampiran/respons-peserta-didik.pdf>]
-<lampiran/respons-peserta-didik.pdf, id=597, page=4, 597.432pt x 844.83629pt>
+<lampiran/respons-peserta-didik.pdf, id=602, page=5, 597.432pt x 844.83629pt>
 File: lampiran/respons-peserta-didik.pdf Graphic file (type pdf)
-<use lampiran/respons-peserta-didik.pdf, page 4>
-Package pdftex.def Info: lampiran/respons-peserta-didik.pdf , page4 used on input line 33.
+<use lampiran/respons-peserta-didik.pdf, page 5>
+Package pdftex.def Info: lampiran/respons-peserta-didik.pdf , page5 used on input line 29.
 (pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
 File: lampiran/respons-peserta-didik.pdf Graphic file (type pdf)
-<use lampiran/respons-peserta-didik.pdf, page 4>
-Package pdftex.def Info: lampiran/respons-peserta-didik.pdf , page4 used on input line 33.
+<use lampiran/respons-peserta-didik.pdf, page 5>
+Package pdftex.def Info: lampiran/respons-peserta-didik.pdf , page5 used on input line 29.
 (pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
 File: lampiran/respons-peserta-didik.pdf Graphic file (type pdf)
-<use lampiran/respons-peserta-didik.pdf, page 4>
-Package pdftex.def Info: lampiran/respons-peserta-didik.pdf , page4 used on input line 33.
+<use lampiran/respons-peserta-didik.pdf, page 5>
+Package pdftex.def Info: lampiran/respons-peserta-didik.pdf , page5 used on input line 29.
 (pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
  [87
 
  <./lampiran/respons-peserta-didik.pdf>]
-<lampiran/respons-peserta-didik.pdf, id=603, page=5, 597.432pt x 844.83629pt>
+<lampiran/respons-peserta-didik.pdf, id=608, page=6, 597.432pt x 844.83629pt>
 File: lampiran/respons-peserta-didik.pdf Graphic file (type pdf)
-<use lampiran/respons-peserta-didik.pdf, page 5>
-Package pdftex.def Info: lampiran/respons-peserta-didik.pdf , page5 used on input line 33.
+<use lampiran/respons-peserta-didik.pdf, page 6>
+Package pdftex.def Info: lampiran/respons-peserta-didik.pdf , page6 used on input line 29.
 (pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
 File: lampiran/respons-peserta-didik.pdf Graphic file (type pdf)
-<use lampiran/respons-peserta-didik.pdf, page 5>
-Package pdftex.def Info: lampiran/respons-peserta-didik.pdf , page5 used on input line 33.
+<use lampiran/respons-peserta-didik.pdf, page 6>
+Package pdftex.def Info: lampiran/respons-peserta-didik.pdf , page6 used on input line 29.
 (pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
 File: lampiran/respons-peserta-didik.pdf Graphic file (type pdf)
-<use lampiran/respons-peserta-didik.pdf, page 5>
-Package pdftex.def Info: lampiran/respons-peserta-didik.pdf , page5 used on input line 33.
+<use lampiran/respons-peserta-didik.pdf, page 6>
+Package pdftex.def Info: lampiran/respons-peserta-didik.pdf , page6 used on input line 29.
 (pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
  [88
 
  <./lampiran/respons-peserta-didik.pdf>]
-<lampiran/respons-peserta-didik.pdf, id=609, page=6, 597.432pt x 844.83629pt>
+<lampiran/respons-peserta-didik.pdf, id=614, page=7, 597.432pt x 844.83629pt>
 File: lampiran/respons-peserta-didik.pdf Graphic file (type pdf)
-<use lampiran/respons-peserta-didik.pdf, page 6>
-Package pdftex.def Info: lampiran/respons-peserta-didik.pdf , page6 used on input line 33.
+<use lampiran/respons-peserta-didik.pdf, page 7>
+Package pdftex.def Info: lampiran/respons-peserta-didik.pdf , page7 used on input line 29.
 (pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
 File: lampiran/respons-peserta-didik.pdf Graphic file (type pdf)
-<use lampiran/respons-peserta-didik.pdf, page 6>
-Package pdftex.def Info: lampiran/respons-peserta-didik.pdf , page6 used on input line 33.
+<use lampiran/respons-peserta-didik.pdf, page 7>
+Package pdftex.def Info: lampiran/respons-peserta-didik.pdf , page7 used on input line 29.
 (pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
 File: lampiran/respons-peserta-didik.pdf Graphic file (type pdf)
-<use lampiran/respons-peserta-didik.pdf, page 6>
-Package pdftex.def Info: lampiran/respons-peserta-didik.pdf , page6 used on input line 33.
+<use lampiran/respons-peserta-didik.pdf, page 7>
+Package pdftex.def Info: lampiran/respons-peserta-didik.pdf , page7 used on input line 29.
 (pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
  [89
 
  <./lampiran/respons-peserta-didik.pdf>]
-<lampiran/respons-peserta-didik.pdf, id=616, page=7, 597.432pt x 844.83629pt>
+<lampiran/respons-peserta-didik.pdf, id=621, page=8, 597.432pt x 844.83629pt>
 File: lampiran/respons-peserta-didik.pdf Graphic file (type pdf)
-<use lampiran/respons-peserta-didik.pdf, page 7>
-Package pdftex.def Info: lampiran/respons-peserta-didik.pdf , page7 used on input line 33.
+<use lampiran/respons-peserta-didik.pdf, page 8>
+Package pdftex.def Info: lampiran/respons-peserta-didik.pdf , page8 used on input line 29.
 (pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
 File: lampiran/respons-peserta-didik.pdf Graphic file (type pdf)
-<use lampiran/respons-peserta-didik.pdf, page 7>
-Package pdftex.def Info: lampiran/respons-peserta-didik.pdf , page7 used on input line 33.
+<use lampiran/respons-peserta-didik.pdf, page 8>
+Package pdftex.def Info: lampiran/respons-peserta-didik.pdf , page8 used on input line 29.
 (pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
 File: lampiran/respons-peserta-didik.pdf Graphic file (type pdf)
-<use lampiran/respons-peserta-didik.pdf, page 7>
-Package pdftex.def Info: lampiran/respons-peserta-didik.pdf , page7 used on input line 33.
+<use lampiran/respons-peserta-didik.pdf, page 8>
+Package pdftex.def Info: lampiran/respons-peserta-didik.pdf , page8 used on input line 29.
 (pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
  [90
 
  <./lampiran/respons-peserta-didik.pdf>]
-<lampiran/respons-peserta-didik.pdf, id=622, page=8, 597.432pt x 844.83629pt>
+<lampiran/respons-peserta-didik.pdf, id=627, page=9, 597.432pt x 844.83629pt>
 File: lampiran/respons-peserta-didik.pdf Graphic file (type pdf)
-<use lampiran/respons-peserta-didik.pdf, page 8>
-Package pdftex.def Info: lampiran/respons-peserta-didik.pdf , page8 used on input line 33.
+<use lampiran/respons-peserta-didik.pdf, page 9>
+Package pdftex.def Info: lampiran/respons-peserta-didik.pdf , page9 used on input line 29.
 (pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
 File: lampiran/respons-peserta-didik.pdf Graphic file (type pdf)
-<use lampiran/respons-peserta-didik.pdf, page 8>
-Package pdftex.def Info: lampiran/respons-peserta-didik.pdf , page8 used on input line 33.
+<use lampiran/respons-peserta-didik.pdf, page 9>
+Package pdftex.def Info: lampiran/respons-peserta-didik.pdf , page9 used on input line 29.
 (pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
 File: lampiran/respons-peserta-didik.pdf Graphic file (type pdf)
-<use lampiran/respons-peserta-didik.pdf, page 8>
-Package pdftex.def Info: lampiran/respons-peserta-didik.pdf , page8 used on input line 33.
+<use lampiran/respons-peserta-didik.pdf, page 9>
+Package pdftex.def Info: lampiran/respons-peserta-didik.pdf , page9 used on input line 29.
 (pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
  [91
 
- <./lampiran/respons-peserta-didik.pdf>]
-<lampiran/respons-peserta-didik.pdf, id=628, page=9, 597.432pt x 844.83629pt>
-File: lampiran/respons-peserta-didik.pdf Graphic file (type pdf)
-<use lampiran/respons-peserta-didik.pdf, page 9>
-Package pdftex.def Info: lampiran/respons-peserta-didik.pdf , page9 used on input line 33.
-(pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
-File: lampiran/respons-peserta-didik.pdf Graphic file (type pdf)
-<use lampiran/respons-peserta-didik.pdf, page 9>
-Package pdftex.def Info: lampiran/respons-peserta-didik.pdf , page9 used on input line 33.
-(pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
-File: lampiran/respons-peserta-didik.pdf Graphic file (type pdf)
-<use lampiran/respons-peserta-didik.pdf, page 9>
-Package pdftex.def Info: lampiran/respons-peserta-didik.pdf , page9 used on input line 33.
-(pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
- [92
+ <./lampiran/respons-peserta-didik.pdf>] (./bab/surat_validasi.tex) (./bab/wawancara.tex [92]
+Overfull \hbox (55.26392pt too wide) in alignment at lines 24--44
+ [] [] [] 
+ []
 
- <./lampiran/respons-peserta-didik.pdf>] (./skripsi.aux)
+[93]) [94]) (./skripsi.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
- ) ) 
+ ) 
 Here is how much of TeX's memory you used:
- 22236 strings out of 474222
- 435344 string characters out of 5748733
+ 22436 strings out of 474222
+ 438493 string characters out of 5748733
  1940975 words of memory out of 5000000
- 43668 multiletter control sequences out of 15000+600000
- 629037 words of font info for 333 fonts, out of 8000000 for 9000
+ 43841 multiletter control sequences out of 15000+600000
+ 633993 words of font info for 344 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,17n,93p,1855b,772s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1200.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/symbol/usyr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on skripsi.pdf (106 pages, 25763631 bytes).
+Output written on skripsi.pdf (108 pages, 26490584 bytes).
 PDF statistics:
- 678 PDF objects out of 1000 (max. 8388607)
- 339 compressed objects within 4 object streams
+ 686 PDF objects out of 1000 (max. 8388607)
+ 343 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 500000)
- 66044 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 72198 words of extra memory for PDF output out of 74296 (max. 10000000)
 
