@@ -66,12 +66,10 @@
 \pagenumbering{roman}
 \setcounter{page}{1}
 \input{bab/halaman_judul.tex}
+\newpage
 \thispagestyle{empty}
-\newpage
-\pagewithlogobackground
-\input{bab/persetujuan.tex}
-\clearlogobackground
-\newpage
+\addcontentsline{toc}{chapter}{LEMBAR PERSETUJUAN}
+\includepdf[pages=-, pagecommand={\thispagestyle{fancy}}]{awal/persetujuan.pdf}
 \pagewithlogobackground
 \input{bab/pengesahan.tex}
 \clearlogobackground
@@ -80,18 +78,18 @@
 \newpage
 \input{bab/kata_pengantar.tex}
 \newpage
-% \input{bab/persembahan.tex}
-% \newpage
+\input{bab/persembahan.tex}
+\newpage
 \thispagestyle{empty}
 \input{bab/halaman_motto.tex}
 \newpage
-\addcontentsline{toc}{chapter}{DAFTAR ISI}
+% \addcontentsline{toc}{chapter}{DAFTAR ISI}
 \tableofcontents
 \newpage
-\addcontentsline{toc}{chapter}{DAFTAR GAMBAR}
+% \addcontentsline{toc}{chapter}{DAFTAR GAMBAR}
 \listoffigures
 \newpage
-\addcontentsline{toc}{chapter}{DAFTAR TABEL}
+% \addcontentsline{toc}{chapter}{DAFTAR TABEL}
 \listoftables
 \newpage
 \input{bab/abstrak.tex}

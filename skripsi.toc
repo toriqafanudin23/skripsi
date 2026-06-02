@@ -1,12 +1,8 @@
-\contentsline {chapter}{HALAMAN JUDUL}{i}{}%
-\contentsline {chapter}{HALAMAN PERSETUJUAN}{ii}{}%
+\contentsline {chapter}{LEMBAR PERSETUJUAN}{ii}{}%
+\contentsline {chapter}{LEMBAR PENGESAHAN}{iii}{}%
 \contentsline {chapter}{SURAT PERNYATAAN KEASLIAN}{iv}{}%
 \contentsline {chapter}{KATA PENGANTAR}{v}{}%
-\contentsline {chapter}{HALAMAN MOTTO}{vii}{}%
-\contentsline {chapter}{DAFTAR ISI}{viii}{}%
-\contentsline {chapter}{DAFTAR GAMBAR}{x}{}%
-\contentsline {chapter}{DAFTAR TABEL}{xii}{}%
-\contentsline {chapter}{ABSTRAK}{xiii}{}%
+\contentsline {chapter}{ABSTRAK}{xiv}{}%
 \contentsline {chapter}{BAB I. PENDAHULUAN}{1}{}%
 \contentsline {section}{A. Latar Belakang}{1}{}%
 \contentsline {section}{B. Identifikasi Masalah}{3}{}%
